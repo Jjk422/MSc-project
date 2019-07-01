@@ -1,0 +1,477 @@
+4.6 OPERATIONAL ACTIVITIES OF
+PROCESSES COVERED IN OTHER LIFECYCLE
+PHASES
+4.6.1 Change Management
+Change Management is primarily covered in the Service
+Transition publication, but there are some aspects of
+Change Management which Service Operation staff will be
+involved with on a day-to-day basis. These include:
+¦ Raising and submitting RFCs as needed to address
+Service Operation issues
+¦ Participating in CAB or CAB/EC meetings to ensure
+that Service Operation risks, issues and views are taken
+into account
+¦ Implementing changes as directed by Change
+Management where they involve Service Operation
+component or services
+¦ Backing out changes as directed by Change
+Management where they involve Service Operation
+component or services
+¦ Helping define and maintain change models relating
+to Service Operation components or services
+¦ Receiving change schedules and ensuring that all
+Service Operation staff are made aware of and
+prepared for all relevant changes
+¦ Using the Change Management process for standard,
+operational-type changes.
+4.6.2 Configuration Management
+Configuration Management is primarily covered in the
+Service Transition publication, but there are some aspects
+of Configuration Management which Service Operation
+staff will be involved with on a day-to-day basis. These
+include:
+¦ Informing Configuration Management of any
+discrepancies found between any CIs and the CMS
+¦ Making any amendments necessary to correct any
+discrepancies, under the authority of Configuration
+Management, where they involve any Service
+Operation components or services.
+Responsibility for updating the CMS remains with
+Configuration Management, but in some cases Operations
+staff might be asked, under the direction of Configuration
+Management, to update relationships, or even to add new
+CIs or mark CIs as ‘disposed’ in the CMS, if these updates
+are related to operational activities actually performed by
+Operations staff.
+4.6.3 Release and Deployment Management
+Release and Deployment Management is primarily covered
+in the Service Transition publication, but there are some
+aspects of this process which Service Operation staff will
+be involved with on a day-to-day basis. These may
+include:
+¦ Actual implementation actions regarding the
+deployment of new releases, under the direction of
+Release and Deployment Management, where they
+relate to Service Operation components or services
+¦ Participation in the planning stages of major new
+releases to advise on Service Operation issues
+¦ The physical handling of CIs from/to the DML as
+required to fulfil their operational roles – while
+adhering to relevant Release and Deployment
+Management procedures, such as ensure that all items
+are properly booked out and back in.
+4.6.4 Capacity Management
+Capacity Management should operate at three levels:
+Business Capacity Management, Service Capacity
+Management and Component Capacity Management.
+¦ Business Capacity Management involves working
+with the business to plan and anticipate both longerterm strategic issues and shorter-term tactical
+initiatives that are likely to have an impact on IT
+capacity.
+¦ Service Capacity Management is about
+understanding the characteristics of each of the IT
+services, and then the demands that different types
+of users or transactions have on the underlying
+infrastructure – and how these vary over time and
+might be impacted by business change.
+¦ Component Capacity Management involves
+understanding the performance characteristics and
+capabilities and current utilization levels of all the
+technical components (CIs) that make up the IT
+Infrastructure, and predicting the impact of any
+changes or trends.
+Many of these activities are of a strategic or longer-term
+planning nature and are covered in the Service Strategy,
+Service Design and Service Transition publications.
+However, there are a number of operational Capacity
+Management activities that must be performed on a
+regular ongoing basis as part of Service Operation. These
+include the following.
+4.6.4.1 Capacity and Performance Monitoring
+All components of the IT Infrastructure should be
+continually monitored (in conjunction with Event
+Management) so that any potential problems or trends
+can be identified before failures or performance
+degradation occurs. Ideally, such monitoring should be
+automated and thresholds should be set so that exception
+alerts are raised in good time to allow appropriate
+avoiding or recovery action to be taken before adverse
+impact occurs.
+The components and elements to be monitored will vary
+depending upon the infrastructure in use, but will typically
+include:
+¦ CPU utilization (overall and broken down by
+system/service usage)
+¦ Memory utilization
+¦ IO rates (physical and buffer) and device utilization
+¦ Queue length (maximum and average)
+¦ File store utilization (disks, partitions, segments)
+¦ Applications (throughput rates, failure rates)
+¦ Databases (utilization, record locks, indexing,
+contention)
+¦ Network transaction rates, error and retry rates
+¦ Transaction response time
+¦ Batch duration profiles
+¦ Internet/intranet site/page hit rates
+¦ Internet response times (external and internal to
+firewalls)
+¦ Number of system/application log-ons and concurrent
+users
+¦ Number of network nodes in use, and utilization
+levels.
+There are different kinds of monitoring tools needed to
+collect and interpret data at each level. For example, some
+tools will allow performance of business transactions to be
+monitored, while others will monitor CI behaviour.
+Capacity Management must set up and calibrate alarm
+thresholds (where necessary in conjunction with Event
+Management, as it is often Event Monitoring tools that
+may be used) so that the correct alert levels are set and
+that any filtering is established as necessary so that only
+meaningful events are raised. Without such filtering it is
+possible that ‘information only’ alerts can obscure more
+significant alerts that require immediate attention. In
+addition, it is possible for serious failures to cause ‘alert
+storms’ due to very high volumes of repeat alerts, which
+again must be filtered so that the most meaningful
+messages are not obscured.
+It may be appropriate to use external, third-party,
+monitoring capabilities for some CIs or components of
+the IT Infrastructure (e.g. key internet sites/pages).
+Capacity Management should be involved in helping
+specify and select any such monitoring capabilities and
+in integrating the results or any alerts with other
+monitoring and handling systems.
+Capacity Management must work with all appropriate
+support groups to make decisions on where alarms are
+routed and on escalation paths and timescales. Alerts
+should be logged to the Service Desk as well as to
+appropriate support staff, so that appropriate Incident
+Records can be raised so a permanent record of the event
+exists – and Service Desk staff have a view of how well the
+support group(s) are dealing with the fault and can
+intervene if necessary.
+Manufacturers’ claimed performance capabilities and
+agreed service level targets, together with actual historical
+monitored performance and capacity data, should be used
+to set alert levels. This may need to be an iterative process
+initially, performing some trial-and-error adjustments until
+the correct levels are achieved.
+Note: Capacity Management may have to become
+involved in the capacity requirements and capabilities of IT
+Service Management. Whether the organization has
+enough Service Desk staff to handle the rate of incidents;
+whether the CAB structure can handle the number of
+changes it is being asked to review and approve; whether
+support tools can handle the volume of data being
+gathered are Capacity Management issues, which the
+Capacity Management team may be asked to help
+investigate and answer.
+4.6.4.2 Handling capacity- or performancerelated incidents
+If an alert is triggered, or an incident is raised at the
+Service Desk, caused by a current or ongoing Capacity or
+Performance Management problem, Capacity Management
+must become involved to identify the cause and find a
+resolution. Working together with appropriate technical
+support groups, and alongside Problem Management, all
+necessary investigations must be performed to detect
+exactly what has gone wrong and what is needed to
+correct the situation.
+It may be necessary to switch to more detailed monitoring
+during the investigation phase to determine the exact
+cause. Monitoring is often set at a ‘background’ level
+during normal circumstances due to the large amount of
+data that can be generated and to avoid placing too high
+a burden on the IT Infrastructure – but when specific
+difficulties are being investigated more detailed
+monitoring may be needed to pinpoint the exact cause.
+When a solution, or potential solution, has been found,
+any changes necessary to resolve the problem must be
+approved via formal Change Management prior to
+implementation. If the fault is causing serious disruption
+and an urgent resolution is needed, the urgent change
+process should be used. It is very important that no
+‘tuning’ takes place without submission through Change
+Management, as even apparently small adjustments can
+often have very large cumulative effects – sometimes
+across the entire IT Infrastructure.
+4.6.4.3 Capacity and performance trends
+Capacity Management has a role to play in identifying any
+capacity or performance trends as they become
+discernible. Further details of actions needed to address
+such trends are included in the Continual Service
+Improvement publication.
+4.6.4.4 Storage of Capacity Management data
+Large amounts of data are usually generated through
+capacity and performance monitoring. Monitoring of
+meters and tables of just a few Kbytes each can quickly
+grown into huge files if many components are being
+monitored at relatively short intervals. Another problem
+with very short-term monitoring is that it is not possible to
+gather meaningful information without looking over a
+longer period. For example, a single snapshot of a CPU
+will show the device to be either ‘busy’ or ‘idle’ – but a
+summary over, say, a 5-minute period will show the
+average utilization level over that period, which is a much
+more meaningful measure of whether the device is able to
+work comfortably, or whether potential performance
+problems are likely to occur.
+In any organization it is likely that the monitoring tools
+used will vary greatly – with a combination of systemspecific tools, many of them part of the basic operating
+system, and specialist monitoring tools being used. In
+order to coordinate the data being generated and allow
+the retention of meaningful data for analysis and trending
+purposes, some form of central repository for holding
+this summary data is needed: a Capacity Management
+Information System (CMIS).
+The format, location and design of such a database should
+be planned and implemented in advance – see the Service
+Design publication for further details – but there will be
+some operational aspects to handle, such as database
+housekeeping and backups.
+4.6.4.5 Demand Management
+Demand Management is the name given to a number of
+techniques that can be used to modify demand for a
+particular resource or service. Some techniques for
+Demand Management can be planned in advance – and
+these are covered in more detail in the Service Design
+publication. However, there are other aspects of Demand
+Management that are of a more operational nature,
+requiring shorter-term action.
+If, for example, the performance of a particular service is
+causing concern, and short-term restrictions on
+concurrency of users are needed to allow performance
+improvements for a smaller restricted group, then Service
+Operation functions will have to take action to implement
+such restrictions – usually accompanied by concurrent
+action to implement the logging-out of users who have
+been inactive for an agreed period of time to free up
+resources for others.
+4.6.4.6 Workload Management
+There may be occasions when optimization of
+infrastructure resources is needed to maintain or improve
+performance or throughput. This can often be done
+through Workload Management, which is a generic term
+to cover such actions as:
+¦ Rescheduling a particular service or workload to run at
+a different time of day, or day of the week etc.
+(usually away from peak-times to off-peak windows) –
+which will often mean having to make adjustments to
+job-scheduling software.
+¦ Moving a service or workload from one location or set
+of CIs to another – often to balance utilization or
+traffic.
+¦ Technical Virtualization: setting up and using
+virtualization systems to allow movement of
+processing around the infrastructure to give better
+performance/resilience in a dynamic fashion.
+¦ Limiting or moving demand for resources through
+Demand Management techniques (see above and also
+the Service Design publication).
+It will only be possible to manage workloads effectively if
+a good understanding exists of which workloads will run
+at what time and how much resource utilization each
+workload places upon the IT Infrastructure. Diligent
+monitoring and analysis of workloads is therefore needed
+on an ongoing operational basis.
+4.6.4.7 Modelling and applications sizing
+Modelling and/or sizing of new services and/or
+applications must, where appropriate, be done during the
+planning and transition phases – see the Service Design
+and Service Transition publications. However, the Service
+Operation functions have a role to play in evaluating the
+accuracy of the predictions and feeding back any issues or
+discrepancies.
+4.6.4.8 Capacity Planning
+During Service Design and Service Transition, the capacity
+requirements of IT services are calculated. A forwardlooking capacity plan should be maintained and regularly
+updated and Service Operation will have a role to play in
+this. Such a plan should look forward up to two years or
+more, but should be reviewed regularly every three to 12
+months, depending upon volatility and resources available.
+The plan should be linked to the organization’s financial
+planning cycle, so that any required expenditure for
+infrastructure upgrades, enhancements or additions can be
+included in budget estimates and approved in advance.
+The plan should predict the future but must also examine
+and report upon previous predictions, particularly to give
+some confidence in further predictions. Where any
+discrepancies have been encountered, these should be
+explained and future remedial action described.
+The Capacity Plan might typically cover:
+¦ Current performance and utilization details, with
+recent trends for all key CIs, including
+? Backbone networks
+? LANs
+? Mainframes (if still used)
+? Key servers
+? Main data storage devices
+? Selected (representative) desktop and laptop
+equipment
+? Key websites
+? Key databases
+? Key applications
+? Operational capacity – electricity, floor space,
+environmental capacity (air condition), floor
+weighting, heat generation and output, electrical
+and water demand and supply etc.
+? Magnetic media.
+¦ Estimated performance and utilization for all such CIs
+during the planning period (e.g. the next three
+months)
+¦ Comparative data with previous estimates – to allow
+confidence in future estimates to be judged
+¦ Reports on any specific capacity difficulties
+encountered in the past period, with details of
+recovery and preventive actions taken for the future
+¦ Details of any required upgrades or procurements
+needed and planned for the future, with indicative
+costs and timescales.
+¦ Any potential capacity risks that are likely – with
+suggested countermeasures should they arise.
+4.6.5 Availability Management
+During Service Design and Service Transition, IT services
+are designed for availability and recovery. Service
+Operation is responsible for actually making the IT service
+available to the specified users at the required time and at
+the agreed levels.
+During Service Operation the IT teams and users are in the
+best position to detect whether services actually meet the
+agreed requirements and whether the design of these
+services is effective.
+What seems like a good idea during the Design phase
+may not actually be practical or optimal. The experience of
+the users and operational functions makes them a primary
+input into the ongoing improvement of existing services
+and the design.
+However, there are a number of challenges with gaining
+access to this knowledge:
+¦ Most of the experiences of the operational teams and
+users are either informal, or spread across multiple
+sources.
+¦ The process for collecting and collating this data
+needs to be formalized.
+¦ Users and operational staff are usually fully occupied
+with their regular activities and tasks and it is very
+difficult for them to be involved in regular planning
+and design activities. One argument often made here
+is that if design is improved, the operational teams
+will be less busy resolving problems and will therefore
+have more time to be involved in design activities.
+However, practice shows that as soon as staff are freed
+up, they often become the target of workforce
+reduction exercises.
+Having said this, there are three key opportunities for
+operational staff to be involved in Availability
+Improvement, since these are generally viewed as part of
+their ongoing responsibility:
+¦ Review of maintenance activities. Service Design
+will define detailed maintenance schedules and
+activities, which are required to keep IT services
+functioning at the required level of performance and
+availability. Regular comparison of actual maintenance
+activities and times with the plans will highlight
+potential areas for improvement. One of the sources of
+this information is a review of whether Service
+Maintenance Objectives were met and, if not, why not.
+¦ Major problem reviews. Problems could be the result
+of any number of factors, one of which is poor design.
+Problem reviews therefore may include opportunities
+to identify improvements to the design of IT services,
+which will include availability and capacity
+improvement.
+¦ Involvement in specific initiatives using techniques
+such as Service Failure Analysis (SFA), Component
+Failure Impact Analysis (CFIA), or Fault Tree Analysis
+(FTA) or as members of Technical Observation (TO)
+activities – either as part of the follow-up to major
+problems or as part of an ongoing Service
+Improvement Plan, in collaboration with dedicated
+Availability Management staff. These Availability
+Management techniques are explained in more detail
+in the Service Design publication.
+There may be occasions when Operational Staff
+themselves need downtime of one or more services to
+enable them to conduct their operational or maintenance
+activities – which may impact on availability if not
+properly scheduled and managed. In such cases they must
+liaise with SLM and Availability Management staff – who
+will negotiate with the business/users, often using the
+Service Desk to perform this role, to agree and schedule
+such activities.
+4.6.6 Knowledge Management
+It is vitally important that all data and information that can
+be useful for future Service Operation activities are
+properly gathered, stored and assessed. Relevant data,
+metrics and information should be passed up on the
+management chain and to other Service Lifecycle phases
+so that it can feed into the knowledge and wisdom layers
+of the organization’s Service Knowledge Management
+System, the structures of which have to be defined in
+Service Strategy and Service Design and refined in
+Continual Service Improvement (see other ITIL publications
+in this series).
+Key repositories of Service Operation, which have been
+frequently mentioned elsewhere, are the CMS and the
+KEDB, but this must be widened out to include all of the
+Service Operation teams’ and departments’
+documentation, such as operations manuals, procedures
+manuals, work instructions, etc.
+4.6.7 Financial Management for IT services
+Service Operation staff must participate in and support the
+overall IT budgeting and accounting system – and may
+be actively involved in any charging system that may be
+in place.
+Proper planning is necessary so that capital expenditure
+(Capex) and operational expenditure (Opex) budget
+estimates can be prepared and agreed in good time to
+meet the budgetary cycles.
+The Service Operation Manager must also be involved in
+regular, at least monthly, reviews of expenditure against
+budgets – as part of the ongoing IT budgeting and
+accounting process. Any discrepancies must be identified
+and necessary adjustments made. All committed
+expenditure must go through the organization’s purchase
+order system so that commitments can be accrued and
+proper checks must be made on all goods received so that
+invoices and payments can be correctly authorized – or
+discrepancies investigated and rectified.
+It should be noted that some proposed cost reductions by
+the business may actually increase IT costs, or at least unit
+costs. Care should therefore be taken to ensure that IT is
+involved in discussing all cost-saving measures and
+contribute to overall decisions. Financial Management is
+covered in detail in the Service Strategy publication.
+4.6.8 IT Service Continuity Management
+Service Operation functions are responsible for the testing
+and execution of system and service recovery plans as
+determined in the IT Service Continuity plans for the
+organization. In addition, managers of all Service
+Operation functions must be on the Business Continuity
+Central Coordination team.
+This is discussed in detail in Service Strategy and Service
+Design and will not be repeated here, except to indicate
+that it is important that Service Operation functions must
+be involved in the following areas:
+¦ Risk assessment, using its knowledge of the
+infrastructure and techniques such as CFIA and access
+to information in the CMS to identify single points of
+failure or other high-risk situations
+¦ Execution of any Risk Management measures that are
+agreed, e.g. implementation of countermeasures, or
+increased resilience to components of the
+infrastructures, etc.
+¦ Assistance in writing the actual recovery plans for
+systems and services under its control
+¦ Participation in testing of the plans (such as
+involvement in off-site testing, simulations etc) on an
+ongoing basis under the direction of the IT Service
+Continuity Manager (ITSCM)
+¦ Ongoing maintenance of the plans under the control
+of ITSCM and Change Management
+¦ Participation in training and awareness campaigns to
+ensure that they are able to execute the plans and
+understand their roles in a disaster
+¦ The Service Desk will play a key role in
+communicating with staff, customers and users during
+an actual disaster.

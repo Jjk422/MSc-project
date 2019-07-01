@@ -1,0 +1,100 @@
+Service Operation processes
+processes
+processes
+roles
+process
+tools
+process
+Event Management
+process
+events
+IT infrastructure
+operation
+conditions
+Incident Management
+service
+users
+business impact
+Problem management
+analysis
+events
+incidents
+activities
+problems
+incidents
+subprocess
+incidents
+incidents
+problems
+Incident and Problem Records
+incidents
+support cycle
+incidents
+user's
+service
+SLA
+user's
+expectations
+incidents
+issues
+Request Fulfilment
+customer
+user
+requests
+incident
+service
+organizations
+incidents
+Incident Management system
+Request Fulfilment capabilities
+Request Fulfilment process
+practice
+Request Fulfilment process
+customer
+user
+requests
+requests
+facilities
+moves
+supplies
+IT services
+requests
+SLA
+measures
+records
+process flow
+best practice
+organizations
+Access Management
+users
+service
+access
+users
+users
+services
+human resources
+HR
+contractual lifecycle
+Access Management
+Identity Management
+Rights Management
+processes
+Service Operation
+phases
+Service Management Lifecycle
+processes
+Change Management
+process
+Configuration Management
+Releease Management
+Service Transition
+Capacity and Availability Management
+Service Design
+Financial Management
+Service Strategy publication
+Knowledge Management
+Service Transition publication
+IT Service Continuity
+Service Design
+Service Reporting and Measurement
+Continual Service Improvement

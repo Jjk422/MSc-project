@@ -1,0 +1,584 @@
+4.4 PROBLEM MANAGEMENT
+ITIL defines a ‘problem’ as the unknown cause of one or
+more incidents.
+4.4.1 Purpose/goal/objective
+Problem Management is the process responsible for
+managing the lifecycle of all problems. The primary
+objectives of Problem Management are to prevent
+problems and resulting incidents from happening, to
+eliminate recurring incidents and to minimize the impact
+of incidents that cannot be prevented.
+4.4.2 Scope
+Problem Management includes the activities required to
+diagnose the root cause of incidents and to determine the
+resolution to those problems. It is also responsible for
+ensuring that the resolution is implemented through the
+appropriate control procedures, especially Change
+Management and Release Management.
+Problem Management will also maintain information
+about problems and the appropriate workarounds and
+resolutions, so that the organization is able to reduce the
+number and impact of incidents over time. In this respect,
+Problem Management has a strong interface with
+Knowledge Management, and tools such as the Known
+Error Database will be used for both.
+Although Incident and Problem Management are separate
+processes, they are closely related and will typically use
+the same tools, and may use similar categorization, impact
+and priority coding systems. This will ensure effective
+communication when dealing with related incidents and
+problems.
+4.4.3 Value to business
+Problem Management works together with Incident
+Management and Change Management to ensure that IT
+service availability and quality are increased. When
+incidents are resolved, information about the resolution is
+recorded. Over time, this information is used to speed up
+the resolution time and identify permanent solutions,
+reducing the number and resolution time of incidents. This
+results in less downtime and less disruption to business
+critical systems.
+Additional value is derived from the following:
+¦ Higher availability of IT services
+¦ Higher productivity of business and IT staff
+¦ Reduced expenditure on workarounds or fixes that do
+not work
+¦ Reduction in cost of effort in fire-fighting or resolving
+repeat incidents.
+4.4.4 Policies/principles/basic concepts
+There are some important concepts of Problem
+Management that must be taken into account from the
+outset. These include:
+4.4.4.1 Problem Models
+Many problems will be unique and will require handling in
+an individual way – but it is conceivable that some
+incidents may recur because of dormant or underlying
+problems (for example, where the cost of a permanent
+resolution will be high and a decision has been taken not
+to go ahead with an expensive solution – but to ‘live with’
+the problem).
+As well as creating a Known Error Record in the Known
+Error Database (see paragraph 4.4.5.7) to ensure quicker
+diagnosis, the creation of a Problem Model for handling
+such problems in the future may be helpful. This is very
+similar in concept to the idea of Incident Models already
+described in paragraph 4.2.4.2, but applied to problems as
+well as incidents.
+4.4.5 Process activities, methods and
+techniques
+Problem Management consists of two major processes:
+¦ Reactive Problem Management, which is generally
+executed as part of Service Operation – and is
+therefore covered in this publication
+¦ Proactive Problem Management which is initiated in
+Service Operation, but generally driven as part of
+Continual Service Improvement (see this publication
+for fuller details).
+The reactive Problem Management process is shown in
+Figure 4.4. This is a simplified chart to show the normal
+process flow, but in reality some of the states may be
+iterative or variations may have to be made in order to
+handle particular situations.
+4.4.5.1 Problem detection
+It is likely that multiple ways of detecting problems will
+exist in all organizations. These will include:
+¦ Suspicion or detection of an unknown cause of one or
+more incidents by the Service Desk, resulting in a
+Problem Record being raised – the desk may have
+resolved the incident but has not determined a
+definitive cause and suspects that it is likely to recur,
+so will raise a Problem Record to allow the underlying
+cause to be resolved. Alternatively, it may be
+immediately obvious from the outset that an incident,
+or incidents, has been caused by a major problem, so
+a Problem Record will be raised without delay.
+¦ Analysis of an incident by a technical support group
+which reveals that an underlying problem exists, or is
+likely to exist.
+¦ Automated detection of an infrastructure or
+application fault, using event/alert tools automatically
+to raise an incident which may reveal the need for a
+Problem Record.
+¦ A notification from a supplier or contractor that a
+problem exists that has to be resolved.
+¦ Analysis of incidents as part of proactive Problem
+Management – resulting in the need to raise a
+Problem Record so that the underlying fault can be
+investigated further.
+Frequent and regular analysis of incident and problem
+data must be performed to identify any trends as they
+become discernible. This will require meaningful and
+detailed categorization of incidents/problems and regular
+reporting of patterns and areas of high occurrence. ‘Top
+ten’ reporting, with drill-down capabilities to lower levels,
+is useful in identifying trends.
+Further details of how detected trends should be handled
+are included in the Continual Service Improvement
+publication.
+4.4.5.2 Problem logging
+Regardless of the detection method, all the relevant details
+of the problem must be recorded so that a full historic
+record exists. This must be date and time stamped to
+allow suitable control and escalation.
+A cross-reference must be made to the incident(s) which
+initiated the Problem Record – and all relevant details
+must be copied from the Incident Record(s) to the
+Problem Record. It is difficult to be exact, as cases may
+vary, but typically this will include details such as:
+¦ User details
+¦ Service details
+¦ Equipment details
+¦ Date/time initially logged
+¦ Priority and categorization details
+¦ Incident description
+¦ Details of all diagnostic or attempted recovery
+actions taken.
+4.4.5.3 Problem Categorization
+Problems must be categorized in the same way as
+incidents (and it is advisable to use the same coding
+system) so that the true nature of the problem can be
+easily traced in the future and meaningful management
+information can be obtained.
+4.4.5.4 Problem Prioritization
+Problems must be prioritized in the same way and for the
+same reasons as incidents – but the frequency and impact
+of related incidents must also be taken into account. The
+coding system described earlier in Table 4.1 (which
+combines impact with urgency to give an overall priority
+level) can be used to prioritize problems in the same way
+that it might be used for incidents, though the definitions
+and guidance to support staff on what constitutes a
+problem, and the related service targets at each level,
+must obviously be devised separately.
+Problem prioritization should also take into account the
+severity of the problems. Severity in this context refers to
+how serious the problem is from an infrastructure
+perspective, for example:
+¦ Can the system be recovered, or does it need to be
+replaced?
+¦ How much will it cost?
+¦ How many people, with what skills, will be needed to
+fix the problem?
+¦ How long will it take to fix the problem?
+¦ How extensive is the problem (e.g. how many CIs are
+affected)?
+4.4.5.5 Problem Investigation and Diagnosis
+An investigation should be conducted to try to diagnose
+the root cause of the problem – the speed and nature of
+this investigation will vary depending upon the impact,
+severity and urgency of the problem – but the appropriate
+level of resources and expertise should be applied to
+finding a resolution commensurate with the priority
+code allocated and the service target in place for that
+priority level.
+There are a number of useful problem solving techniques
+that can be used to help diagnose and resolve problems –
+and these should be used as appropriate. Such techniques
+are described in more detail later in this section.
+The CMS must be used to help determine the level of
+impact and to assist in pinpointing and diagnosing the
+exact point of failure. The Know Error Database (KEDB)
+should also be accessed and problem-matching
+techniques (such as key word searches) should be used to
+see if the problem has occurred before and, if so, to find
+the resolution.
+It is often valuable to try to recreate the failure, so as to
+understand what has gone wrong, and then to try various
+ways of finding the most appropriate and cost-effective
+resolution to the problem. To do this effectively without
+causing further disruption to the users, a test system will
+be necessary that mirrors the production environment.
+There are many problem analysis, diagnosis and solving
+techniques available and much research has been done in
+this area. Some of the most useful and frequently used
+techniques include:
+¦ Chronological Analysis: When dealing with a difficult
+problem, there are often conflicting reports about
+exactly what has happened and when. It is therefore
+very helpful briefly to document all events in
+chronological order – to provide a timeline of events.
+This often makes it possible to see which events may
+have been triggered by others – or to discount any
+claims that are not supported by the sequence of
+events.
+¦ Pain Value Analysis: This is where a broader view is
+taken of the impact of an incident or problem, or
+incident/problem type. Instead of just analysing the
+number of incidents/problems of a particular type in a
+particular period, a more in-depth analysis is done to
+determine exactly what level of pain has been caused
+to the organization/business by these
+incidents/problems. A formula can be devised to
+calculate this pain level. Typically this might include
+taking into account:
+? The number of people affected
+? The duration of the downtime caused
+? The cost to the business (if this can be readily
+calculated or estimated).
+By taking all of these factors into account, a much
+more detailed picture of those incidents/problems or
+incident/problem types that are causing most pain can
+be determined – to allow a better focus on those
+things that really matter and deserve highest priority
+in resolving.
+¦ Kepner and Tregoe: Charles Kepner and Benjamin
+Tregoe developed a useful way of problem analysis
+which can be used formally to investigate deeperrooted problems. They defined the following stages:
+? defining the problem
+? describing the problem in terms of identity,
+location, time and size
+? establishing possible causes
+? testing the most probable cause
+? verifying the true cause.
+The method is described in fuller detail in Appendix C.
+¦ Brainstorming: It can often be valuable to gather
+together the relevant people, either physically or by
+electronic means, and to ‘brainstorm’ the problem –
+with people throwing in ideas on what the potential
+cause may be and potential actions to resolve the
+problem. Brainstorming sessions can be very
+constructive and innovative but it is equally important
+that someone, perhaps the Problem Manager,
+documents the outcome and any agreed actions and
+keeps a degree of control in the session(s).
+¦ Ishikawa Diagrams: Kaoru Ishikawa (1915–89), a
+leader in Japanese quality control, developed a
+method of documenting causes and effects which can
+be useful in helping identify where something may be
+going wrong, or be improved. Such a diagram is
+typically the outcome of a brainstorming session
+where problem solvers can offer suggestions. The
+main goal is represented by the trunk of the diagram,
+and primary factors are represented as branches.
+Secondary factors are then added as stems, and so on.
+Creating the diagram stimulates discussion and often
+leads to increased understanding of a complex
+problem. An example diagram is given in Appendix D.
+¦ Pareto Analysis: This is a technique for separating
+important potential causes from more trivial issues.
+The following steps should be taken:
+1 Form a table listing the causes and their
+frequency as a percentage.
+2 Arrange the rows in the decreasing order of
+importance of the causes, i.e. the most important
+cause first.
+3 Add a cumulative percentage column to the
+table. By this step, the chart should look
+something like Table 4.2, which illustrates 10
+causes of network failure in an organization.
+4 Create a bar chart with the causes, in order of
+their percentage of total.
+4.4.5.6 Workarounds
+In some cases it may be possible to find a workaround to
+the incidents caused by the problem – a temporary way of
+overcoming the difficulties. For example, a manual
+amendment may be made to an input file to allow a
+program to complete its run successfully and allow a
+billing process to complete satisfactorily, but it is
+important that work on a permanent resolution continues
+where this is justified – in this example the reason for the
+file becoming corrupted in the first place must be found
+and corrected to prevent this happening again.
+In cases where a workaround is found, it is therefore
+important that the problem record remains open, and
+details of the workaround are always documented within
+the Problem Record.
+4.4.5.7 Raising a Known Error Record
+As soon as the diagnosis is complete, and particularly
+where a workaround has been found (even though it may
+not yet be a permanent resolution), a Known Error Record
+must be raised and placed in the Known Error Database –
+so that if further incidents or problems arise, they can be
+identified and the service restored more quickly.
+However, in some cases it may be advantageous to raise a
+Known Error Record even earlier in the overall process –
+just for information purposes, for example – even though
+the diagnosis may not be complete or a workaround
+found, so it is inadvisable to set a concrete procedural
+point exactly when a Known Error Record must be raised.
+It should be done as soon as it becomes useful to do so!
+The Known Error Database and the way it should be used
+are described in more detail in paragraph 4.4.7.2.
+4.4.5.8 Problem resolution
+Ideally, as soon as a solution has been found, it should be
+applied to resolve the problem – but in reality safeguards
+may be needed to ensure that this does not cause further
+difficulties. If any change in functionality is required this
+will require an RFC to be raised and approved before the
+resolution can be applied. If the problem is very serious
+and an urgent fix is needed for business reasons, then an
+Emergency RFC should be handled by the Change
+Advisory Board Emergency Committee (CAB/EC) to
+facilitate this urgent action. Otherwise, the RFC should
+follow the established Change Management process for
+that type of change – and the resolution should be
+applied only when the change has been approved and
+scheduled for release. In the meantime, the KEDB should
+be used to help resolve quickly any further occurrences of
+the incidents/problems that occur.
+Note: There may be some problems for which a Business
+Case for resolution cannot be justified (e.g. where the
+impact is limited but the cost of resolution would be
+extremely high). In such cases a decision may be taken to
+leave the Problem Record open but to use a workaround
+description in the Known Error Record to detect and
+resolve any recurrences quickly. Care should be taken to
+use the appropriate code to flag the open Problem Record
+so that it does not count against the performance of the
+team performing the process and so that unauthorized
+rework does not take place.
+4.4.5.9 Problem Closure
+When any change has been completed (and successfully
+reviewed), and the resolution has been applied, the
+Problem Record should be formally closed – as should any
+related Incident Records that are still open. A check should
+be performed at this time to ensure that the record
+contains a full historical description of all events – and if
+not, the record should be updated.
+The status of any related Known Error Record should be
+updated to shown that the resolution has been applied.
+4.4.5.10 Major Problem Review
+After every major problem (as determined by the
+organization’s priority system), while memories are still
+fresh a review should be conducted to learn any lessons
+for the future. Specifically, the review should examine:
+¦ Those things that were done correctly
+¦ Those things that were done wrong
+¦ What could be done better in the future
+¦ How to prevent recurrence
+¦ Whether there has been any third-party responsibility
+and whether follow-up actions are needed.
+Such reviews can be used as part of training and
+awareness activities for support staff – and any lessons
+learned should be documented in appropriate procedures,
+work instructions, diagnostic scripts or Known Error
+Records. The Problem Manager facilitates the session and
+documents any agreed actions.
+The knowledge learned from the review should be
+incorporated into a service review meeting with the
+business customer to ensure the customer is aware of the
+actions taken and the plans to prevent future major
+incidents from occurring. This helps to improve customer
+satisfaction and assure the business that Service
+Operations is handling major incidents responsibly and
+actively working to prevent their future recurrence.
+4.4.5.11 Errors detected in the development
+environment
+It is rare for any new applications, systems or software
+releases to be completely error-free. It is more likely that
+during testing of such new applications, systems or
+releases a prioritization system will be used to eradicate
+the more serious faults, but it is possible that minor faults
+are not rectified – often because of the balance that has to
+be made between delivering new functionality to the
+business as quickly as possible and ensuring totally faultfree code or components.
+Where a decision is made to release something into the
+production environment that includes known deficiencies,
+these should be logged as Known Errors in the KEDB,
+together with details of workarounds or resolution
+activities. There should be a formal step in the testing
+sign-off that ensures that this handover always takes place
+(see Service Transition publication).
+Experience has shown if this does not happen, it will lead
+to far higher support costs when the users start to
+experience the faults and raise incidents that have to be
+re-diagnosed and resolved all over again!
+4.4.6 Triggers, input and output/interprocess interfaces
+The vast majority of Problem Records will be triggered in
+reaction to one or more incidents, and many will be raised
+or initiated via Service Desk staff. Other Problem Records,
+and corresponding Known Error Records, may be triggered
+in testing, particularly the latter stages of testing such as
+User Acceptance Testing/Trials (UAT), if a decision is made
+to go ahead with a release even though some faults are
+known. Suppliers may trigger the need for some Problem
+Records through the notification of potential faults or
+known deficiencies in their products or services (e.g. a
+warning may be given regarding the use of a particular CI
+and a Problem Record may be raised to facilitate the
+investigation by technical staff of the condition of such CIs
+within the organization’s IT Infrastructure).
+The primary relationship between Incident and Problem
+Management has been discussed in detail in paragraphs
+4.2.6 and 4.4.5.1. Other key interfaces include the
+following:
+¦ Service Transition
+? Change Management: Problem Management
+ensures that all resolutions or workarounds that
+require a change to a CI are submitted through
+Change Management through an RFC. Change
+Management will monitor the progress of these
+changes and keep Problem Management advised.
+Problem Management is also involved in rectifying
+the situation caused by failed changes.
+? Configuration Management: Problem
+Management uses the CMS to identify faulty CIs
+and also to determine the impact of problems and
+resolutions. The CMS can also be used to form the
+basis for the KEDB and hold or integrate with the
+Problem Records.
+? Release and Deployment Management: Is
+responsible for rolling problem fixes out into the
+live environment. It also assists in ensuring that the
+associated known errors are transferred from the
+development Known Error Database into the live
+Known Error Database. Problem Management will
+assist in resolving problems caused by faults during
+the release process.
+¦ Service Design
+? Availability Management: Is involved with
+determining how to reduce downtime and increase
+uptime. As such, it has a close relationship with
+Problem Management, especially the proactive
+areas. Much of the management information
+available in Problem Management will be
+communicated to Availability Management.
+? Capacity Management: Some problems will
+require investigation by Capacity Management
+teams and techniques, e.g. performance issues.
+Capacity Management will also assist in assessing
+proactive measures. Problem Management provides
+management information relative to the quality of
+decisions made during the Capacity Planning
+process.
+? IT Service Continuity: Problem Management acts
+as an entry point into IT Service Continuity
+Management where a significant problem is not
+resolved before it starts to have a major impact on
+the business.
+¦ Continual Service Improvement
+? Service Level Management: The occurrence of
+incidents and problems affects the level of service
+delivery measured by SLM. Problem Management
+contributes to improvements in service levels, and
+its management information is used as the basis of
+some of the SLA review components. SLM also
+provides parameters within which Problem
+Management works, such as impact information
+and the effect on services of proposed resolutions
+and proactive measures.
+¦ Service Strategy
+? Financial Management: Assists in assessing the
+impact of proposed resolutions or workarounds, as
+well as Pain Value Analysis. Problem Management
+provides management information about the cost
+of resolving and preventing problems, which is
+used as input into the budgeting and accounting
+systems and Total Cost of Ownership calculations.
+4.4.7 Information Management
+4.4.7.1 CMS
+The CMS will hold details of all of the components of the
+IT Infrastructure as well as the relationships between these
+components. It will act as a valuable source for problem
+diagnosis and for evaluating the impact of problems (e.g.
+if this disk is down, what data is on that disk; which
+services use that data; which users use those services?).
+As it will also hold details of previous activities, it can also
+be used as a valuable source of historical data to help
+identify trends or potential weaknesses – a key part of
+proactive Problem Management (see Continual Service
+Improvement publication).
+4.4.7.2 Known Error Database
+The purpose of a Known Error Database is to allow storage
+of previous knowledge of incidents and problems – and
+how they were overcome – to allow quicker diagnosis and
+resolution if they recur.
+The Known Error Record should hold exact details of the
+fault and the symptoms that occurred, together with
+precise details of any workaround or resolution action that
+can be taken to restore the service and/or resolve the
+problem. An incident count will also be useful to
+determine the frequency with which incidents are likely to
+recur and influence priorities, etc.
+It should be noted that a Business Case for a permanent
+resolution for some problems may not exist. For example,
+if a problem does not cause serious disruption and a
+workaround exists and/or the cost of resolving the
+problem far outweighs the benefits of a permanent
+resolution – then a decision may be taken to tolerate the
+existence of the problem. However, it will still be desirable
+to diagnose and implement a workaround as quickly as
+possible, which is where the KEDB can be of assistance.
+It is essential that any data put into the database can be
+quickly and accurately retrieved. The Problem Manager
+should be fully trained and familiar with the search
+methods/algorithms used by the selected database and
+should carefully ensure that when new records are added,
+the relevant search key criteria are correctly included.
+Care should be taken to avoid duplication of records (i.e.
+the same problem described in two or more ways as
+separate records). To avoid this, the Problem Manager
+should be the only person able to enter a new record.
+Other support groups should be allowed, indeed
+encouraged, to propose new records, but these should be
+vetted by the Problem Manager before entry to the KEDB.
+In large organizations where Problem Management staff
+exist in multiple locations but a single KEDB is used
+(recommended!), a procedure must be agreed between all
+Problem Management staff to ensure that such duplication
+cannot occur. This may involve designating just one staff
+member as the central KEDB Manager.
+The KEDB should be used during the Incident and
+Problem Diagnosis phases to try to speed up the
+resolution process – and new records should be added as
+quickly as possible when a new problem has been
+identified and diagnosed.
+All support staff should be fully trained and conversant
+with the value that the KEDB can offer and the way it
+should be used. They should be able readily to retrieve
+and use data.
+Note: Some tools/implementations may choose to
+delineate Known Errors simply by changing a field in the
+original Problem Record. This is acceptable provided the
+same level of functionality is available.
+The KEDB, like the CMS, forms part of a larger Service
+Knowledge Management System (SKMS) illustrated in
+Figure 4.6. More information on the SKMS can be found in
+the Service Transition publication.
+4.4.8 Metrics
+The following metrics should be used to judge the
+effectiveness and efficiency of the Problem Management
+process, or its operation:
+¦ The total number of problems recorded in the period
+(as a control measure)
+¦ The percentage of problems resolved within SLA
+targets (and the percentage that are not!)
+¦ The number and percentage of problems that
+exceeded their target resolution times
+¦ The backlog of outstanding problems and the trend
+(static, reducing or increasing?)
+¦ The average cost of handling a problem
+¦ The number of major problems (opened and closed
+and backlog)
+¦ The percentage of Major Problem Reviews successfully
+performed
+¦ The number of Known Errors added to the KEDB
+¦ The percentage accuracy of the KEDB (from audits of
+the database)
+¦ The percentage of Major Problem Reviews completed
+successfully and on time.
+All metrics should be broken down by category, impact,
+severity, urgency and priority level and compared with
+previous periods.
+4.4.9 Challenges, Critical Success Factors
+and risks
+A major dependency for Problem Management is the
+establishment of an effective Incident Management
+process and tools. This will ensure that problems are
+identified as soon as possible and that as much work is
+done on pre-qualification as possible. However, it is also
+critical that the two processes have formal interfaces and
+common working practices. This implies the following:
+¦ Linking Incident and Problem Management tools
+¦ The ability to relate Incident and Problem Records
+¦ The second- and third-line staff should have a good
+working relationship with staff on the first line
+¦ Making sure that business impact is well understood
+by all staff working on problem resolution.
+In addition it is important that Problem Management is
+able to use all Knowledge and Configuration Management
+resources available.
+Another CSF is the ongoing training of technical staff in
+both technical aspects of their job as well as the business
+implications of the services they support and the
+processes they use.

@@ -1,0 +1,276 @@
+4.3 REQUEST FULFILMENT
+The term ‘Service Request’ is used as a generic description
+for many varying types of demands that are placed upon
+the IT Department by the users. Many of these are actually
+small changes – low risk, frequently occurring, low cost,
+etc. (e.g. a request to change a password, a request to
+install an additional software application onto a particular
+workstation, a request to relocate some items of desktop
+equipment) or maybe just a question requesting
+information – but their scale and frequent, low-risk nature
+means that they are better handled by a separate process,
+rather than being allowed to congest and obstruct the
+normal Incident and Change Management processes.
+4.3.1 Purpose/goal/objective
+Request Fulfilment is the processes of dealing with Service
+Requests from the users. The objectives of the Request
+Fulfilment process include:
+¦ To provide a channel for users to request and receive
+standard services for which a pre-defined approval and
+qualification process exists
+¦ To provide information to users and customers about
+the availability of services and the procedure for
+obtaining them
+¦ To source and deliver the components of requested
+standard services (e.g. licences and software media)
+¦ To assist with general information, complaints or
+comments.
+4.3.2 Scope
+The process needed to fulfil a request will vary depending
+upon exactly what is being requested – but can usually be
+broken down into a set of activities that have to be
+performed. Some organizations will be comfortable to let
+the Service Requests be handled through their Incident
+Management processes (and tools) – with Service Requests
+being handled as a particular type of ‘incident’ (using a
+high-level categorization system to identify those
+‘incidents’ that are in fact Service Requests).
+Note, however, that there is a significant difference here –
+an incident is usually an unplanned event whereas a
+Service Request is usually something that can and should
+be planned!
+Therefore, in an organization where large numbers of
+Service Requests have to be handled, and where the
+actions to be taken to fulfil those requests are very varied
+or specialized, it may be appropriate to handle Service
+Requests as a completely separate work stream – and to
+record and manage them as a separate record type.
+This may be particularly appropriate if the organization
+has chosen to widen the scope of the Service Desk to
+expand upon just IT-related issues and use the desk as a
+focal point for other types or request for service – for
+example, a request to service a photocopier or even going
+so far as to include, for example, building management
+issues, such as a need to replace a light fitment or repair a
+leak in the plumbing.
+Note: It will ultimately be up to each organization to
+decide and document which request it will handle
+through the Request Fulfilment process and which others
+will have to go through more formal Change
+Management. There will always be grey areas which
+prevent generic guidance from being usefully prescribed.
+4.3.3 Value to business
+The value of Request Fulfilment is to provide quick and
+effective access to standard services which business staff
+can use to improve their productivity or the quality of
+business services and products.
+Request Fulfilment effectively reduces the bureaucracy
+involved in requesting and receiving access to existing or
+new services, thus also reducing the cost of providing
+these services. Centralizing fulfilment also increases the
+level of control over these services. This in turn can help
+reduce costs through centralized negotiation with
+suppliers, and can also help to reduce the cost of support.
+4.3.4 Policies/principles/basic concepts
+Many Service Requests will be frequently recurring, so a
+predefined process flow (a model) can be devised to
+include the stages needed to fulfil the request, the
+individuals or support groups involved, target timescales
+and escalation paths. Service Requests will usually be
+satisfied by implementing a Standard Change (see the
+Service Transition publication for further details on
+Standard Changes). The ownership of Service Requests
+resides with the Service Desk, which monitors, escalates,
+dispatches and often fulfils the user request.
+4.3.4.1 Request Models
+Some Service Requests will occur frequently and will
+require handling in a consistent manner in order to meet
+agreed service levels. To assist this, many organizations will
+wish to create pre-defined Request Models (which typically
+include some form of pre-approval by Change
+Management). This is similar in concept to the idea of
+Incident Models already described in paragraph 4.2.4.2,
+but applied to Service Requests.
+4.3.5 Process activities, methods and
+techniques
+4.3.5.1 Menu selection
+Request Fulfilment offers great opportunities for self-help
+practices where users can generate a Service Request
+using technology that links into Service Management
+tools. Ideally, users should be offered a ‘menu’-type
+selection via a web interface, so that they can select and
+input details of Service Requests from a pre-defined list –
+appropriate expectations can be set by giving target
+delivery and/or implementation targets/dates (in line with
+SLA targets). Where organizations are offering a self-help IT
+support capability to the users, it would make sense to
+combine this with a Request Fulfilment system as
+described.
+Specialist web tools to offer this type of ‘shopping basket’
+experience can be used together with interfaces directly to
+the back-end integrated ITSM tools, or other more general
+business process automation or Enterprise Resource
+Planning (ERP) tools that may be used for management of
+the Request Fulfilment activities.
+4.3.5.2 Financial approval
+One important extra step that is likely to be needed when
+dealing with a service request is that of financial approval.
+Most requests will have some form of financial
+implications, regardless of the type of commercial
+arrangements in place. The cost of fulfilling the request
+must first be established. It may be possible to agree fixed
+prices for ‘standard’ requests – and prior approval for such
+requests may be given as part of the organization’s overall
+annual financial management. In all other cases, an
+estimate of the cost must be produced and submitted to
+the user for financial approval (the user may need to seek
+approval up their management/financial chain). If approval
+is given, in addition to fulfilling the request, the process
+must also include charging (billing or cross-charging) for
+the work done – if charging is in place.
+4.3.5.3 Other approval
+In some cases further approval may be needed – such as
+compliance-related or wider business approval. Request
+Fulfilment must have the ability to define and check such
+approvals where needed.
+4.3.5.4 Fulfilment
+The actual fulfilment activity will depend upon the nature
+of the Service Request. Some simpler requests may be
+completed by the Service Desk, acting as first-line support,
+while others will have to be forwarded to specialist groups
+and/or suppliers for fulfilment.
+Some organizations may have specialist fulfilment groups
+(to ‘pick, pack and dispatch’) – or may have outsourced
+some fulfilment activities to a third-party supplier(s). The
+Service Desk should monitor and chase progress and keep
+users informed throughout, regardless of the actual
+fulfilment source.
+4.3.5.5 Closure
+When the Service Request has been fulfilled it must be
+referred back to the Service Desk for closure. The Service
+Desk should go through the same closure process as
+described earlier in paragraph 4.2.5.9 – checking that the
+user is satisfied with the outcome.
+4.3.6 Triggers, input and output/interprocess interfaces
+Most requests will be triggered through either a user
+calling the Service Desk or a user completing some form
+of self-help web-based input screen to make their request.
+The latter will often involve a selection from a portfolio of
+available request types.
+The primary interfaces with Request Fulfilment include:
+¦ Service Desk/Incident Management: Many Service
+Requests may come in via the Service Desk and may
+be initially handled through the Incident Management
+process. Some organizations may choose that all
+requests are handled via this route – but others may
+choose to have a separate process, for reasons already
+discussed earlier in this chapter.
+¦ A strong link is also needed between Request
+Fulfilment, Release, Asset and Configuration
+Management – as some requests will be for the
+deployment of new or upgraded components that can
+be automatically deployed. In such cases the ‘release’
+can be pre-defined, built and tested but only
+deployed upon request by those who want the
+‘release’. Upon deployment, the CMS will have to be
+updated to reflect the change. Where appropriate,
+software licence checks/updates will also be necessary.
+Where appropriate, it will be necessary to relate IT-related
+Service Requests to any incidents or problems that have
+initiated the need for the request (as would be the case
+for any other type of change).
+4.3.7 Information Management
+Request Fulfilment is dependent on information from the
+following sources:
+¦ The Service Requests will contain information about:
+? What service is being requested
+? Who requested and authorized the service
+? Which process will be used to fulfil the request
+? To whom it was assigned to and what action
+was taken
+The date and time when the request was logged
+as well as the date and time of all actions taken
+? Closure details.
+¦ Requests for Change: In some cases the Request
+Fulfilment process will be initiated by an RFC. This is
+typical where the Service Request relates to a CI
+¦ The Service Portfolio, to enable the scope of agreed
+Service Request to be identified
+¦ Security Policies will prescribe any controls to be
+executed or adhered to when providing the service,
+e.g. ensuring that the requester is authorized to access
+the service, or that the software is licensed.
+4.3.8 Metrics
+The metrics needed to judge the effectiveness and
+efficiency of Request Fulfilment will include the following
+(each metric will need to be broken down by request
+type, within the period):
+¦ The total number of Service Requests (as a control
+measure)
+¦ Breakdown of service requests at each stage (e.g.
+logged, WIP, closed, etc.)
+¦ The size of current backlog of outstanding Service
+Requests
+¦ The mean elapsed time for handling each type of
+Service Request
+¦ The number and percentage of Service Requests
+completed within agreed target times
+¦ The average cost per type of Service Request
+¦ Level of client satisfaction with the handling of Service
+Requests (as measured in some form of satisfaction
+survey).
+4.3.9 Challenges, Critical Success Factors
+and risks
+4.3.9.1 Challenges
+The following challenges will be faced when introducing
+Request Fulfilment:
+¦ Clearly defining and documenting the type of requests
+that will be handled within the Request Fulfilment
+process (and those that will either go through the
+Service Desk and be handled as incidents or those
+that will need to go through formal Change
+Management) – so that all parties are absolutely clear
+on the scope.
+¦ Establishing self-help front-end capabilities that allow
+the users to interface successfully with the Request
+Fulfilment process.
+4.3.9.2 Critical Success Factors
+Request Fulfilment depends on the following Critical
+Success Factors:
+¦ Agreement of what services will be standardized and
+who is authorized to request them. The cost of these
+services must also be agreed. This may be done as
+part of the SLM process. Any variances of the services
+must also be defined.
+¦ Publication of the services to users as part of the
+Service Catalogue. It is important that this part of the
+Service Catalogue must be easily accessed, perhaps on
+the Intranet, and should be recognized as the first
+source of information for users seeking access to a
+service.
+¦ Definition of a standard fulfilment procedure for each
+of the services being requested. This includes all
+procurement policies and the ability to generate
+purchase orders and work orders
+¦ A single point of contact which can be used to
+request the service. This is often provided by the
+Service Desk or through an Intranet request, but could
+be through an automated request directly into the
+Request Fulfilment or procurement system.
+¦ Self-service tools needed to provide a front-end
+interface to the users. It is essential that these
+integrate with the back-end fulfilment tools, often
+managed through Incident or Change Management.
+4.3.9.3 Risks
+Risks that may be encountered with Request Fulfilment
+include:
+¦ Poorly defined scope, where people are unclear about
+exactly what the process is expected to handle
+¦ Poorly designed or implemented user interfaces so
+that users have difficulty raising the requests that
+they need
+¦ Badly designed or operated back-end fulfilment
+processes that are incapable of dealing with the
+volume or nature of the requests being made
+¦ Inadequate monitoring capabilities so that accurate
+metrics cannot be gathered.

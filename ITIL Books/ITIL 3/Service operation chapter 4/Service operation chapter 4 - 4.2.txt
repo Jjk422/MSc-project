@@ -1,0 +1,732 @@
+4.2 INCIDENT MANAGEMENT
+In ITIL terminology, an ‘incident’ is defined as:
+An unplanned interruption to an IT service or
+reduction in the quality of an IT service. Failure of a
+configuration item that has not yet impacted service
+is also an incident, for example failure of one disk
+from a mirror set.
+Incident Management is the process for dealing with
+all incidents; this can include failures, questions or
+queries reported by the users (usually via a telephone
+call to the Service Desk), by technical staff, or
+automatically detected and reported by event
+monitoring tools.
+4.2.1 Purpose/goal/objective
+The primary goal of the Incident Management process is
+to restore normal service operation as quickly as possible
+and minimize the adverse impact on business operations,
+thus ensuring that the best possible levels of service
+quality and availability are maintained. ‘Normal service
+operation’ is defined here as service operation within
+SLA limits.
+4.2.2 Scope
+Incident Management includes any event which disrupts,
+or which could disrupt, a service. This includes events
+which are communicated directly by users, either through
+the Service Desk or through an interface from Event
+Management to Incident Management tools.
+Incidents can also be reported and/or logged by technical
+staff (if, for example, they notice something untoward with
+a hardware or network component they may report or log
+an incident and refer it to the Service Desk). This does not
+mean, however, that all events are incidents. Many classes
+of events are not related to disruptions at all, but are
+indicators of normal operation or are simply informational
+(see section 4.1).
+Although both incidents and service requests are reported
+to the Service Desk, this does not mean that they are the
+same. Service requests do not represent a disruption to
+agreed service, but are a way of meeting the customer’s
+needs and may be addressing an agreed target in an SLA.
+Service requests are dealt with by the Request Fulfilment
+process (see section 4.3).
+4.2.3 Value to business
+The value of Incident Management includes:
+¦ The ability to detect and resolve incidents, which
+results in lower downtime to the business, which in
+turn means higher availability of the service. This
+means that the business is able to exploit the
+functionality of the service as designed.
+¦ The ability to align IT activity to real-time business
+priorities. This is because Incident Management
+includes the capability to identify business priorities
+and dynamically allocate resources as necessary.
+¦ The ability to identify potential improvements to
+services. This happens as a result of understanding
+what constitutes an incident and also from being in
+contact with the activities of business operational staff.
+¦ The Service Desk can, during its handling of incidents,
+identify additional service or training requirements
+found in IT or the business.
+Incident Management is highly visible to the business, and
+it is therefore easier to demonstrate its value than most
+areas in Service Operation. For this reason, Incident
+Management is often one of the first processes to be
+implemented in Service Management projects. The added
+benefit of doing this is that Incident Management can be
+used to highlight other areas that need attention –
+thereby providing a justification for expenditure on
+implementing other processes.
+4.2.4 Policies/principles/basic concepts
+There are some basic things that need to be taken into
+account and decided when considering Incident
+Management. These are covered in this section.
+4.2.4.1 Timescales
+Timescales must be agreed for all incident-handling stages
+(these will differ depending upon the priority level of the
+incident) – based upon the overall incident response and
+resolution targets within SLAs – and captured as targets
+within OLAs and Underpinning Contracts (UCs). All support
+groups should be made fully aware of these timescales.
+Service Management tools should be used to automate
+timescales and escalate the incident as required based on
+pre-defined rules.
+4.2.4.2 Incident Models
+Many incidents are not new – they involve dealing with
+something that has happened before and may well
+happen again. For this reason, many organizations will
+find it helpful to pre-define ‘standard’ Incident Models –
+and apply them to appropriate incidents when they occur.
+An Incident Model is a way of pre-defining the steps that
+should be taken to handle a process (in this case a process
+for dealing with a particular type of incident) in an agreed
+way. Support tools can then be used to manage the
+required process. This will ensure that ‘standard’ incidents
+are handled in a pre-defined path and within pre-defined
+timescales.
+Incidents which would require specialized handling can be
+treated in this way (for example, security-related incidents
+can be routed to Information Security Management and
+capacity- or performance-related incidents that would be
+routed to Capacity Management.
+The Incident Model should include:
+¦ The steps that should be taken to handle the incident
+¦ The chronological order these steps should be taken
+in, with any dependences or co-processing defined
+¦ Responsibilities; who should do what
+¦ Timescales and thresholds for completion of the
+actions
+¦ Escalation procedures; who should be contacted and
+when
+¦ Any necessary evidence-preservation activities
+(particularly relevant for security- and capacity-related
+incidents).
+The models should be input to the incident-handling
+support tools in use and the tools should then automate
+the handling, management and escalation of the process.
+4.2.4.3 Major incidents
+A separate procedure, with shorter timescales and greater
+urgency, must be used for ‘major’ incidents. A definition of
+what constitutes a major incident must be agreed and
+ideally mapped on to the overall incident prioritization
+system – such that they will be dealt with through the
+major incident process.
+Note: People sometimes use loose terminology and/or
+confuse a major incident with a problem. In reality, an
+incident remains an incident forever – it may grow in
+impact or priority to become a major incident, but an
+incident never ‘becomes’ a problem. A problem is the
+underlying cause of one or more incidents and remains a
+separate entity always!
+Some lower-priority incidents may also have to be
+handled through this procedure – due to potential
+business impact – and some major incidents may not
+need to be handled in this way if the cause and
+resolutions are obvious and the normal incident process
+can easily cope within agreed target resolution times –
+provided the impact remains low!
+Where necessary, the major incident procedure should
+include the dynamic establishment of a separate major
+incident team under the direct leadership of the Incident
+Manager, formulated to concentrate on this incident alone
+to ensure that adequate resources and focus are provided
+to finding a swift resolution. If the Service Desk Manager is
+also fulfilling the role of Incident Manager (say in a small
+organization), then a separate person may need to be
+designated to lead the major incident investigation team –
+so as to avoid conflict of time or priorities – but should
+ultimately report back to the Incident Manager.
+If the cause of the incident needs to be investigated at the
+same time, then the Problem Manager would be involved
+as well but the Incident Manager must ensure that service
+restoration and underlying cause are kept separate.
+Throughout, the Service Desk would ensure that all
+activities are recorded and users are kept fully informed of
+progress.
+4.2.5 Process activities, methods and
+techniques
+The process to be followed during the management of an
+incident is shown in Figure 4.2. The process includes the
+following steps.
+4.2.5.1 Incident identification
+Work cannot begin on dealing with an incident until it is
+known that an incident has occurred. It is usually
+unacceptable, from a business perspective, to wait until a
+user is impacted and contacts the Service Desk. As far as
+possible, all key components should be monitored so that
+failures or potential failures are detected early so that the
+incident management process can be started quickly.
+Ideally, incidents should be resolved before they have an
+impact on users!
+Please see section 4.1 for further details.
+4.2.5.2 Incident logging
+All incidents must be fully logged and date/time stamped,
+regardless of whether they are raised through a Service
+Desk telephone call or whether automatically detected via
+an event alert.
+Note: If Service Desk and/or support staff visit the
+customers to deal with one incident, they may be asked to
+deal with further incidents ‘while they are there’. It is
+important that if this is done, a separate Incident Record is
+logged for each additional incident handled – to ensure
+that a historical record is kept and credit is given for the
+work undertaken.
+All relevant information relating to the nature of the
+incident must be logged so that a full historical record is
+maintained – and so that if the incident has to be referred
+to other support group(s), they will have all relevant
+information to hand to assist them.
+The information needed for each incident is likely to
+include:
+¦ Unique reference number
+¦ Incident categorization (often broken down into
+between two and four levels of sub-categories)
+¦ Incident urgency
+¦ Incident impact
+¦ Incident prioritization
+¦ Date/time recorded
+¦ Name/ID of the person and/or group recording the
+incident
+¦ Method of notification (telephone, automatic, e-mail,
+in person, etc.)
+¦ Name/department/phone/location of user
+¦ Call-back method (telephone, mail, etc.)
+¦ Description of symptoms
+¦ Incident status (active, waiting, closed, etc.)
+¦ Related CI
+¦ Support group/person to which the incident is
+allocated
+¦ Related problem/Known Error
+¦ Activities undertaken to resolve the incident
+¦ Resolution date and time
+¦ Closure category
+¦ Closure date and time.
+Note: If the Service Desk does not work 24/7 and
+responsibility for first-line incident logging and handling
+passes to another group, such as IT Operations or Network
+Support, out of Service Desk hours, then these staff need
+to be equally rigorous about logging of incident details.
+Full training and awareness needs to be provided to such
+staff on this issue.
+4.2.5.3 Incident categorization
+Part of the initial logging must be to allocate suitable
+incident categorization coding so that the exact type of
+the call is recorded. This will be important later when
+looking at incident types/frequencies to establish trends
+for use in Problem Management, Supplier Management
+and other ITSM activities.
+Please note that the check for Service Requests in this
+process does not imply that Service Requests are incidents.
+This is simply recognition of the fact that Service Requests
+are sometimes incorrectly logged as incidents (e.g. a user
+incorrectly enters the request as an incident from the web
+interface). This check will detect any such requests and
+ensure that they are passed to the Request Fulfilment
+process.
+Multi-level categorization is available in most tools –
+usually to three or four levels of granularity. For example,
+an incident may be categorized as shown in Figure 4.3.
+All organizations are unique and it is therefore difficult to
+give generic guidance on the categories an organization
+should use, particularly at the lower levels. However, there
+is a technique that can be used to assist an organization
+to achieve a correct and complete set of categories – if
+they are starting from scratch! The steps involve:
+1 Hold a brainstorming session among the relevant
+support groups, involving the SD Supervisor and
+Incident and Problem Managers.
+2 Use this session to decide the ‘best guess’ top-level
+categories – and include an ‘other’ category. Set up
+the relevant logging tools to use these categories for a
+trial period.
+3 Use the categories for a short trial period (long
+enough for several hundred incidents to fall into each
+category, but not too long that an analysis will take
+too long to perform).
+4 Perform an analysis of the incidents logged during the
+trial period. The number of incidents logged in each
+higher-level category will confirm whether the
+categories are worth having – and a more detailed
+analysis of the ‘other’ category should allow
+identification of any additional higher-level categories
+that will be needed.
+5 A breakdown analysis of the incidents within each
+higher-level category should be used to decide the
+lower-level categories that will be required.
+6 Review and repeat these activities after a further
+period – of, say, one to three months – and again
+regularly to ensure that they remain relevant. Be aware
+that any significant changes to categorization may
+cause some difficulties for incident trending or
+management reporting – so they should be stabilized
+unless changes are genuinely required.
+If an existing categorization scheme is in use, but it is not
+thought to be working satisfactorily, the basic idea of the
+technique suggested above can be used to review and
+amend the existing scheme.
+NOTE: Sometimes the details available at the time an
+incident is logged may be incomplete, misleading or
+incorrect. It is therefore important that the categorization
+of the incident is checked, and updated if necessary, at
+call closure time (in a separate closure categorization field,
+so as not to corrupt the original categorization) – please
+see paragraph 4.2.5.9.
+4.2.5.4 Incident prioritization
+Another important aspect of logging every incident is to
+agree and allocate an appropriate prioritization code – as
+this will determine how the incident is handled both by
+support tools and support staff.
+Prioritization can normally be determined by taking into
+account both the urgency of the incident (how quickly the
+business needs a resolution) and the level of impact it is
+causing. An indication of impact is often (but not always)
+the number of users being affected. In some cases, and
+very importantly, the loss of service to a single user can
+have a major business impact – it all depends upon who is
+trying to do what – so numbers alone is not enough to
+evaluate overall priority! Other factors that can also
+contribute to impact levels are:
+¦ Risk to life or limb
+¦ The number of services affected – may be multiple
+services
+¦ The level of financial losses
+¦ Effect on business reputation
+¦ Regulatory or legislative breaches.
+An effective way of calculating these elements and
+deriving an overall priority level for each incident is given
+in Table 4.1:
+In all cases, clear guidance – with practical examples –
+should be provided for all support staff to enable them to
+determine the correct urgency and impact levels, so the
+correct priority is allocated. Such guidance should be
+produced during service level negotiations.
+However, it must be noted that there will be occasions
+when, because of particular business expediency or
+whatever, normal priority levels have to be overridden.
+When a user is adamant that an incident’s priority level
+should exceed normal guidelines, the Service Desk should
+comply with such a request – and if it subsequently turns
+out to be incorrect this can be resolved as an off-line
+management level issue, rather than a dispute occurring
+when the user is on the telephone.
+Some organizations may also recognize VIPs (high-ranking
+executives, officers, diplomats, politicians, etc.) whose
+incidents would be handled on a higher priority than
+normal – but in such cases this is best catered for and
+documented within the guidance provided to the Service
+Desk staff on how to apply the priority levels, so they are
+all aware of the agreed rules for VIPs, and who falls into
+this category.
+It should be noted that an incident’s priority may be
+dynamic – if circumstances change, or if an incident is not
+resolved within SLA target times, then the priority must be
+altered to reflect the new situation.
+Note: some tools may have constraints that make it
+difficult automatically to calculate performance against SLA
+targets if a priority is changed during the lifetime of an
+incident. However, if circumstances do change, the change
+in priority should be made – and if necessary manual
+adjustments made to reporting tools. Ideally, tools with
+such constraints should not be selected.
+4.2.5.5 Initial diagnosis
+If the incident has been routed via the Service Desk, the
+Service Desk Analyst must carry out initial diagnosis,
+typically while the user is still on the telephone – if the
+call is raised in this way – to try to discover the full
+symptoms of the incident and to determine exactly what
+has gone wrong and how to correct it. It is at this stage
+that diagnostic scripts and known error information can be
+most valuable in allowing earlier and accurate diagnosis.
+If possible, the Service Desk Analyst will resolve the
+incident while the user is still on the telephone – and
+close the incident if the resolution is successful.
+If the Service Desk Analyst cannot resolve the incident
+while the user is still on the telephone, but there is a
+prospect that the Service Desk may be able to do so
+within the agreed time limit without assistance from other
+support groups, the Analyst should inform the user of their
+intentions, give the user the incident reference number
+and attempt to find a resolution.
+4.2.5.6 Incident escalation
+¦ Functional escalation. As soon as it becomes clear
+that the Service Desk is unable to resolve the incident
+itself (or when target times for first-point resolution
+have been exceeded – whichever comes first!) the
+incident must be immediately escalated for further
+support.
+If the organization has a second-level support group
+and the Service Desk believes that the incident can be
+resolved by that group, it should refer the incident to
+them. If it is obvious that the incident will need
+deeper technical knowledge, or when the second-level
+group has not been able to resolve the incident within
+agreed target times (whichever comes first), the
+incident must be immediately escalated to the
+appropriate third-level support group. Note that thirdlevel support groups may be internal – but they may
+also be third parties such as software suppliers or
+hardware manufacturers or maintainers. The rules for
+escalation and handling of incidents must be agreed
+in OLAs and UCs with internal and external support
+groups respectively.
+Note: Incident Ownership remains with the Service
+Desk! Regardless of where an incident is referred to
+during its life, ownership of the incident remains with
+the Service Desk at all times. The Service Desk remains
+responsible for tracking progress, keeping users
+informed and ultimately for Incident Closure.
+¦ Hierarchic escalation. If incidents are of a serious
+nature (for example Priority 1 incidents) the
+appropriate IT managers must be notified, for
+informational purposes at least. Hierarchic escalation is
+also used if the ‘Investigation and Diagnosis’ and
+‘Resolution and Recovery’ steps are taking too long or
+proving too difficult. Hierarchic escalation should
+continue up the management chain so that senior
+managers are aware and can be prepared and take
+any necessary action, such as allocating additional
+resources or involving suppliers/maintainers. Hierarchic
+escalation is also used when there is contention about
+to whom the incident is allocated.
+Hierarchic escalation can, of course, be initiated by the
+affected users or customer management, as they see
+fit – that is why it is important that IT managers are
+made aware so that they can anticipate and prepare
+for any such escalation.
+The exact levels and timescales for both functional and
+hierarchic escalation need to be agreed, taking into
+account SLA targets, and embedded within support tools
+which can then be used to police and control the process
+flow within agreed timescales.
+The Service Desk should keep the user informed of any
+relevant escalation that takes place and ensure the
+Incident Record is updated accordingly to keep a full
+history of actions.
+Note regarding Incident allocation
+There may be many incidents in a queue with the same
+priority level – so it will be the job of the Service Desk
+and/or Incident Management staff initially, in conjunction
+with managers of the various support groups to which
+incidents are escalated, to decide the order in which
+incidents should be picked up and actively worked on.
+These managers must ensure that incidents are dealt with
+in true business priority order and that staff are not
+allowed to ‘cherry-pick’ the incidents they choose!
+4.2.5.7 Investigation and Diagnosis
+In the case of incidents where the user is just seeking
+information, the Service Desk should be able to provide
+this fairly quickly and resolve the service request – but if a
+fault is being reported, this is an incident and likely to
+require some degree of investigation and diagnosis.
+Each of the support groups involved with the incident
+handling will investigate and diagnose what has gone
+wrong – and all such activities (including details of any
+actions taken to try to resolve or re-create the incident)
+should be fully documented in the incident record so that
+a complete historical record of all activities is maintained
+at all times.
+Note: Valuable time can often be lost if investigation and
+diagnostic action (or indeed resolution or recovery actions)
+are performed serially. Where possible, such activities
+should be performed in parallel to reduce overall
+timescales – and support tools should be designed and/or
+selected to allow this. However, care should be taken to
+coordinate activities, particularly resolution or recovery
+activities, otherwise the actions of different groups may
+conflict or further complicate a resolution!
+This investigation is likely to include such actions as:
+¦ Establishing exactly what has gone wrong or being
+sought by the user
+¦ Understanding the chronological order of events
+¦ Confirming the full impact of the incident, including
+the number and range of users affected
+¦ Identifying any events that could have triggered the
+incident (e.g. a recent change, some user action?)
+¦ Knowledge searches looking for previous occurrences
+by searching previous Incident/Problem Records
+and/or Known Error Databases or
+manufacturers’/suppliers’ Error Logs or Knowledge
+Databases.
+4.2.5.8 Resolution and Recovery
+When a potential resolution has been identified, this
+should be applied and tested. The specific actions to be
+undertaken and the people who will be involved in taking
+the recovery actions may vary, depending upon the nature
+of the fault – but could involve:
+¦ Asking the user to undertake directed activities on
+their own desk top or remote equipment
+¦ The Service Desk implementing the resolution either
+centrally (say, rebooting a server) or remotely using
+software to take control of the user’s desktop to
+diagnose and implement a resolution
+¦ Specialist support groups being asked to implement
+specific recovery actions (e.g. Network Support
+reconfiguring a router)
+¦ A third-party supplier or maintainer being asked to
+resolve the fault.
+Even when a resolution has been found, sufficient testing
+must be performed to ensure that recovery action is
+complete and that the service has been fully restored to
+the user(s).
+NOTE: in some cases it may be necessary for two or more
+groups to take separate, though perhaps coordinated,
+recovery actions for an overall resolution to be
+implemented. In such cases Incident Management must
+coordinate the activities and liaise with all parties involved.
+Regardless of the actions taken, or who does them, the
+Incident Record must be updated accordingly with all
+relevant information and details so that a full history
+is maintained.
+The resolving group should pass the incident back to the
+Service Desk for closure action.
+4.2.5.9 Incident Closure
+The Service Desk should check that the incident is fully
+resolved and that the users are satisfied and willing to
+agree the incident can be closed. The Service Desk should
+also check the following:
+¦ Closure categorization. Check and confirm that the
+initial incident categorization was correct or, where
+the categorization subsequently turned out to be
+incorrect, update the record so that a correct closure
+categorization is recorded for the incident – seeking
+advise or guidance from the resolving group(s) as
+necessary.
+¦ User satisfaction survey. Carry out a user satisfaction
+call-back or e-mail survey for the agreed percentage of
+incidents.
+¦ Incident documentation. Chase any outstanding
+details and ensure that the Incident Record is fully
+documented so that a full historic record at a
+sufficient level of detail is complete.
+¦ Ongoing or recurring problem? Determine (in
+conjunction with resolver groups) whether it is likely
+that the incident could recur and decide whether any
+preventive action is necessary to avoid this. In
+conjunction with Problem Management, raise a
+Problem Record in all such cases so that preventive
+action is initiated.
+¦ Formal closure. Formally close the Incident Record.
+Note: Some organizations may chose to utilize an
+automatic closure period on specific, or even all, incidents
+(e.g. incident will be automatically closed after two
+working days if no further contact is made by the user).
+Where this approach is to be considered, it must first be
+fully discussed and agreed with the users – and widely
+publicized so that all users and IT staff are aware of this. It
+may be inappropriate to use this method for certain types
+of incidents – such as major incidents or those involving
+VIPs, etc.
+Rules for re-opening incidents
+Despite all adequate care, there will be occasions when
+incidents recur even though they have been formally
+closed. Because of such cases, it is wise to have predefined rules about if and when an incident can be reopened. It might make sense, for example, to agree that if
+the incident recurs within one working day then it can be
+re-opened – but that beyond this point a new incident
+must be raised, but linked to the previous incident(s).
+The exact time threshold/rules may vary between
+individual organizations – but clear rules should be agreed
+and documented and guidance given to all Service Desk
+staff so that uniformity is applied.
+4.2.6 Triggers, input and output/interprocess interfaces
+Incidents can be triggered in many ways. The most
+common route is when a user rings the Service Desk or
+completes a web-based incident-logging screen, but
+increasingly incidents are raised automatically via Event
+Management tools. Technical staff may notice potential
+failures and raise an incident, or ask the Service Desk to do
+so, so that the fault can be addressed. Some incidents may
+also arise at the initiation of suppliers – who may send
+some form of notification of a potential or actual difficulty
+that needs attention.
+The interfaces with Incident Management include:
+¦ Problem Management: Incident Management forms
+part of the overall process of dealing with problems in
+the organization. Incidents are often caused by
+underlying problems, which must be solved to prevent
+the incident from recurring. Incident Management
+provides a point where these are reported.
+¦ Configuration Management provides the data used
+to identify and progress incidents. One of the uses of
+the CMS is to identify faulty equipment and to assess
+the impact of an incident. It is also used to identify
+the users affected by potential problems. The CMS
+also contains information about which categories of
+incident should be assigned to which support group.
+In turn, Incident Management can maintain the status
+of faulty CIs. It can also assist Configuration
+Management to audit the infrastructure when working
+to resolve an incident.
+¦ Change Management: Where a change is required to
+implement a workaround or resolution, this will need
+to be logged as an RFC and progressed through
+Change Management. In turn, Incident Management is
+able to detect and resolve incidents that arise from
+failed changes.
+¦ Capacity Management: Incident Management
+provides a trigger for performance monitoring where
+there appears to be a performance problem. Capacity
+Management may develop workarounds for incidents.
+¦ Availability Management; will use Incident
+Management data to determine the availability of IT
+services and look at where the incident lifecycle can
+be improved.
+¦ SLM: The ability to resolve incidents in a specified
+time is a key part of delivering an agreed level of
+service. Incident Management enables SLM to define
+measurable responses to service disruptions. It also
+provides reports that enable SLM to review SLAs
+objectively and regularly. In particular, Incident
+Management is able to assist in defining where
+services are at their weakest, so that SLM can define
+actions as part of the Service Improvement Plan (SIP) –
+please see the Continual Service Improvement
+publication for more details. SLM defines the
+acceptable levels of service within which Incident
+Management works, including:
+? Incident response times
+? Impact definitions
+? Target fix times
+? Service definitions, which are mapped to users
+? Rules for requesting services
+? Expectations for providing feedback to users.
+4.2.7 Information Management
+Most information used in Incident Management comes
+from the following sources:
+¦ The Incident Management tools, which contain
+information about:
+? Incident and problem history
+? Incident categories
+? Action taken to resolve incidents
+? Diagnostic scripts which can help first-line analysts
+to resolve the incident, or at least gather
+information that will help second- or third-line
+analysts resolve it faster.
+¦ Incident Records, which include the following data:
+? Unique reference number
+? Incident classification
+? Date and time of recording and any subsequent
+activities
+? Name and identity of the person recording and
+updating the Incident Record
+? Name/organization/contact details of affected
+user(s)
+? Description of the incident symptoms
+? Details of any actions taken to try to diagnose,
+resolve or re-create the incident
+? Incident category, impact, urgency and priority
+? Relationship with other incidents, problems,
+changes or Known Errors
+? Closure details, including time, category, action
+taken and identity of person closing the record.
+Incident Management also requires access to the CMS.
+This will help it to identify the CIs affected by the incident
+and also to estimate the impact of the incident.
+The Known Error Database provides valuable information
+about possible resolutions and workarounds. This is
+discussed in detail in paragraph 4.4.7.2.
+4.2.8 Metrics
+The metrics that should be monitored and reported upon
+to judge the efficiency and effectiveness of the Incident
+Management process, and its operation, will include:
+¦ Total numbers of Incidents (as a control measure)
+¦ Breakdown of incidents at each stage (e.g. logged,
+work in progress, closed etc)
+¦ Size of current incident backlog
+¦ Number and percentage of major incidents
+¦ Mean elapsed time to achieve incident resolution or
+circumvention, broken down by impact code
+¦ Percentage of incidents handled within agreed
+response time (incident response-time targets may be
+specified in SLAs, for example, by impact and urgency
+codes)
+¦ Average cost per incident
+¦ Number of incidents reopened and as a percentage of
+the total
+¦ Number and percentage of incidents incorrectly
+assigned
+¦ Number and percentage of incidents incorrectly
+categorized
+¦ Percentage of Incidents closed by the Service Desk
+without reference to other levels of support (often
+referred to as ‘first point of contact’)
+¦ Number and percentage the of incidents processed
+per Service Desk agent
+¦ Number and percentage of incidents resolved
+remotely, without the need for a visit
+¦ Number of incidents handled by each Incident Model
+¦ Breakdown of incidents by time of day, to help
+pinpoint peaks and ensure matching of resources.
+Reports should be produced under the authority of the
+Incident Manager, who should draw up a schedule and
+distribution list, in collaboration with the Service Desk and
+support groups handling incidents. Distribution lists
+should at least include IT Services Management and
+specialist support groups. Consider also making the data
+available to users and customers, for example via SLA
+reports.
+4.2.9 Challenges, Critical Success Factors
+and risks
+4.2.9.1 Challenges
+The following challenges will exist for successful Incident
+Management:
+¦ The ability to detect incidents as early as possible. This
+will require education of the users reporting incidents,
+the use of Super Users (see paragraph 6.2.4.5) and the
+configuration of Event Management tools.
+¦ Convincing all staff (technical teams as well as users)
+that all incidents must be logged, and encouraging
+the use of self-help web-based capabilities (which can
+speed up assistance and reduce resource
+requirements).
+¦ Availability of information about problems and Known
+Errors. This will enable Incident Management staff to
+learn from previous incidents and also to track the
+status of resolutions.
+¦ Integration into the CMS to determine relationships
+between CIs and to refer to the history of CIs when
+performing first-line support.
+¦ Integration into the SLM process. This will assist
+Incident Management correctly to assess the impact
+and priority of incidents and assists in defining and
+executing escalation procedures. SLM will also benefit
+from the information learned during Incident
+Management, for example in determining whether
+service level performance targets are realistic and
+achievable.
+4.2.9.2 Critical Success Factors
+The following factors will be critical for successful Incident
+Management:
+¦ A good Service Desk is key to successful Incident
+Management
+¦ Clearly defined targets to work to – as defined in SLAs
+¦ Adequate customer-oriented and technically training
+support staff with the correct skill levels, at all stages
+of the process
+¦ Integrated support tools to drive and control the
+process
+¦ OLAs and UCs that are capable of influencing and
+shaping the correct behaviour of all support staff.
+4.2.9.3 Risks
+The risks to successful Incident Management are actually
+similar to some of the challenges and the reverse of some
+of the Critical Success Factors mentioned above. They
+include:
+¦ Being inundated with incidents that cannot be
+handled within acceptable timescales due to a lack of
+available or properly trained resources
+¦ Incidents being bogged down and not progressed as
+intended because of inadequate support tools to raise
+alerts and prompt progress
+¦ Lack of adequate and/or timely information sources
+because of inadequate tools or lack of integration
+¦ Mismatches in objectives or actions because of poorly
+aligned or non-existent OLAs and/or UCs.

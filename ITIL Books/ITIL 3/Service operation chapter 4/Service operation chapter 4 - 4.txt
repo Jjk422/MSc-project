@@ -1,0 +1,86 @@
+4 Service Operation processes
+The processes listed in paragraph 2.4.5 are discussed in
+detail in this chapter. As a reference, the overall structure
+is briefly described here and then each of the processes is
+described in more detail later in the chapter. Please note
+that the roles for each process and the tools used for each
+process are described in Chapters 6 and 7 respectively.
+¦ Event Management is the process that monitors all
+events that occur through the IT infrastructure to allow
+for normal operation and also to detect and escalate
+exception conditions.
+¦ Incident Management concentrates on restoring the
+service to users as quickly as possible, in order to
+minimize business impact.
+¦ Problem Management involves root-cause analysis to
+determine and resolve the cause of events and
+incidents, proactive activities to detect and prevent
+future problems/incidents and a Known Error subprocess to allow quicker diagnosis and resolution if
+further incidents do occur.
+NOTE: Without this distinction between incidents and
+problems, and keeping separate Incident and Problem
+Records, there is a danger that either:
+? Incidents will be closed too early in the overall
+support cycle and there will be no actions taken to
+prevent recurrence – so the same incidents will
+have to be fixed over and over again, or
+? Incidents will be kept open so that root cause
+analysis can be done and visibility will be lost of
+when the user’s service was actually restored – so
+SLA targets may not be met even though the
+service has been restored within users’
+expectations. This often results in a large number
+of open incidents, many of which will never be
+closed unless a periodic ‘purge’ is undertaken. This
+can be very demotivating and can prevent effective
+visibility of current issues.
+¦ Request Fulfilment involves the management of
+customer or user requests that are not generated as
+an incident from an unexpected service delay or
+disruption. Some organizations may choose to handle
+such requests as a ‘category’ of incidents and manage
+the information through an Incident Management
+system – but others may choose (because of high
+volumes or business priority of such requests) to
+facilitate the provision of Request Fulfilment
+capabilities separately via the Request Fulfilment
+process. It has become popular practice to use a
+formal Request Fulfilment process to manage
+customer and user requests for all types of requests
+which include facilities, moves and supplies as well as
+those specific to IT services. These requests are not
+generally tied to the same SLA measures and
+separating the records and the process flow is
+emerging as best practice in many organizations.
+¦ Access Management: this is the process of granting
+authorized users the right to use a service, while
+restricting access to non-authorized users. It is based
+on being able accurately to identify authorized users
+and then manage their ability to access services as
+required during different stages of their human
+resources (HR) or contractual lifecycle. Access
+Management has also been called Identity or Rights
+Management in some organizations.
+In addition, there are several other processes that will be
+executed or supported during Service Operation, but
+which are driven during other phases of the Service
+Management Lifecycle. The operational aspects of these
+processes will be discussed in the final part of this chapter
+and include:
+¦ Change Management, a major process which should
+be closely linked to Configuration Management and
+Release Management. These topics are primarily
+covered in the Service Transition publication.
+¦ Capacity and Availability Management, the operational
+aspects of which are covered in this publication, but
+which are covered in more detail in the Service Design
+publication.
+¦ Financial Management, which is covered in the Service
+Strategy publication.
+¦ Knowledge Management, which is covered in the
+Service Transition publication.
+¦ IT Service Continuity, which is covered in the Service
+Design publication.
+¦ Service Reporting and Measurement, which are
+covered in the Continual Service Improvement
+publication.
