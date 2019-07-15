@@ -1,0 +1,100 @@
+ACD Automatic Call Distribution
+AM Availability Management
+AMIS Availability Management Information System
+ASP Application Service Provider
+BCM Business Capacity Management
+BCM Business Continuity Management
+BCP Business Continuity Plan
+BIA Business Impact Analysis
+BRM Business Relationship Manager
+BSI British Standards Institution
+BSM Business Service Management
+CAB Change Advisory Board
+CAB/EC Change Advisory Board/Emergency Committee
+CAPEX Capital Expenditure
+CCM Component Capacity Management
+CFIA Component Failure Impact Analysis
+CI Configuration Item
+CMDB Configuration Management Database
+CMIS Capacity Management Information System
+CMM Capability Maturity Model
+CMMI Capability Maturity Model Integration
+CMS Configuration Management System
+COTS Commercial off the Shelf
+CSF Critical Success Factor
+CSI Continual Service Improvement
+CSP Core Service Package
+CTI Computer Telephony Integration
+DIKW Data–to–Information–to–Knowledge–
+to–Wisdom
+ELS Early Life Support
+eSCM–CL eSourcing Capability Model for Client
+Organizations
+eSCM–SP eSourcing Capability Model for Service Providers
+FMEA Failure Modes and Effects Analysis
+FTA Fault Tree Analysis
+IRR Internal Rate of Return
+ISG IT Steering Group
+ISM Information Security Management
+ISMS Information Security Management System
+ISO International Organization for Standardization
+ISP Internet Service Provider
+IT Information Technology
+ITSCM IT Service Continuity Management
+ITSM IT Service Management
+itSMF IT Service Management Forum
+IVR Interactive Voice Response
+KEDB Known Error Database
+KPI Key Performance Indicator
+LOS Line of Service
+M_o_R Management of Risk
+MTBF Mean Time Between Failures
+MTBSI Mean Time Between Service Incidents
+MTRS Mean Time to Restore Service
+MTTR Mean Time To Repair
+NPV Net Present Value
+OGC Office of Government Commerce
+OLA Operational Level Agreement
+OPEX Operational Expenditure
+OPSI Office of Public Sector Information
+PBA Pattern of Business Activity
+PFS Prerequisite for Success
+PIR Post-Implementation Review
+PSA Projected Service Outage
+QA Quality Assurance
+QMS Quality Management System
+RCA Root Cause Analysis
+RFC Request for Change
+ROI Return on Investment
+RPO Recovery Point Objective
+RTO Recovery Time Objective
+SAC Service Acceptance Criteria
+SACM Service Asset and Configuration Management
+SCD Supplier and Contract Database
+SCM Service Capacity Management
+SDP Service Design Package
+SFA Service Failure Analysis
+SIP Service Improvement Plan
+SKMS Service Knowledge Management System
+SLA Service Level Agreement
+SLM Service Level Management
+SLP Service Level Package
+SLR Service Level Requirement
+SMO Service Maintenance Objective
+SoC Separation of Concerns
+SOP Standard Operating Procedures
+SOR Statement of requirements
+SPI Service Provider Interface
+SPM Service Portfolio Management
+SPO Service Provisioning Optimization
+SPOF Single Point of Failure
+TCO Total Cost of Ownership
+TCU Total Cost of Utilization
+TO Technical Observation
+TOR Terms of Reference
+TQM Total Quality Management
+UC Underpinning Contract
+UP User Profile
+VBF Vital Business Function
+VOI Value on Investment
+WIP Work in Progress
