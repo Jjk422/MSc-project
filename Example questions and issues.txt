@@ -1,0 +1,56 @@
+*** Includes title ***
+----------------------------------------------------------------------------------------------------
+Concept:
+    Name = Scope
+    Definition = The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
+    Books = []
+    Attributes = ['definition::The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.', '4.1.2 Scope Event Management can be applied to any aspect of Service Management that needs to be controlled and which can be automated .', '4.2.2 Scope Incident Management includes any event which disrupts , or which could disrupt , a service .', '4.3.2 Scope The process needed to fulfil a request will vary depending upon exactly what is being requested � but can usually be broken down into a set of activities that have to be performed .', '4.4.2 Scope Problem Management includes the activities required to diagnose the root cause of incidents and to determine the resolution to those problems .', '4.5.2 Scope Access Management is effectively the execution of both Availability and Information Security Management , in that it enables the organization to manage the confidentiality , availability and integrity of the organization�s data and intellectual property .']
+----------------------------------------------------------------------------------------------------
+            
+Complete the following:
+ 4.1.2 __________ Event Management can be applied to any aspect of Service Management that needs to be controlled and which can be automated .
+- Plan–Do–Check–Act
+- Scope
+- Directory Service
+- Downtime
+
+********
+
+*** Includes another reference to the book ***
+----------------------------------------------------------------------------------------------------
+Concept:
+    Name = Modelling
+    Definition = A technique that is used to predict the future behaviour of a System, Process, IT Service, Configuration Item, etc. Modelling is commonly used in Financial Management, Capacity Management and Availability Management.
+    Books = []
+    Attributes = ['definition::A technique that is used to predict the future behaviour of a System, Process, IT Service, Configuration Item, etc. Modelling is commonly used in Financial Management, Capacity Management and Availability Management.', '4.6.4.7 Modelling and applications sizing Modelling and/or sizing of new services and/or applications must , where appropriate , be done during the planning and transition phases � see the Service Design and Service Transition publications .']
+----------------------------------------------------------------------------------------------------
+   
+Complete the following:
+ 4.6.4.7 __________ and applications sizing __________ and/or sizing of new services and/or applications must , where appropriate , be done during the planning and transition phases � see the Service Design and Service Transition publications .
+- Service Failure Analysis (SFA)
+- ISO/IEC 20000
+- Modelling
+- Acceptance
+
+*** See Fault tolerance ***
+----------------------------------------------------------------------------------------------------
+Concept:
+    Name = Redundancy
+    Definition = See Fault Tolerance. The term Redundant also has a generic meaning of obsolete, or no longer needed.
+    Books = []
+    Attributes = ['definition::See Fault Tolerance. The term Redundant also has a generic meaning of obsolete, or no longer needed.']
+----------------------------------------------------------------------------------------------------
+            
+Complete the following:
+ The definition of __________ is: See Fault Tolerance. The term Redundant also has a generic meaning of obsolete, or no longer needed.
+- Mean Time To Repair (MTTR)
+- Application Portfolio
+- Redundancy
+- Configuration Management System (CMS)
+
+
+
+
+***************************************
+*** Can do blooms level 1 but not 2 ***
+***************************************
