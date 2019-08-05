@@ -1,2 +1,3 @@
 question_template(Question_number=1,Answer_number=4,Answer_type=definition)::Question->What is the definition for "{concept.name}"?::Answer->{concept.definition}
 question_template(Question_number=1,Answer_number=4,Question_type=attribute.replace,Answer_type=concept.name)::Question->Complete the following:{newline} {!concept.name}::Answer->{concept.name}
+question_template(Question_number=1,Answer_number=4,Answer_type=books)::Question->Which book is the concept "{concept.name}" in?::Answer->{concept.book}
