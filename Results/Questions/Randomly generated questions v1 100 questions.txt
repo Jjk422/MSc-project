@@ -1,0 +1,889 @@
+What is the definition for "Budgeting"?
+- 1: A measurement of the time taken to respond to something. This could be Response Time of a Transaction, or the speed with which an IT Service Provider responds to an Incident or Request for Change, etc.
+- 2: The Activity of predicting and controlling the spending of money. Consists of a periodic negotiation cycle to set future Budgets (usually annual) and the day-to-day monitoring and adjusting of current Budgets.
+- 3: A Document that describes a formal understanding between two or more parties. An Agreement is not legally binding unless it forms part of a Contract. See also Service Level Agreement, Operational Level Agreement.
+- 4: Information that is used to support decision making by managers. Management Information is often generated automatically by tools supporting the various IT Service Management Processes. Management Information often includes the values of KPIs such as ‘Percentage of Changes leading to Incidents’, or ‘first-time fix rate’.
+
+Correct answer: The Activity of predicting and controlling the spending of money. Consists of a periodic negotiation cycle to set future Budgets (usually annual) and the day-to-day monitoring and adjusting of current Budgets.
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  (Service Operation) The time when a Configuration Item or IT Service is not Available during its Agreed Service Time. The Availability of an IT Service is often calculated from Agreed Service Time and __________.
+- 1: Internal Service Provider
+- 2: Downtime
+- 3: Operations Bridge
+- 4: Workaround
+
+Correct answer: Downtime
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The KEDB , like the CMS , forms part of a larger Service Knowledge __________ ( SKMS ) illustrated in Figure 4.6 .
+- 1: Process Owner
+- 2: Management System
+- 3: Service Provider
+- 4: Known Error
+
+Correct answer: Management System
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Planning and managing the execution of software tasks that are required as part of an IT Service. __________ is carried out by IT Operations Management, and is often automated using software tools that run batch or online tasks at specific times of the day, week, month or year.
+- 1: Configuration
+- 2: Best Practice
+- 3: Service Portfolio
+- 4: Job Scheduling
+
+Correct answer: Job Scheduling
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Internal Sourcing" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Management
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Detection" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Fault Tolerance" in?
+- 1: Service Strategy
+- 2: Service Management
+- 3: Service Design
+- 4: Service Operation
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Provider" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Transition
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Availability Plan" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Design
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Known Error Database (KEDB)" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Transition
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Capital Expenditure (CAPEX)" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Service Transition
+- 4: Service Strategy
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Informing or involving more senior levels of management to assist in an Escalation.
+- 1: ISO/IEC 27001
+- 2: Service Request
+- 3: Hierarchic Escalation
+- 4: Problem
+
+Correct answer: Hierarchic Escalation
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Immediate Recovery" in?
+- 1: Service Design
+- 2: Service Management
+- 3: Service Operation
+- 4: Service Transition
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Internet Service Provider (ISP)" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The structure of a System or IT Service, including the Relationships of Components to each other and to the environment they are in. __________ also includes the Standards and Guidelines that guide the design and evolution of the System.
+- 1: Architecture
+- 2: Live
+- 3: Integrity
+- 4: Application Management
+
+Correct answer: Architecture
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Supply Chain" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Transition
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: A measure of the balance between the Effectiveness and Cost of a Service, Process or activity, A Cost Effective Process is one that achieves its Objectives at minimum Cost. See also KPI, Value for Money.
+- 1: Closed
+- 2: Baseline
+- 3: Record
+- 4: Cost Effectiveness
+
+Correct answer: Cost Effectiveness
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "First-line Support" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ Other Problem Records , and corresponding __________ Records , may be triggered in testing , particularly the latter stages of testing such as User Acceptance Testing/Trials ( UAT ) , if a decision is made to go ahead with a release even though some faults are known .
+- 1: Control
+- 2: Service Improvement Plan (SIP)
+- 3: Known Error
+- 4: Deployment
+
+Correct answer: Known Error
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The Function responsible for Monitoring and Control of the IT Services and IT Infrastructure. See also Operations Bridge.
+- 1: Transition
+- 2: IT Operations Control
+- 3: Planning
+- 4: Status
+
+Correct answer: IT Operations Control
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A piece of information about a Configuration Item. Examples are: name, location, Version number, and Cost. __________s of CIs are recorded in the Configuration Management Database (CMDB). See also Relationship.
+- 1: Trend Analysis
+- 2: Priority
+- 3: Acceptance
+- 4: Attribute
+
+Correct answer: Attribute
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Information Technology (IT)" in?
+- 1: Not in a specific book
+- 2: Service Transition
+- 3: Service Management
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Design" in?
+- 1: Service Management
+- 2: Service Transition
+- 3: Service Strategy
+- 4: Service Design
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Functionality offered by a Product or Service to meet a particular need. __________ is often summarized as ‘what it does’.
+- 1: Utility
+- 2: Budgeting
+- 3: Document
+- 4: Fishbone Diagram
+
+Correct answer: Utility
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Storage Management" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Outcome." in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Service Transition
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Risk Management" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Service Management
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Business Case" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Service Transition
+- 4: Service Strategy
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Provision of Services from a location outside the country where the Customer is based, often in a different continent. This can be the provision of an IT Service, or of supporting Functions such as Service Desk.
+- 1: ISO/IEC 20000
+- 2: Off-shore
+- 3: Standard Change
+- 4: Programme
+
+Correct answer: Off-shore
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "IT Infrastructure" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Diagnosis" in?
+- 1: Service Transition
+- 2: Service Management
+- 3: Service Strategy
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ There may be occasions when __________ Staff themselves need downtime of one or more services to enable them to conduct their operational or maintenance activities � which may impact on availability if not properly scheduled and managed .
+- 1: Third Party
+- 2: Incident Record
+- 3: Operational
+- 4: Impact
+
+Correct answer: Operational
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Attribute" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
+- 1: Efficiency
+- 2: Project
+- 3: Facilities Management
+- 4: Operate
+
+Correct answer: Efficiency
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Assessment" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  An Activity that identifies underlying causes of one or more IT Service interruptions. SFA identifies opportunities to improve the IT Service Provider’s Processes and tools, and not just the IT Infrastructure. SFA is a time-constrained, project-like activity, rather than an ongoing process of analysis. See also Root Cause Analysis.
+- 1: Operations Management
+- 2: Threat
+- 3: Scalability
+- 4: Service Failure Analysis (SFA)
+
+Correct answer: Service Failure Analysis (SFA)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Hours" in?
+- 1: Service Design
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Strategy
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Active Monitoring" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "System" in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Strategy
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Procedures used by IT Operations Management.
+- 1: Standard Operating Procedures (SOP)
+- 2: Business Service
+- 3: Business Customer
+- 4: Estimation
+
+Correct answer: Standard Operating Procedures (SOP)
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The set of Processes responsible for ensuring that all work carried out by an Organization is of a suitable Quality to reliably meet Business Objectives or Service Levels. See also ISO 9000.
+- 1: Work in Progress (WIP)
+- 2: Qualification
+- 3: Quality Management System (QMS)
+- 4: Capacity Management
+
+Correct answer: Quality Management System (QMS)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Capacity Plan" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Design
+- 4: Service Operation
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Confidentiality" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Service Design
+- 4: Service Management
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A formal statement of what is needed. For example, a Service Level __________, a Project __________ or the required Deliverables for a Process. See also Statement of __________s.
+- 1: Definitive Media Library (DML)
+- 2: Cost Benefit Analysis
+- 3: Strategic
+- 4: Requirement
+
+Correct answer: Requirement
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Development Environment" in?
+- 1: Service Management
+- 2: Service Design
+- 3: Service Strategy
+- 4: Service Transition
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Any Component that needs to be managed in order to deliver an IT Service. Information about each CI is recorded in a Configuration Record within the Configuration Management System and is maintained throughout its Lifecycle by Configuration Management. CIs are under the control of Change Management. CIs typically include IT Services, hardware, software, buildings, people, and formal documentation such as Process documentation and SLAs.
+- 1: Configuration Item (CI)
+- 2: Service Request
+- 3: Service Portfolio Management (SPM)
+- 4: Rollout
+
+Correct answer: Configuration Item (CI)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Business Customer" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Operation
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Hierarchic Escalation" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  An approach to the management of IT Services, Processes, Functions, Assets, etc. There can be several different Control Perspectives on the same IT Service, Process, etc., allowing different individuals or teams to focus on what is important and relevant to their specific Role. Example Control Perspectives include Reactive and Proactive management within IT Operations, or a Lifecycle view for an Application Project team.
+- 1: Control perspective
+- 2: Attribute
+- 3: Configuration Management Database (CMDB)
+- 4: Service Culture
+
+Correct answer: Control perspective
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: A Metric that is used to measure the delivery of IT Service to a Customer. __________s are usually defined in SLAs and reported to Customers. See also Internal Metric.
+- 1: Document
+- 2: External Metric
+- 3: Process Control
+- 4: Proactive Problem Management
+
+Correct answer: External Metric
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Record" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: To perform as expected. A Process or Configuration Item is said to __________ if it is delivering the Required outputs. __________ also means to perform one or more Operations. For example, to __________ a computer is to do the day-today Operations needed for it to perform as expected.
+- 1: Business Relationship Management
+- 2: Activity
+- 3: Live Environment
+- 4: Operate
+
+Correct answer: Operate
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A repeatable way of dealing with a particular Category of Change. A __________ defines specific pre-defined steps that will be followed for a change of this Category. __________s may be very simple, with no requirement for approval (e.g. Password Reset) or may be very complex with many steps that require approval (e.g. major software release). See also Standard Change, Change Advisory Board.
+- 1: Design
+- 2: Change Model
+- 3: COBIT
+- 4: Procedure
+
+Correct answer: Change Model
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Operational Expenditure (OPEX)" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Management
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Operations Bridge" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Transition
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The recorded state of something at a specific point in time. A __________ can be created for a Configuration, a Process, or any other set of data. For example, a benchmark can be used in: �  Continual Service Improvement, to establish the current state for managing improvements �  Capacity Management, to document performance characteristics during normal operations. See also __________ing, Baseline.
+- 1: Diagnostic Script
+- 2: User
+- 3: Benchmark
+- 4: Maturity
+
+Correct answer: Benchmark
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A point of contact for Users to log Incidents. A __________ is usually more technically focussed than a Service Desk and does not provide a Single Point of Contact for all interaction. The term __________ is often used as a synonym for Service Desk.
+- 1: Configuration Control
+- 2: Help Desk
+- 3: Business Perspective
+- 4: Standby
+
+Correct answer: Help Desk
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The underlying or original cause of an Incident or Problem.
+- 1: Organization
+- 2: Change Management
+- 3: Fault Tolerance
+- 4: Root Cause
+
+Correct answer: Root Cause
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Configuration Item (CI)" in?
+- 1: Service Management
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ In this respect , Problem Management has a strong interface with __________ , and tools such as the Known Error Database will be used for both .
+- 1: Knowledge Management
+- 2: Effectiveness
+- 3: Risk Management
+- 4: Change Record
+
+Correct answer: Knowledge Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: The __________ is the world’s largest developer of Standards. ISO is a nongovernmental organization that is a network of the national standards institutes of 156 countries. See www.iso.org for further information about ISO.
+- 1: Change Case
+- 2: Emergency Change Advisory Board (ECAB)
+- 3: Risk Assessment
+- 4: International Organization for Standardization (ISO)
+
+Correct answer: International Organization for Standardization (ISO)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Design" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Service Design
+- 4: Service Transition
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ � Requests for __________ : In some cases the Request Fulfilment process will be initiated by an RFC .
+- 1: User Profile (UP)
+- 2: Change
+- 3: Cost
+- 4: Demand Management
+
+Correct answer: Change
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Optimize" in?
+- 1: Service Strategy
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: A number of Projects and Activities that are planned and managed together to achieve an overall set of related Objectives and other Outcomes.
+- 1: Certification
+- 2: Demand Management
+- 3: Asset
+- 4: Programme
+
+Correct answer: Programme
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Knowledge Management System (SKMS)" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Management
+- 4: Service Operation
+
+Correct answer: Service Transition
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Governance" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The first level in a hierarchy of Support Groups involved in the resolution of Incidents. Each level contains more specialist skills, or has more time or other resources. See also Escalation.
+- 1: Overhead
+- 2: Restoration of Service
+- 3: Objective
+- 4: First-line Support
+
+Correct answer: First-line Support
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ � When integrated into other __________ processes ( such as , for example , Availability or Capacity Management ) , Event Management can signal status changes or exceptions that allow the appropriate person or team to perform early response , thus improving the performance of the process .
+- 1: Kepner & Tregoe Analysis
+- 2: Service Management
+- 3: Risk
+- 4: Standard Change
+
+Correct answer: Service Management
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Attribute" in?
+- 1: Not in a specific book
+- 2: Service Operation
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Middleware" in?
+- 1: Service Operation
+- 2: Service Design
+- 3: Service Management
+- 4: Service Transition
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "IT Service Continuity Plan" in?
+- 1: Service Transition
+- 2: Service Management
+- 3: Service Strategy
+- 4: Service Design
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Capability" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Governance" in?
+- 1: Service Transition
+- 2: Service Management
+- 3: Service Operation
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A list of Assets that includes their ownership and value. Asset Management maintains the __________.
+- 1: Strategic
+- 2: Service Design
+- 3: Super User
+- 4: Asset Register
+
+Correct answer: Asset Register
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A stage in the Lifecycle of an IT Service and the title of one of the Core ITIL publications. Continual Service Improvement is responsible for managing improvements to IT Service Management Processes and IT Services. The Performance of the IT Service Provider is continually measured and improvements are made to Processes, IT Services and IT Infrastructure in order to increase Efficiency, Effectiveness, and Cost Effectiveness. See also Plan–Do–Check–Act.
+- 1: Accounting
+- 2: Continual Service Improvement (CSI)
+- 3: High Availability
+- 4: Application Portfolio
+
+Correct answer: Continual Service Improvement (CSI)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Technical Management" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: The IT Service Management Forum is an independent Organization dedicated to promoting a professional approach to IT Service Management. The itSMF is a notfor-profit membership Organization with representation in many countries around the world (itSMF Chapters). The itSMF and its membership contribute to the development of ITIL and associated IT Service Management Standards. See www.itsmf.com for more information.
+- 1: IT Service Management Forum (itSMF)
+- 2: Partnership
+- 3: IT Service
+- 4: Unit Cost
+
+Correct answer: IT Service Management Forum (itSMF)
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: Anything that might exploit a Vulnerability. Any potential cause of an Incident can be considered to be a __________. For example a fire is a __________ that could exploit the Vulnerability of flammable floor coverings. This term is commonly used in Information Security Management and IT Service Continuity Management, but also applies to other areas such as Problem and Availability Management.
+- 1: Threat
+- 2: Control perspective
+- 3: Providers (eSCM–SP)
+- 4: Service Request
+
+Correct answer: Threat
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  __________ is a general term covering any kind of integration between computers and telephone Systems. It is most commonly used to refer to Systems where an Application displays detailed screens relating to incoming or outgoing telephone calls. See also Automatic Call Distribution, Interactive Voice Response
+- 1: Process Manager
+- 2: Computer Telephony Integration (CTI)
+- 3: Audit
+- 4: Intermediate Recovery
+
+Correct answer: Computer Telephony Integration (CTI)
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "IT Operations" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Transaction" in?
+- 1: Service Transition
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Problem Record" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Management
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: Something that must be provided to meet a commitment in a Service Level Agreement or a Contract. __________ is also used in a more informal way to mean a planned output of any Process.
+- 1: Cost
+- 2: Deliverable
+- 3: Demand Management
+- 4: Diagnosis
+
+Correct answer: Deliverable
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Strategy" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Cost" in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Priority" in?
+- 1: Service Operation
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Strategy
+
+Correct answer: Service Transition
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Efficiency" in?
+- 1: Service Strategy
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Responsiveness" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Service Management
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Intermediate Recovery" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Service Strategy
+- 4: Service Design
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: The defined purpose or aim of a Process, an Activity or an Organization as a whole. __________s are usually expressed as measurable targets. The term __________ is also informally used to mean a Requirement. See also
+- 1: Model
+- 2: Objective
+- 3: Build
+- 4: Live Environment
+
+Correct answer: Objective
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Plan" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Transferring an Incident, Problem or Change to a technical team with a higher level of expertise to assist in an Escalation.
+- 1: Scalability
+- 2: Single Point of Contact
+- 3: Commercial Off-The-Shelf (COTS)
+- 4: Functional Escalation
+
+Correct answer: Functional Escalation
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ 4.6.3 __________ __________ is primarily covered in the Service Transition publication , but there are some aspects of this process which Service Operation staff will be involved with on a day-to-day basis .
+- 1: Release and Deployment Management
+- 2: Recovery Point Objective (RPO)
+- 3: IT Operations
+- 4: Service Operation
+
+Correct answer: Release and Deployment Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: Review, Plan and request Changes, in order to obtain the maximum Efficiency and Effectiveness from a Process, Configuration Item, Application, etc.
+- 1: Guideline
+- 2: Business Perspective
+- 3: Optimize
+- 4: Quality
+
+Correct answer: Optimize
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A logical database containing the data used by the Service Knowledge Management System.
+- 1: Continual Service Improvement (CSI)
+- 2: Integrity
+- 3: Knowledge Base
+- 4: Ishikawa Diagram
+
+Correct answer: Knowledge Base
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Asset" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A graphical representation of overall IT Service Performance and Availability. __________ images may be updated in real-time, and can also be included in management reports and web pages. __________s can be used to support Service Level Management, Event Management or Incident Diagnosis.
+- 1: Dashboard
+- 2: Transition
+- 3: Charging
+- 4: Call Type
+
+Correct answer: Dashboard
+
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Incident" in?
+- 1: Service Management
+- 2: Service Transition
+- 3: Service Operation
+- 4: Service Strategy
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A list of Assets that includes their ownership and value. Asset Management maintains the __________.
+- 1: Asset Register
+- 2: Error
+- 3: Security
+- 4: Fault Tree Analysis (FTA)
+
+Correct answer: Asset Register
+
+----------------------------------------------------------------------------------------------------

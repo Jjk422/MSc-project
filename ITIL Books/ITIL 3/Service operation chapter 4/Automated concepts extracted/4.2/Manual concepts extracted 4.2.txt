@@ -1,0 +1,104 @@
+ITIL terminology
+incident
+interruption
+IT service
+quality
+IT service
+configuration item
+service
+incident
+failure
+disk
+mirror set
+Incident Management
+process
+incidents
+failures
+questions
+queries
+users
+telephone call
+Service Desk
+technical staff
+event monitoring tools
+Purpose
+goal
+objective
+goal
+Incident Management process
+normal service operation
+adverse impact
+business operations
+levels of service quality
+availability
+Normal service operation
+service operation
+SLA limits
+Scope
+Incident Management
+event
+service
+events
+users
+Service Desk
+interface
+Event Management
+Incident Management tools
+Incidents
+technical staff
+hardware
+network component
+incident
+Service Desk
+events
+incidents
+classes
+events
+disruptions
+indicators
+normal operation
+informational
+incidents
+service requests
+Service Desk
+Service requests
+disruption
+agreed service
+customer's needs
+target
+SLA
+Service requests
+Request Fulfilment process
+value
+Incident Management
+incidents
+downtime
+business
+service
+business
+service
+IT activity
+real-time business priorities
+Incident Management
+business priorities
+resources
+potential improvements
+services
+incident
+activities
+business operational staff
+Service Desk
+incidents
+service
+training requirements
+IT
+business
+Incident Management
+business
+Service Operation
+Incident Management
+processes
+Service Management projects
+Incident Management
+expenditure
+processes

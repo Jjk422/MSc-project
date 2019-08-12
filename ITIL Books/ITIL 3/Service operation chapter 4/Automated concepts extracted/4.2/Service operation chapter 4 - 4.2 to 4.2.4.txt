@@ -1,0 +1,69 @@
+4.2 INCIDENT MANAGEMENT
+In ITIL terminology, an ‘incident’ is defined as:
+An unplanned interruption to an IT service or
+reduction in the quality of an IT service. Failure of a
+configuration item that has not yet impacted service
+is also an incident, for example failure of one disk
+from a mirror set.
+Incident Management is the process for dealing with
+all incidents; this can include failures, questions or
+queries reported by the users (usually via a telephone
+call to the Service Desk), by technical staff, or
+automatically detected and reported by event
+monitoring tools.
+4.2.1 Purpose/goal/objective
+The primary goal of the Incident Management process is
+to restore normal service operation as quickly as possible
+and minimize the adverse impact on business operations,
+thus ensuring that the best possible levels of service
+quality and availability are maintained. ‘Normal service
+operation’ is defined here as service operation within
+SLA limits.
+4.2.2 Scope
+Incident Management includes any event which disrupts,
+or which could disrupt, a service. This includes events
+which are communicated directly by users, either through
+the Service Desk or through an interface from Event
+Management to Incident Management tools.
+Incidents can also be reported and/or logged by technical
+staff (if, for example, they notice something untoward with
+a hardware or network component they may report or log
+an incident and refer it to the Service Desk). This does not
+mean, however, that all events are incidents. Many classes
+of events are not related to disruptions at all, but are
+indicators of normal operation or are simply informational
+(see section 4.1).
+Although both incidents and service requests are reported
+to the Service Desk, this does not mean that they are the
+same. Service requests do not represent a disruption to
+agreed service, but are a way of meeting the customer’s
+needs and may be addressing an agreed target in an SLA.
+Service requests are dealt with by the Request Fulfilment
+process (see section 4.3).
+4.2.3 Value to business
+The value of Incident Management includes:
+¦ The ability to detect and resolve incidents, which
+results in lower downtime to the business, which in
+turn means higher availability of the service. This
+means that the business is able to exploit the
+functionality of the service as designed.
+¦ The ability to align IT activity to real-time business
+priorities. This is because Incident Management
+includes the capability to identify business priorities
+and dynamically allocate resources as necessary.
+¦ The ability to identify potential improvements to
+services. This happens as a result of understanding
+what constitutes an incident and also from being in
+contact with the activities of business operational staff.
+¦ The Service Desk can, during its handling of incidents,
+identify additional service or training requirements
+found in IT or the business.
+Incident Management is highly visible to the business, and
+it is therefore easier to demonstrate its value than most
+areas in Service Operation. For this reason, Incident
+Management is often one of the first processes to be
+implemented in Service Management projects. The added
+benefit of doing this is that Incident Management can be
+used to highlight other areas that need attention –
+thereby providing a justification for expenditure on
+implementing other processes.

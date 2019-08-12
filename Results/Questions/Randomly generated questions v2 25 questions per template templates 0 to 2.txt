@@ -1,0 +1,684 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+25 Template 0 questions
+------------------------------------------------------------------------------------------------------------------------------------------------------
+What is the definition for "Kepner & Tregoe Analysis"?
+- 1:  (Continual Service Improvement) A structured approach to Problem solving. The Problem is analysed in terms of what, where, when and extent. Possible causes are identified. The most probable cause is tested. The true cause is verified.
+- 2: The name of a required field in many types of Record. It shows the current stage in the Lifecycle of the associated Configuration Item, Incident, Problem, etc.
+- 3: (Service Strategy) A pattern of User demand for IT Services. Each User Profile includes one or more Patterns of Business Activity.
+- 4: (Service Operation) A technique used to predict the impact of proposed Changes. Change Cases use specific scenarios to clarify the scope of proposed Changes and to help with Cost Benefit Analysis. See also Use Case.
+
+Correct answer:  (Continual Service Improvement) A structured approach to Problem solving. The Problem is analysed in terms of what, where, when and extent. Possible causes are identified. The most probable cause is tested. The true cause is verified.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Integrity"?
+- 1:  A security principle that ensures data and Configuration Items are modified only by authorized personnel and Activities. Integrity considers all possible causes of modification, including software and hardware Failure, environmental Events, and human intervention.
+- 2:  Planning and managing the execution of software tasks that are required as part of an IT Service. Job Scheduling is carried out by IT Operations Management, and is often automated using software tools that run batch or online tasks at specific times of the day, week, month or year.
+- 3:  The Process or Function responsible for maintaining a Relationship with the Business. Business Relationship Management usually includes: â–  Managing personal Relationships with Business managers â–  Providing input to Service Portfolio Management â–  Ensuring that the IT Service Provider is satisfying the
+- 4: A set of actions designed to achieve a particular result. Activities are usually defined as part of Processes or Plans, and are documented in Procedures.
+
+Correct answer:  A security principle that ensures data and Configuration Items are modified only by authorized personnel and Activities. Integrity considers all possible causes of modification, including software and hardware Failure, environmental Events, and human intervention.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Performance Management"?
+- 1: The difference between a planned value and the actual measured value. Commonly used in Financial Management, Capacity Management and Service Level Management, but could apply in any area where Plans are in place.
+- 2:  A logical database containing the data used by the Service Knowledge Management System.
+- 3: See Information Security Management.
+- 4:  The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+
+Correct answer:  The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Review"?
+- 1: Formal inspection and verification to check whether a Standard or set of Guidelines is being followed, that Records are accurate, or that Efficiency and Effectiveness targets are being met. An Audit may be carried out by internal or external groups.
+- 2:  A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
+- 3:  A Change that must be introduced as soon as possible. For example, to resolve a Major Incident or implement a Security patch. The Change Management Process will normally have a specific Procedure for handling Emergency Changes. See also Emergency Change Advisory Board (ECAB).
+- 4: An evaluation of a Change, Problem, Process, Project, etc. Reviews are typically carried out at predefined points in the Lifecycle, and especially after Closure. The purpose of a Review is to ensure that all Deliverables have been provided, and to identify opportunities for improvement.
+
+Correct answer: An evaluation of a Change, Problem, Process, Project, etc. Reviews are typically carried out at predefined points in the Lifecycle, and especially after Closure. The purpose of a Review is to ensure that all Deliverables have been provided, and to identify opportunities for improvement.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Budget"?
+- 1: (Service Operation) Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
+- 2:  A group of people that advises the Change Manager in the Assessment, prioritization and scheduling of Changes. This board is usually made up of representatives from all areas within the IT Service Provider, representatives from the Business and Third Parties such as Suppliers.
+- 3: A list of all the money an Organization or Business Unit plans to receive, and plans to pay out, over a specified period of time. See also Budgeting, Planning.
+- 4:  The expected time that a Configuration Item will be unavailable due to planned maintenance Activity.
+
+Correct answer: A list of all the money an Organization or Business Unit plans to receive, and plans to pay out, over a specified period of time. See also Budgeting, Planning.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Service Hours"?
+- 1: (Service Operation) Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
+- 2:  An unplanned interruption to an IT Service or reduction in the Quality of an IT Service. Failure of a Configuration Item that has not yet affected Service is also an Incident. For example Failure of one disk from a mirror set.
+- 3:  (Continual Service Improvement) An agreed time period when a particular IT Service should be Available. For example, â€˜Mondayâ€“Friday 08:00 to 17:00 except public holidaysâ€™. Service Hours should be defined in a Service Level Agreement.
+- 4: A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customerâ€™s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
+
+Correct answer:  (Continual Service Improvement) An agreed time period when a particular IT Service should be Available. For example, â€˜Mondayâ€“Friday 08:00 to 17:00 except public holidaysâ€™. Service Hours should be defined in a Service Level Agreement.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "IT Operations"?
+- 1:  The Activities in a Value Chain carried out by Suppliers. A Supply Chain typically involves multiple Suppliers, each adding value to the product or Service. See also Value Network.
+- 2:  The Process responsible for managing the Service Portfolio. Service Portfolio Management considers Services in terms of the Business value that they provide.
+- 3:  Activities carried out by IT Operations Control, including Console Management, Job Scheduling, Backup and Restore, and Print and Output Management. IT Operations is also used as a synonym for Service Operation.
+- 4:  The Process responsible for allowing Users to make use of IT Services, data, or other Assets. Access Management helps to protect the Confidentiality, Integrity and Availability of Assets by ensuring that only authorized Users are able to access or modify the Assets. Access Management is sometimes referred to as Rights Management or Identity Management.
+
+Correct answer:  Activities carried out by IT Operations Control, including Console Management, Job Scheduling, Backup and Restore, and Print and Output Management. IT Operations is also used as a synonym for Service Operation.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Monitoring"?
+- 1:  A set of tools and databases that are used to manage knowledge and information. The SKMS includes the Configuration Management System, as well as other tools and databases. The SKMS stores, manages, updates, and presents all information that an IT Service Provider needs to manage the full Lifecycle of IT Services.
+- 2: See Error.
+- 3:  The Cost to the IT Service Provider of providing a single Component of an IT Service. For example the Cost of a single desktop PC, or of a single Transaction.
+- 4:  Repeated observation of a Configuration Item, IT Service or Process to detect Events and to ensure that the current status is known.
+
+Correct answer:  Repeated observation of a Configuration Item, IT Service or Process to detect Events and to ensure that the current status is known.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Office of Government Commerce (OGC)"?
+- 1:  A design flaw or malfunction that causes a Failure of one or more Configuration Items or IT Services. A mistake made by a person or a faulty Process that affects a CI or IT Service is also an Error.
+- 2: (Service Operation) (Service Transition) A measure of the effect of an Incident, Problem or Change on Business Processes. Impact is often based on how Service Levels will be affected. Impact and Urgency are used to assign Priority.
+- 3: OGC owns the ITIL brand (copyright and trademark). OGC is a UK Government department that supports the delivery of the governmentâ€™s procurement agenda through its work in collaborative procurement and in raising levels of procurement skills and capability with departments. It also provides support for complex public sector projects.
+- 4: The various stages in the life of an IT Service, Configuration Item, Incident, Problem, Change, etc. The Lifecycle defines the Categories for Status and the Status transitions that are permitted. For example: â–  The Lifecycle of an Application includes Requirements, Design, Build, Deploy, Operate, Optimize â–  The Expanded Incident Lifecycle includes Detect, Respond, Diagnose, Repair, Recover, Restore â–  The Lifecycle of a Server may include: Ordered, Received, In Test, Live, Disposed, etc.
+
+Correct answer: OGC owns the ITIL brand (copyright and trademark). OGC is a UK Government department that supports the delivery of the governmentâ€™s procurement agenda through its work in collaborative procurement and in raising levels of procurement skills and capability with departments. It also provides support for complex public sector projects.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Impact"?
+- 1: A team or group of people and the tools they use to carry out one or more Processes or Activities. For example the Service Desk. The term Function also has two other meanings: â–  An intended purpose of a Configuration Item, Person, Team, Process, or IT Service. For example one Function of an e-mail Service may be to store and forward outgoing mails, one Function of a Business Process may be to dispatch goods to Customers. â–  To perform the intended purpose correctly, â€˜The computer is Functioningâ€™.
+- 2:  Activities carried out by IT Operations Control, including Console Management, Job Scheduling, Backup and Restore, and Print and Output Management. IT Operations is also used as a synonym for Service Operation.
+- 3:  (Service Transition) A measure of the effect of an Incident, Problem or Change on Business Processes. Impact is often based on how Service Levels will be affected. Impact and Urgency are used to assign Priority.
+- 4: An informal measure of Cost Effectiveness. Value for Money is often based on a comparison with the Cost of alternatives. See also Cost Benefit Analysis.
+
+Correct answer:  (Service Transition) A measure of the effect of an Incident, Problem or Change on Business Processes. Impact is often based on how Service Levels will be affected. Impact and Urgency are used to assign Priority.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Job Scheduling"?
+- 1: (Service Transition) A subset of the Change Advisory Board that makes decisions about high-impact Emergency Changes. Membership of the ECAB may be decided at the time a meeting is called, and depends on the nature of the Emergency Change.
+- 2: A measure of the number of Users engaged in the same Operation at the same time.
+- 3:  A graphical representation of overall IT Service Performance and Availability. Dashboard images may be updated in real-time, and can also be included in management reports and web pages. Dashboards can be used to support Service Level Management, Event Management or Incident Diagnosis.
+- 4:  Planning and managing the execution of software tasks that are required as part of an IT Service. Job Scheduling is carried out by IT Operations Management, and is often automated using software tools that run batch or online tasks at specific times of the day, week, month or year.
+
+Correct answer:  Planning and managing the execution of software tasks that are required as part of an IT Service. Job Scheduling is carried out by IT Operations Management, and is often automated using software tools that run batch or online tasks at specific times of the day, week, month or year.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Business Unit"?
+- 1:  The ability of an IT Service or Configuration Item to continue to Operate correctly after Failure of a Component part. See also Resilience, Countermeasure.
+- 2: A Customer-oriented Culture. The major Objectives of a Service Culture are Customer satisfaction and helping Customers to achieve their Business Objectives.
+- 3:  A segment of the Business that has its own Plans, Metrics, income and Costs. Each Business Unit owns Assets and uses these to create value for Customers in the form of goods and Services.
+- 4: An informal measure of Cost Effectiveness. Value for Money is often based on a comparison with the Cost of alternatives. See also Cost Benefit Analysis.
+
+Correct answer:  A segment of the Business that has its own Plans, Metrics, income and Costs. Each Business Unit owns Assets and uses these to create value for Customers in the form of goods and Services.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Operations Bridge"?
+- 1:  A physical location where IT Services and IT Infrastructure are monitored and managed.
+- 2: The lowest of three levels of Planning and delivery (Strategic, Tactical, Operational). Operational Activities include the day-to-day or short-term Planning or delivery of a Business Process or IT Service Management Process. The term Operational is also a synonym for Live.
+- 3: A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customerâ€™s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
+- 4: (Service Transition) The Activity responsible for ensuring that adding, modifying or removing a CI is properly managed, for example by submitting a Request for Change or Service Request.
+
+Correct answer:  A physical location where IT Services and IT Infrastructure are monitored and managed.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Priority"?
+- 1:  A stage in the Lifecycle of an IT Service. Service Design includes a number of Processes and Functions and is the title of one of the Core ITIL publications. See also Design.
+- 2: The act of assigning a Category to something. Classification is used to ensure consistent management and reporting. CIs, Incidents, Problems, Changes, etc. are usually classified.
+- 3: (Service Design) Any Configuration Item that can cause an Incident when it fails, and for which a Countermeasure has not been implemented. A SPOF may be a person, or a step in a Process or Activity, as well as a Component of the IT Infrastructure. See also Failure.
+- 4:  (Service Operation) A Category used to identify the relative importance of an Incident, Problem or Change. Priority is based on Impact and Urgency, and is used to identify required times for actions to be taken. For example the SLA may state that Priority 2 Incidents must be resolved within 12 hours.
+
+Correct answer:  (Service Operation) A Category used to identify the relative importance of an Incident, Problem or Change. Priority is based on Impact and Urgency, and is used to identify required times for actions to be taken. For example the SLA may state that Priority 2 Incidents must be resolved within 12 hours.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Early Life Support"?
+- 1:  Support provided for a new or Changed IT Service for a period of time after it is Released. During Early Life Support the IT Service Provider may review the KPIs, Service Levels and Monitoring Thresholds, and provide additional Resources for Incident and Problem Management.
+- 2:  A repeatable way of dealing with a particular Category of Change. A Change Model defines specific pre-defined steps that will be followed for a change of this Category. Change Models may be very simple, with no requirement for approval (e.g. Password Reset) or may be very complex with many steps that require approval (e.g. major software release). See also Standard Change, Change Advisory Board.
+- 3:  A Recovery Option that is also known as Warm Standby. Provision is made to Recover the IT Service in a period of time between 24 and 72 hours. Intermediate Recovery typically uses a shared Portable or Fixed Facility that has Computer Systems and Network Components. The hardware and software will need to be configured, and data will need to be restored, as part of the IT Service Continuity Plan.
+- 4: A Role responsible for ensuring that a Process is Fit for Purpose. The Process Ownerâ€™s responsibilities include sponsorship, Design, Change Management and continual improvement of the Process and its Metrics. This Role is often assigned to the same person who carries out the Process Manager Role, but the two Roles may be separate in larger Organizations.
+
+Correct answer:  Support provided for a new or Changed IT Service for a period of time after it is Released. During Early Life Support the IT Service Provider may review the KPIs, Service Levels and Monitoring Thresholds, and provide additional Resources for Incident and Problem Management.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Application Sizing"?
+- 1:  The Activity responsible for understanding the Resource Requirements needed to support a new Application, or a major Change to an existing Application. Application Sizing helps to ensure that the IT Service can meet its agreed Service Level Targets for Capacity and Performance.
+- 2: See Internal Sourcing.
+- 3: The direct or indirect reliance of one Process or Activity on another.
+- 4: The use of technology for the storage, communication or processing of information. The technology typically includes computers, telecommunications, Applications and other software. The information may include Business data, voice, images, video, etc. Information Technology is often used to support Business Processes through IT Services.
+
+Correct answer:  The Activity responsible for understanding the Resource Requirements needed to support a new Application, or a major Change to an existing Application. Application Sizing helps to ensure that the IT Service can meet its agreed Service Level Targets for Capacity and Performance.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Evaluation"?
+- 1:  Transferring an Incident, Problem or Change to a technical team with a higher level of expertise to assist in an Escalation.
+- 2: (Service Operation) The Function responsible for managing the physical Environment where the IT Infrastructure is located. Facilities Management includes all aspects of managing the physical Environment, for example power and cooling, building Access Management, and environmental Monitoring.
+- 3:  The Process responsible for assessing a new or Changed IT Service to ensure that Risks have been managed and to help determine whether to proceed with the Change. Evaluation is also used to mean comparing an actual Outcome with the intended Outcome, or comparing one alternative with another.
+- 4: (Service Operation) Action taken to repair the Root Cause of an Incident or Problem, or to implement a Workaround. In ISO/IEC 20000, Resolution Processes is the Process group that includes Incident and Problem Management.
+
+Correct answer:  The Process responsible for assessing a new or Changed IT Service to ensure that Risks have been managed and to help determine whether to proceed with the Change. Evaluation is also used to mean comparing an actual Outcome with the intended Outcome, or comparing one alternative with another.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Business Process"?
+- 1:  A group of people that advises the Change Manager in the Assessment, prioritization and scheduling of Changes. This board is usually made up of representatives from all areas within the IT Service Provider, representatives from the Business and Third Parties such as Suppliers.
+- 2: (Service Operation) Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
+- 3:  A Cost of providing an IT Service, which cannot be allocated in full to a specific customer. For example, the Cost of providing shared Servers or software licences. Also known as Overhead.
+- 4: A Process that is owned and carried out by the Business. A Business Process contributes to the delivery of a product or Service to a Business Customer. For example, a retailer may have a purchasing Process that helps to deliver Services to its Business Customers. Many Business Processes rely on IT Services.
+
+Correct answer: A Process that is owned and carried out by the Business. A Business Process contributes to the delivery of a product or Service to a Business Customer. For example, a retailer may have a purchasing Process that helps to deliver Services to its Business Customers. Many Business Processes rely on IT Services.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "ISO 9000"?
+- 1: (Continual Service Improvement) The Process responsible for producing and delivering reports of achievement and trends against Service Levels. Service Reporting should agree the format, content and frequency of reports with Customers.
+- 2:  An Environment used to create or modify IT Services or Applications. Development Environments are not typically subjected to the same degree of control as Test Environments or Live Environments. See also Development.
+- 3: Inspection and analysis to check whether a Standard or set of Guidelines is being followed, that Records are accurate, or that Efficiency and Effectiveness targets are being met. See also Audit.
+- 4: A generic term that refers to a number of international Standards and Guidelines for Quality Management Systems. See www.iso.org for more information. See also ISO.
+
+Correct answer: A generic term that refers to a number of international Standards and Guidelines for Quality Management Systems. See www.iso.org for more information. See also ISO.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Restore"?
+- 1: A company, legal entity or other institution. Examples of Organizations that are not companies include International Standards Organization or itSMF. The term Organization is sometimes used to refer to any entity that has People, Resources and Budgets. For example a Project or Business Unit.
+- 2:  A four-stage cycle for Process management, attributed to Edward Deming. Planâ€“Doâ€“Checkâ€“Act is also called the Deming Cycle. PLAN: Design or revise Processes that support the IT Services. DO: Implement the Plan and manage the Processes. CHECK: Measure the Processes and IT Services, compare with Objectives and produce reports. ACT: Plan and implement Changes to improve the Processes.
+- 3:  Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
+- 4:  Ability of a Configuration Item or IT Service to perform its agreed Function when required. Availability is determined by Reliability, Maintainability, Serviceability, Performance, and Security. Availability is usually calculated as a percentage. This calculation is often based on Agreed Service Time and Downtime. It is Best Practice to calculate Availability using measurements of the Business output of the IT Service.
+
+Correct answer:  Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "ISO/IEC 20000"?
+- 1: The Process responsible for identifying, assessing and controlling Risks. See also Risk Assessment.
+- 2: A Status that means Activities have started but are not yet complete. It is commonly used as a Status for Incidents, Problems, Changes, etc.
+- 3:  A physical location where IT Services and IT Infrastructure are monitored and managed.
+- 4: ISO Specification and Code of Practice for IT Service Management. ISO/IEC 20000 is aligned with ITIL Best Practice.
+
+Correct answer: ISO Specification and Code of Practice for IT Service Management. ISO/IEC 20000 is aligned with ITIL Best Practice.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Mean Time Between Failures (MTBF)"?
+- 1: Information that is used to support decision making by managers. Management Information is often generated automatically by tools supporting the various IT Service Management Processes. Management Information often includes the values of KPIs such as â€˜Percentage of Changes leading to Incidentsâ€™, or â€˜first-time fix rateâ€™.
+- 2: (Service Design) Any Configuration Item that can cause an Incident when it fails, and for which a Countermeasure has not been implemented. A SPOF may be a person, or a step in a Process or Activity, as well as a Component of the IT Infrastructure. See also Failure.
+- 3:  The Process responsible for allowing Users to make use of IT Services, data, or other Assets. Access Management helps to protect the Confidentiality, Integrity and Availability of Assets by ensuring that only authorized Users are able to access or modify the Assets. Access Management is sometimes referred to as Rights Management or Identity Management.
+- 4:  A Metric for measuring and reporting Reliability. MTBF is the average time that a Configuration Item or IT Service can perform its agreed Function without interruption. This is measured from when the CI or IT Service starts working, until it next fails.
+
+Correct answer:  A Metric for measuring and reporting Reliability. MTBF is the average time that a Configuration Item or IT Service can perform its agreed Function without interruption. This is measured from when the CI or IT Service starts working, until it next fails.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "IT Service Continuity Plan"?
+- 1: (Service Operation) (Continual Service Improvement) A technique that helps a team to identify all the possible causes of a Problem. Originally devised by Kaoru Ishikawa, the output of this technique is a diagram that looks like a fishbone.
+- 2: (Service Strategy) Requiring payment for IT Services. Charging for IT Services is optional, and many Organizations choose to treat their IT Service Provider as a Cost Centre.
+- 3:  A Plan defining the steps required to Recover one or more IT Services. The Plan will also identify the triggers for Invocation, people to be involved, communications, etc. The IT Service Continuity Plan should be part of a Business Continuity Plan.
+- 4: A Customer-oriented Culture. The major Objectives of a Service Culture are Customer satisfaction and helping Customers to achieve their Business Objectives.
+
+Correct answer:  A Plan defining the steps required to Recover one or more IT Services. The Plan will also identify the triggers for Invocation, people to be involved, communications, etc. The IT Service Continuity Plan should be part of a Business Continuity Plan.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Internal Service Provider"?
+- 1:  An IT Service Provider that is part of the same Organization as its Customer. An IT Service Provider may have both Internal Customers and External Customers.
+- 2: (Service Design) The Process responsible for managing Risks that could seriously affect IT Services. ITSCM ensures that the IT Service Provider can always provide minimum agreed Service Levels, by reducing the Risk to an acceptable level and Planning for the Recovery of IT Services. ITSCM should be designed to support Business Continuity Management.
+- 3: The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
+- 4:  A four-stage cycle for Process management, attributed to Edward Deming. Planâ€“Doâ€“Checkâ€“Act is also called the Deming Cycle. PLAN: Design or revise Processes that support the IT Services. DO: Implement the Plan and manage the Processes. CHECK: Measure the Processes and IT Services, compare with Objectives and produce reports. ACT: Plan and implement Changes to improve the Processes.
+
+Correct answer:  An IT Service Provider that is part of the same Organization as its Customer. An IT Service Provider may have both Internal Customers and External Customers.
+
+----------------------------------------------------------------------------------------------------
+What is the definition for "Recovery"?
+- 1: See Error.
+- 2: (Service Operation) The Process responsible for managing the Lifecycle of all Problems. The primary objectives of Problem Management are to prevent Incidents from happening, and to minimize the Impact of Incidents that cannot be prevented.
+- 3: An informal term used to describe a Process, Configuration Item, IT Service, etc. that is capable of meeting its objectives or Service Levels. Being Fit for Purpose requires suitable design, implementation, control and maintenance.
+- 4:  (Service Operation) Returning a Configuration Item or an IT Service to a working state. Recovery of an IT Service often includes recovering data to a known consistent state. After Recovery, further steps may be needed before the IT Service can be made available to the Users (Restoration).
+
+Correct answer:  (Service Operation) Returning a Configuration Item or an IT Service to a working state. Recovery of an IT Service often includes recovering data to a known consistent state. After Recovery, further steps may be needed before the IT Service can be made available to the Users (Restoration).
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+25 Template 1 questions
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A group or team of people who carry out a specific Role for a fixed period of time. For example there could be four shifts of IT Operations Control personnel to support an IT Service that is used 24 hours a day.
+- 1: Back-out
+- 2: Shift
+- 3: Strategic
+- 4: Change
+
+Correct answer: Shift
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A telephone call to the Service Desk from a User. A __________ could result in an Incident or a Service Request being logged.
+- 1: Process
+- 2: Reliability
+- 3: Operational Expenditure (OPEX)
+- 4: Call
+
+Correct answer: Call
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Refers to an IT Service or Configuration Item that is being used to deliver Service to a Customer.
+- 1: Access Management
+- 2: Recovery Option
+- 3: Call Type
+- 4: Live
+
+Correct answer: Live
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ ï¿½ Business __________ involves working with the business to plan and anticipate both longerterm strategic issues and shorter-term tactical initiatives that are likely to have an impact on IT capacity .
+- 1: Service Asset
+- 2: Service Request
+- 3: Operational Level Agreement (OLA)
+- 4: Capacity Management
+
+Correct answer: Capacity Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The cost of purchasing something that will become a financial Asset, for example computer equipment and buildings. The value of the Asset is Depreciated over multiple accounting periods.
+- 1: Budgeting
+- 2: Capacity
+- 3: Service Portfolio
+- 4: Capital Expenditure (CAPEX)
+
+Correct answer: Capital Expenditure (CAPEX)
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: See Information __________.
+- 1: Project
+- 2: Service Asset
+- 3: Application Sizing
+- 4: Security Policy
+
+Correct answer: Security Policy
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The Activity within Capacity Management responsible for creating a Capacity Plan.
+- 1: Indirect Cost
+- 2: Capacity Planning
+- 3: Metric
+- 4: Supply Chain
+
+Correct answer: Capacity Planning
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: The ability of an IT Service, Process, Configuration Item, etc. to perform its agreed Function when the Workload or Scope changes.
+- 1: Quality Management System (QMS)
+- 2: Scalability
+- 3: Quality Management System (QMS)
+- 4: Attribute
+
+Correct answer: Scalability
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: See Information __________.
+- 1: Security Policy
+- 2: Redundancy
+- 3: IT Service Management Forum (itSMF)
+- 4: Escalation
+
+Correct answer: Security Policy
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: See Information __________.
+- 1: Security
+- 2: External Metric
+- 3: Security Management
+- 4: Evaluation
+
+Correct answer: Security Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is: See Information __________.
+- 1: Transaction
+- 2: Recovery Point Objective (RPO)
+- 3: Known Error Record
+- 4: Security Policy
+
+Correct answer: Security Policy
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ Thorough design of the event detection and alert mechanisms requires the following : ï¿½ Business knowledge in relationship to any business processes being managed via Event Management ï¿½ Detailed knowledge of the __________ Requirements of the service being supported by each CI ï¿½ Knowledge of who is going to be supporting the CI ï¿½ Knowledge of what constitutes normal and abnormal operation of the CI ï¿½ Knowledge of the significance of multiple similar events ( on the same CI or various similar CIs ï¿½ An understanding of what they need to know to support the CI effectively ï¿½ Information that can help in the diagnosis of problems with the CI ï¿½ Familiarity with incident prioritization and categorization codes so that if it is necessary to create an Incident Record , these codes can be provided ï¿½ Knowledge of other CIs that may be dependent on the affected CI , or those CIs on which it depends ï¿½ Availability of Known Error information from vendors or from previous experience .
+- 1: Service Level
+- 2: Configuration Management System (CMS)
+- 3: Failure
+- 4: Operations Bridge
+
+Correct answer: Service Level
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  In the context of ITSM, Business Capacity Management is the Activity responsible for understanding future Business Requirements for use in the Capacity Plan. See also Service Capacity Management.
+- 1: External Service Provider
+- 2: Internet Service Provider (ISP)
+- 3: Business Capacity Management (BCM)
+- 4: Planâ€“Doâ€“Checkâ€“Act
+
+Correct answer: Business Capacity Management (BCM)
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The operational aspects of these processes will be discussed in the final part of this chapter and include : ï¿½ Change Management , a major process which should be closely linked to __________ and Release Management .
+- 1: Application Sizing
+- 2: Balanced Scorecard
+- 3: Configuration Management
+- 4: Supplier Management
+
+Correct answer: Configuration Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  Using an External Service Provider to manage IT Services. See also Service Sourcing.
+- 1: Objective
+- 2: Proactive Monitoring
+- 3: Outsourcing
+- 4: Management Information
+
+Correct answer: Outsourcing
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The Process responsible for Planning, scheduling and controlling the movement of Releases to Test and Live Environments. The primary Objective of __________ is to ensure that the integrity of the Live Environment is protected and that the correct Components are released. __________ is part of the Release and Deployment Management Process.
+- 1: Effectiveness
+- 2: Business Customer
+- 3: Follow the Sun
+- 4: Release Management
+
+Correct answer: Release Management
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ 4.4.5 Process activities , methods and techniques Problem Management consists of two major processes : ï¿½ Reactive Problem Management , which is generally executed as part of Service __________ ï¿½ and is therefore covered in this publication ï¿½ Proactive Problem Management which is initiated in Service __________ , but generally driven as part of Continual Service Improvement ( see this publication for fuller details ) .
+- 1: Operation
+- 2: Risk Management
+- 3: Service Manager
+- 4: IT Operations Management
+
+Correct answer: Operation
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The Process responsible for ensuring that the Quality of a product, Service or Process will provide its intended Value.
+- 1: Release
+- 2: Quality Assurance (QA)
+- 3: Balanced Scorecard
+- 4: Technical Management
+
+Correct answer: Quality Assurance (QA)
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  The complete set of Services that are managed by a Service Provider. The __________ is used to manage the entire Lifecycle of all Services, and includes three Categories: Service Pipeline (proposed or in Development); Service Catalogue (Live or available for Deployment); and Retired Services. See also __________ Management.
+- 1: Standard
+- 2: Interactive Voice Response (IVR)
+- 3: Build
+- 4: Service Portfolio
+
+Correct answer: Service Portfolio
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  (Continual Service Improvement) ISO Specification for Information Security Management. The corresponding Code of Practice is ISO/IEC 17799. See also Standard.
+- 1: Fishbone Diagram
+- 2: Strategic
+- 3: ISO/IEC 27001
+- 4: Operational
+
+Correct answer: ISO/IEC 27001
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ 4.5.2 __________ Access Management is effectively the execution of both Availability and Information Security Management , in that it enables the organization to manage the confidentiality , availability and integrity of the organizationï¿½s data and intellectual property .
+- 1: Service Level Target
+- 2: Scope
+- 3: Repair
+- 4: Guideline
+
+Correct answer: Scope
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  An Organization supplying Services to one or more Internal Customers or External Customers. __________ is often used as an abbreviation for IT __________.
+- 1: COBIT
+- 2: Major Incident
+- 3: Best Practice
+- 4: Service Provider
+
+Correct answer: Service Provider
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A controlled Environment used to Test Configuration Items, Builds, IT Services, Processes, etc.
+- 1: Service Continuity Management
+- 2: Test Environment
+- 3: Planâ€“Doâ€“Checkâ€“Act
+- 4: Impact
+
+Correct answer: Test Environment
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ The definition of __________ is:  A methodology for using Service Desks and Support Groups around the world to provide seamless 24/7 Service. Calls, Incidents, Problems and Service Requests are passed between groups in different time zones.
+- 1: Follow the Sun
+- 2: Diagnosis
+- 3: Planâ€“Doâ€“Checkâ€“Act
+- 4: Development
+
+Correct answer: Follow the Sun
+
+----------------------------------------------------------------------------------------------------
+Complete the following:
+ Rather , it will execute the decisions and policies made during Service __________ and Design and also decisions made by managers in the organization .
+- 1: Deployment
+- 2: Workload
+- 3: Strategy
+- 4: Retire
+
+Correct answer: Strategy
+
+----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+25 Template 2 questions
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Which book is the concept "Escalation" in?
+- 1: Not in a specific book
+- 2: Service Strategy
+- 3: Service Management
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Ishikawa Diagram" in?
+- 1: Service Transition
+- 2: Service Management
+- 3: Service Operation
+- 4: Service Strategy
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Availability Management" in?
+- 1: Service Transition
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Process Manager" in?
+- 1: Service Operation
+- 2: Service Management
+- 3: Not in a specific book
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Standby" in?
+- 1: Service Transition
+- 2: Service Management
+- 3: Service Strategy
+- 4: Service Design
+
+Correct answer: Service Design
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Known Error" in?
+- 1: Service Transition
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Availability Management" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Partnership" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Capital Expenditure (CAPEX)" in?
+- 1: Not in a specific book
+- 2: Service Operation
+- 3: Service Management
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Requirement" in?
+- 1: Service Operation
+- 2: Service Management
+- 3: Not in a specific book
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Problem Management" in?
+- 1: Service Management
+- 2: Service Transition
+- 3: Service Strategy
+- 4: Service Operation
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Service Strategy" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Management
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Business" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Operation
+- 4: Service Management
+
+Correct answer: Service Strategy
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Monitoring" in?
+- 1: Service Transition
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Quality Management System (QMS)" in?
+- 1: Not in a specific book
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Model" in?
+- 1: Service Strategy
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Outcome." in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "IT Service Management (ITSM)" in?
+- 1: Service Strategy
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Management
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Modelling" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Strategy
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Major Incident" in?
+- 1: Service Transition
+- 2: Service Operation
+- 3: Service Management
+- 4: Service Strategy
+
+Correct answer: Service Operation
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Test Environment" in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Fault" in?
+- 1: Service Strategy
+- 2: Service Management
+- 3: Service Operation
+- 4: Not in a specific book
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Dashboard" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Operational" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Operation
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Which book is the concept "Governance" in?
+- 1: Not in a specific book
+- 2: Service Operation
+- 3: Service Management
+- 4: Service Transition
+
+Correct answer: Not in a specific book
+----------------------------------------------------------------------------------------------------
