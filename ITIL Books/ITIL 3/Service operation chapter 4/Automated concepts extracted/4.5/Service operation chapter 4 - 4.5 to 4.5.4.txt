@@ -1,0 +1,44 @@
+4.5 ACCESS MANAGEMENT
+Access Management is the process of granting authorized
+users the right to use a service, while preventing access to
+non-authorized users. It has also been referred to as Rights
+Management or Identity Management in different
+organizations.
+4.5.1 Purpose/goal/objective
+Access Management provides the right for users to be able
+to use a service or group of services. It is therefore the
+execution of policies and actions defined in Security and
+Availability Management.
+4.5.2 Scope
+Access Management is effectively the execution of both
+Availability and Information Security Management, in that
+it enables the organization to manage the confidentiality,
+availability and integrity of the organization�s data and
+intellectual property.
+Access Management ensures that users are given the right
+to use a service, but it does not ensure that this access is
+available at all agreed times � this is provided by
+Availability Management.
+Access Management is a process that is executed by all
+Technical and Application Management functions and is
+usually not a separate function. However, there is likely to
+be a single control point of coordination, usually in IT
+Operations Management or on the Service Desk.
+Access Management can be initiated by a Service Request
+through the Service Desk.
+4.5.3 Value to business
+Access Management provides the following value:
+� Controlled access to services ensures that the
+organization is able to maintain more effectively the
+confidentiality of its information
+� Employees have the right level of access to execute
+their jobs effectively
+� There is less likelihood of errors being made in data
+entry or in the use of a critical service by an unskilled
+user (e.g. production control systems)
+� The ability to audit use of services and to trace the
+abuse of services
+� The ability more easily to revoke access rights when
+needed � an important security consideration
+� May be needed for regulatory compliance (e.g. SOX,
+HIPAA, COBIT).

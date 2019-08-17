@@ -1,1 +1,1 @@
-ITIL_3_BOOKS = ["Service Management", "Service Strategy", "Service Transition", "Service Operation"]
+ITIL_3_BOOKS = ["Service Design", "Service Strategy", "Service Transition", "Service Operation", "Continual Service Improvement"]

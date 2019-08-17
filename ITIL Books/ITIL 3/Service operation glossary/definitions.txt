@@ -1432,11 +1432,10 @@ Objective
 ::The defined purpose or aim of a Process, an Activity or an
 Organization as a whole. Objectives are usually expressed
 as measurable targets. The term Objective is also
-informally used to mean a Requirement. See also
+informally used to mean a Requirement. See also Outcome.
 
-Outcome.
-::Off the Shelf
-See Commercial Off the Shelf.
+Off the Shelf
+::See Commercial Off the Shelf.
 
 Office of Government Commerce (OGC)
 ::OGC owns the ITIL brand (copyright and trademark). OGC

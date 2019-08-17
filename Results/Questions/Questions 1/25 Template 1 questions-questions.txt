@@ -1,0 +1,203 @@
+----------------------------------------------------------------------------------------------------
+25 Template 1 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+Complete the following:
+ The definition of __________ is:  A list of Assets that includes their ownership and value. Asset Management maintains the __________.
+- 1: Application
+- 2: User
+- 3: Cost
+- 4: Asset Register
+----------------------------------------------------------------------------------------------------
+Question 1:
+Complete the following:
+ The definition of __________ is:  A group or team of people who carry out a specific Role for a fixed period of time. For example there could be four shifts of IT Operations Control personnel to support an IT Service that is used 24 hours a day.
+- 1: Shift
+- 2: Service Asset
+- 3: Operational Cost
+- 4: Recovery Point Objective (RPO)
+----------------------------------------------------------------------------------------------------
+Question 2:
+Complete the following:
+ These may include : � Actual implementation actions regarding the deployment of new releases , under the direction of Release and __________ Management , where they relate to Service Operation components or services � Participation in the planning stages of major new releases to advise on Service Operation issues � The physical handling of CIs from/to the DML as required to fulfil their operational roles � while adhering to relevant Release and __________ Management procedures , such as ensure that all items are properly booked out and back in .
+- 1: Deployment
+- 2: Budget
+- 3: Optimize
+- 4: Project
+----------------------------------------------------------------------------------------------------
+Question 3:
+Complete the following:
+ The definition of __________ is:  Monitoring that takes action in response to an Event. For example submitting a batch job when the previous job completes, or logging an Incident when an Error occurs. See also Proactive Monitoring.
+- 1: Lifecycle
+- 2: Reactive Monitoring
+- 3: Configuration Item (CI)
+- 4: Service Asset and Configuration Management (SACM)
+----------------------------------------------------------------------------------------------------
+Question 4:
+Complete the following:
+ The definition of __________ is: See Technical Management.
+- 1: Assessment
+- 2: Technical Support
+- 3: Hierarchic Escalation
+- 4: Outsourcing
+----------------------------------------------------------------------------------------------------
+Question 5:
+Complete the following:
+ The definition of __________ is:  A Strategy for responding to an interruption to Service. Commonly used Strategies are Do Nothing, Manual Workaround, Reciprocal Arrangement, Gradual Recovery, Intermediate Recovery, Fast Recovery, Immediate Recovery. __________s may make use of dedicated facilities, or Third Party facilities shared by multiple Businesses.
+- 1: Emergency Change
+- 2: Recovery Option
+- 3: Rights
+- 4: Diagnostic Script
+----------------------------------------------------------------------------------------------------
+Question 6:
+Complete the following:
+ The definition of __________ is:  The day-to-day execution, monitoring and management of Business Processes.
+- 1: Business Operations
+- 2: Standard
+- 3: Vital Business Function (VBF)
+- 4: Information Security Policy
+----------------------------------------------------------------------------------------------------
+Question 7:
+Complete the following:
+ As well as creating a __________ in the Known Error Database ( see paragraph 4.4.5.7 ) to ensure quicker diagnosis , the creation of a Problem Model for handling such problems in the future may be helpful .
+- 1: Impact
+- 2: Supply Chain
+- 3: Business Service Management (BSM)
+- 4: Known Error Record
+----------------------------------------------------------------------------------------------------
+Question 8:
+Complete the following:
+ The definition of __________ is:  Monitoring of a Configuration Item or an IT Service that uses automated regular checks to discover the current status. See also Passive Monitoring.
+- 1: Active Monitoring
+- 2: Diagnosis
+- 3: Design
+- 4: Variance
+----------------------------------------------------------------------------------------------------
+Question 9:
+Complete the following:
+ The definition of __________ is: A description of what the Organization intends to become in the future. A __________ is created by senior management and is used to help influence Culture and Strategic Planning.
+- 1: Vision
+- 2: Budgeting
+- 3: Definitive Media Library (DML)
+- 4: Business Capacity Management (BCM)
+----------------------------------------------------------------------------------------------------
+Question 10:
+Complete the following:
+ The definition of __________ is: The Activity responsible for Planning changes to make the most efficient use of Resources. __________ is part of Performance Management, which also includes Performance monitoring and implementation of the required Changes.
+- 1: Risk
+- 2: Shift
+- 3: Tuning
+- 4: Use Case
+----------------------------------------------------------------------------------------------------
+Question 11:
+Complete the following:
+ In such cases a decision may be taken to leave the Problem Record open but to use a workaround description in the __________ to detect and resolve any recurrences quickly .
+- 1: Known Error Record
+- 2: Service Request
+- 3: Technical Management
+- 4: ITIL
+----------------------------------------------------------------------------------------------------
+Question 12:
+Complete the following:
+ The definition of __________ is:  A technique used in Service Improvement, Problem investigation and Availability Management. Technical support staff meet to monitor the behaviour and Performance of an IT Service and make recommendations for improvement.
+- 1: Operations Control
+- 2: Technical Observation
+- 3: Fulfilment
+- 4: Classification
+----------------------------------------------------------------------------------------------------
+Question 13:
+Complete the following:
+ The definition of __________ is: The average time taken to repair a Configuration Item or IT Service after a Failure. MTTR is measured from when the CI or IT Service fails until it is repaired. MTTR does not include the time required to Recover or Restore. MTTR is sometimes incorrectly used to mean Mean Time to Restore Service.
+- 1: Early Life Support
+- 2: Contract
+- 3: Mean Time To Repair (MTTR)
+- 4: Requirement
+----------------------------------------------------------------------------------------------------
+Question 14:
+Complete the following:
+ The definition of __________ is:  A point of contact for Users to log Incidents. A __________ is usually more technically focussed than a Service Desk and does not provide a Single Point of Contact for all interaction. The term __________ is often used as a synonym for Service Desk.
+- 1: Accredited
+- 2: System Management
+- 3: Rollout
+- 4: Help Desk
+----------------------------------------------------------------------------------------------------
+Question 15:
+Complete the following:
+ The definition of __________ is:  The Activity within Capacity Management responsible for creating a Capacity Plan.
+- 1: Audit
+- 2: Capacity Planning
+- 3: Lifecycle
+- 4: Workload
+----------------------------------------------------------------------------------------------------
+Question 16:
+Complete the following:
+ The definition of __________ is:  A limited Deployment of an IT Service, a Release or a Process to the Live Environment. A pilot is used to reduce Risk and to gain User feedback and Acceptance. See also Test, Evaluation.
+- 1: Alert
+- 2: Pilot
+- 3: Certification
+- 4: Closure
+----------------------------------------------------------------------------------------------------
+Question 17:
+Complete the following:
+ The definition of __________ is:  A technique that helps to identify the impact of CI failure on IT Services. A matrix is created with IT Services on one edge and CIs on the other. This enables the identification of critical CIs (that could cause the failure of multiple IT Services) and of fragile IT Services (that have multiple Single Points of Failure).
+- 1: Component Failure Impact Analysis (CFIA)
+- 2: Strategic
+- 3: Call Type
+- 4: Confidentiality
+----------------------------------------------------------------------------------------------------
+Question 18:
+Complete the following:
+ The definition of __________ is: A Customer-oriented Culture. The major Objectives of a __________ are Customer satisfaction and helping Customers to achieve their Business Objectives.
+- 1: Budgeting
+- 2: IT Infrastructure
+- 3: Service Culture
+- 4: Call Type
+----------------------------------------------------------------------------------------------------
+Question 19:
+Complete the following:
+ The definition of __________ is:  A graphical representation of overall IT Service Performance and Availability. __________ images may be updated in real-time, and can also be included in management reports and web pages. __________s can be used to support Service Level Management, Event Management or Incident Diagnosis.
+- 1: Closed
+- 2: Statement of requirements (SOR)
+- 3: Service Request
+- 4: Dashboard
+----------------------------------------------------------------------------------------------------
+Question 20:
+Complete the following:
+ The definition of __________ is: The ability of an IT Service, Process, Configuration Item, etc. to perform its agreed Function when the Workload or Scope changes.
+- 1: Fit for Purpose
+- 2: Scalability
+- 3: Technical Support
+- 4: Quality
+----------------------------------------------------------------------------------------------------
+Question 21:
+Complete the following:
+ The definition of __________ is:  The ease with which an Application, product, or IT Service can be used. __________ Requirements are often included in a Statement of Requirements.
+- 1: Service Knowledge Management System (SKMS)
+- 2: Work Instruction
+- 3: Usability
+- 4: Release Record
+----------------------------------------------------------------------------------------------------
+Question 22:
+Complete the following:
+ 4.3.3 Value to business The value of __________ is to provide quick and effective access to standard services which business staff can use to improve their productivity or the quality of business services and products .
+- 1: Hierarchic Escalation
+- 2: Change Advisory Board (CAB)
+- 3: Request Fulfilment
+- 4: Partnership
+----------------------------------------------------------------------------------------------------
+Question 23:
+Complete the following:
+ The definition of __________ is:  The reduction in average Cost that is possible from increasing the usage of an IT Service or Asset.
+- 1: Access Management
+- 2: Economies of scale
+- 3: Operational
+- 4: Internal Metric
+----------------------------------------------------------------------------------------------------
+Question 24:
+Complete the following:
+ 4.1.2 Scope Event Management can be applied to any aspect of __________ that needs to be controlled and which can be automated .
+- 1: Operational Expenditure (OPEX)
+- 2: Standard Operating Procedures (SOP)
+- 3: Stakeholder
+- 4: Service Management
+----------------------------------------------------------------------------------------------------

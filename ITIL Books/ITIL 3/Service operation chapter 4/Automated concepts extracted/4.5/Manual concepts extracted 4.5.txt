@@ -1,0 +1,87 @@
+Access Management
+Access Management
+process
+authorized users
+right
+service
+access
+non-authorized users
+Rights Management
+Identity Management
+organizations
+Purpose
+goal
+objective
+Access Management
+right
+users
+service
+group
+services
+execution
+policies
+actions
+Security
+Availability Management
+Scope
+Access Management
+execution
+Availability
+Information Security Management
+organization
+manage
+confidentiality
+availability
+integrity
+organization's data
+intellectual property
+Access Management
+users
+right
+service
+access
+available
+agreed times
+Availability Management
+Access Management
+process
+Technical
+Application Management Functions
+separate function
+single control point
+coordination
+IT Operations Management
+Service Desk
+Access Management
+initiated
+Service Request
+Service Desk
+Value to business
+Access Management
+value
+Controlled access
+services
+organization
+maintain
+confidentiality
+information
+Employees
+level of access
+jobs
+likelihood of errors
+data entry
+critical service
+unskilled user
+production control systems
+ability
+use of services
+trace
+abuse
+services
+ability
+access rights
+security consideration
+regulatory compliance
+SOX
+HIPAA
+COBIT

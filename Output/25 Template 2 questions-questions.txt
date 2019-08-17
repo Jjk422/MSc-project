@@ -1,0 +1,178 @@
+----------------------------------------------------------------------------------------------------
+25 Template 2 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+Which book is the concept "Control perspective" in?
+- 1: Continual Service Improvement
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 1:
+Which book is the concept "Detection" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 2:
+Which book is the concept "Providers (eSCM–SP)" in?
+- 1: Service Design
+- 2: Continual Service Improvement
+- 3: Service Strategy
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 3:
+Which book is the concept "Scope" in?
+- 1: Service Transition
+- 2: Service Design
+- 3: Service Strategy
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 4:
+Which book is the concept "Service Level Target" in?
+- 1: Continual Service Improvement
+- 2: Service Transition
+- 3: Service Design
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 5:
+Which book is the concept "Operate" in?
+- 1: Service Design
+- 2: Not in a specific book
+- 3: Continual Service Improvement
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 6:
+Which book is the concept "Policy" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Continual Service Improvement
+----------------------------------------------------------------------------------------------------
+Question 7:
+Which book is the concept "Mean Time Between Failures (MTBF)" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Design
+- 4: Continual Service Improvement
+----------------------------------------------------------------------------------------------------
+Question 8:
+Which book is the concept "Review" in?
+- 1: Service Design
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 9:
+Which book is the concept "Detection" in?
+- 1: Service Strategy
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 10:
+Which book is the concept "Practice" in?
+- 1: Service Operation
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 11:
+Which book is the concept "Rights" in?
+- 1: Service Strategy
+- 2: Continual Service Improvement
+- 3: Service Design
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 12:
+Which book is the concept "Customer" in?
+- 1: Continual Service Improvement
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 13:
+Which book is the concept "Transition" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Continual Service Improvement
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 14:
+Which book is the concept "Agreement" in?
+- 1: Service Design
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 15:
+Which book is the concept "Fault" in?
+- 1: Service Design
+- 2: Service Strategy
+- 3: Continual Service Improvement
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 16:
+Which book is the concept "Efficiency" in?
+- 1: Service Design
+- 2: Service Operation
+- 3: Service Transition
+- 4: Continual Service Improvement
+----------------------------------------------------------------------------------------------------
+Question 17:
+Which book is the concept "Fault Tolerance" in?
+- 1: Service Operation
+- 2: Continual Service Improvement
+- 3: Service Transition
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 18:
+Which book is the concept "Trend Analysis" in?
+- 1: Continual Service Improvement
+- 2: Service Strategy
+- 3: Service Design
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 19:
+Which book is the concept "Account Manager" in?
+- 1: Service Transition
+- 2: Service Operation
+- 3: Service Design
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 20:
+Which book is the concept "Management Information" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Service Operation
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 21:
+Which book is the concept "Business Process" in?
+- 1: Service Operation
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Continual Service Improvement
+----------------------------------------------------------------------------------------------------
+Question 22:
+Which book is the concept "Lifecycle" in?
+- 1: Service Transition
+- 2: Not in a specific book
+- 3: Service Strategy
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 23:
+Which book is the concept "Call" in?
+- 1: Service Design
+- 2: Service Operation
+- 3: Service Transition
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 24:
+Which book is the concept "Single Point of Failure (SPOF)" in?
+- 1: Service Strategy
+- 2: Service Design
+- 3: Service Operation
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------

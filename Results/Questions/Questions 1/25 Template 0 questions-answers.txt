@@ -1,0 +1,78 @@
+----------------------------------------------------------------------------------------------------
+25 Template 0 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+ The expected time that a Configuration Item will be unavailable due to planned maintenance Activity.
+----------------------------------------------------------------------------------------------------
+Question 1:
+ The Process responsible for managing the storage and maintenance of data throughout its Lifecycle.
+----------------------------------------------------------------------------------------------------
+Question 2:
+An informal term used to describe a Process, Configuration Item, IT Service, etc. that is capable of meeting its objectives or Service Levels. Being Fit for Purpose requires suitable design, implementation, control and maintenance.
+----------------------------------------------------------------------------------------------------
+Question 3:
+ (Continual Service Improvement) A Customer Requirement for an aspect of an IT Service. SLRs are based on Business Objectives and are used to negotiate agreed Service Level Targets.
+----------------------------------------------------------------------------------------------------
+Question 4:
+ The highest Category of Impact for an Incident. A Major Incident results in significant disruption to the Business.
+----------------------------------------------------------------------------------------------------
+Question 5:
+ A complex set of relationships between two or more groups or Organizations. Value is generated through exchange of knowledge, information, goods or Services. See also Partnership.
+----------------------------------------------------------------------------------------------------
+Question 6:
+ An Activity or Process that identifies Requirements and then defines a solution that is able to meet these Requirements. See also Service Design.
+----------------------------------------------------------------------------------------------------
+Question 7:
+ The Process responsible for ensuring that the Capacity of IT Services and the IT Infrastructure is able to deliver agreed Service Level Targets in a Cost Effective and timely manner. Capacity Management considers all Resources required to deliver the IT Service, and plans for short-, medium- and long-term Business Requirements.
+----------------------------------------------------------------------------------------------------
+Question 8:
+A relationship between two Organizations that involves working closely together for common goals or mutual benefit. The IT Service Provider should have a Partnership with the Business, and with Third Parties who are critical to the delivery of IT Services. See also Value Network.
+----------------------------------------------------------------------------------------------------
+Question 9:
+ A recipient of a product or a Service from the Business. For example, if the Business is a car manufacturer then the Business Customer is someone who buys a car.
+----------------------------------------------------------------------------------------------------
+Question 10:
+ A Category that is used to distinguish incoming requests to a Service Desk. Common call types are Incident, Service Request and Complaint.
+----------------------------------------------------------------------------------------------------
+Question 11:
+Information that is used to support decision making by managers. Management Information is often generated automatically by tools supporting the various IT Service Management Processes. Management Information often includes the values of KPIs such as ‘Percentage of Changes leading to Incidents’, or ‘first-time fix rate’.
+----------------------------------------------------------------------------------------------------
+Question 12:
+Off the Shelf See Commercial Off the Shelf.
+----------------------------------------------------------------------------------------------------
+Question 13:
+ The Process responsible for ensuring that all Contracts with Suppliers support the needs of the Business, and that all Suppliers meet their contractual commitments.
+----------------------------------------------------------------------------------------------------
+Question 14:
+ The maximum Throughput that a Configuration Item or IT Service can deliver whilst meeting agreed Service Level Targets. For some types of CI, Capacity may be the size or volume, for example a disk drive.
+----------------------------------------------------------------------------------------------------
+Question 15:
+ (Service Operation) A Category used to identify the relative importance of an Incident, Problem or Change. Priority is based on Impact and Urgency, and is used to identify required times for actions to be taken. For example the SLA may state that Priority 2 Incidents must be resolved within 12 hours.
+----------------------------------------------------------------------------------------------------
+Question 16:
+An Activity responsible for creating one or more Plans. For example, Capacity Planning.
+----------------------------------------------------------------------------------------------------
+Question 17:
+A relationship between two Organizations that involves working closely together for common goals or mutual benefit. The IT Service Provider should have a Partnership with the Business, and with Third Parties who are critical to the delivery of IT Services. See also Value Network.
+----------------------------------------------------------------------------------------------------
+Question 18:
+ Something that is measured and reported to help manage a Process, IT Service or Activity. See also KPI.
+----------------------------------------------------------------------------------------------------
+Question 19:
+Officially authorized to carry out a Role. For example, an Accredited body may be authorized to provide training or to conduct Audits.
+----------------------------------------------------------------------------------------------------
+Question 20:
+ A stage in the Incident and Problem Lifecycles. The purpose of Diagnosis is to identify a Workaround for an Incident or the Root Cause of a Problem.
+----------------------------------------------------------------------------------------------------
+Question 21:
+See Fault Tolerance. The term Redundant also has a generic meaning of obsolete, or no longer needed.
+----------------------------------------------------------------------------------------------------
+Question 22:
+ The replacement or correction of a failed Configuration Item.
+----------------------------------------------------------------------------------------------------
+Question 23:
+ Reducing or eliminating the Impact of an Incident or Problem for which a full Resolution is not yet available. For example by restarting a failed Configuration Item. Workarounds for Problems are documented in Known Error Records. Workarounds for Incidents that do not have associated Problem Records are documented in the Incident Record.
+----------------------------------------------------------------------------------------------------
+Question 24:
+ In the context of ITSM, Business Capacity Management is the Activity responsible for understanding future Business Requirements for use in the Capacity Plan. See also Service Capacity Management.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+4.6 OPERATIONAL ACTIVITIES OF
+PROCESSES COVERED IN OTHER LIFECYCLE
+PHASES
+4.6.1 Change Management
+Change Management is primarily covered in the Service
+Transition publication, but there are some aspects of
+Change Management which Service Operation staff will be
+involved with on a day-to-day basis. These include:
+� Raising and submitting RFCs as needed to address
+Service Operation issues
+� Participating in CAB or CAB/EC meetings to ensure
+that Service Operation risks, issues and views are taken
+into account
+� Implementing changes as directed by Change
+Management where they involve Service Operation
+component or services
+� Backing out changes as directed by Change
+Management where they involve Service Operation
+component or services
+� Helping define and maintain change models relating
+to Service Operation components or services
+� Receiving change schedules and ensuring that all
+Service Operation staff are made aware of and
+prepared for all relevant changes
+� Using the Change Management process for standard,
+operational-type changes.
+4.6.2 Configuration Management
+Configuration Management is primarily covered in the
+Service Transition publication, but there are some aspects
+of Configuration Management which Service Operation
+staff will be involved with on a day-to-day basis. These
+include:
+� Informing Configuration Management of any
+discrepancies found between any CIs and the CMS
+� Making any amendments necessary to correct any
+discrepancies, under the authority of Configuration
+Management, where they involve any Service
+Operation components or services.
+Responsibility for updating the CMS remains with
+Configuration Management, but in some cases Operations
+staff might be asked, under the direction of Configuration
+Management, to update relationships, or even to add new
+CIs or mark CIs as �disposed� in the CMS, if these updates
+are related to operational activities actually performed by
+Operations staff.
+4.6.3 Release and Deployment Management
+Release and Deployment Management is primarily covered
+in the Service Transition publication, but there are some
+aspects of this process which Service Operation staff will
+be involved with on a day-to-day basis. These may
+include:
+� Actual implementation actions regarding the
+deployment of new releases, under the direction of
+Release and Deployment Management, where they
+relate to Service Operation components or services
+� Participation in the planning stages of major new
+releases to advise on Service Operation issues
+� The physical handling of CIs from/to the DML as
+required to fulfil their operational roles � while
+adhering to relevant Release and Deployment
+Management procedures, such as ensure that all items
+are properly booked out and back in.

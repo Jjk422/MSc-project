@@ -1,0 +1,78 @@
+----------------------------------------------------------------------------------------------------
+25 Template 0 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+ A generic term that includes IT Infrastructure, people, money or anything else that might help to deliver an IT Service. Resources are considered to be Assets of an Organization. See also Capability, Service Asset.
+----------------------------------------------------------------------------------------------------
+Question 1:
+ The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
+----------------------------------------------------------------------------------------------------
+Question 2:
+ The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
+----------------------------------------------------------------------------------------------------
+Question 3:
+ The Process responsible for ensuring that all Contracts with Suppliers support the needs of the Business, and that all Suppliers meet their contractual commitments.
+----------------------------------------------------------------------------------------------------
+Question 4:
+ A Record containing the details of a Change. Each Change Record documents the Lifecycle of a single Change. A Change Record is created for every Request for Change that is received, even those that are subsequently rejected. Change Records should reference the Configuration Items that are affected by the Change. Change Records are stored in the Configuration Management System.
+----------------------------------------------------------------------------------------------------
+Question 5:
+A generic term that means a Customer, the Business or a Business Customer. For example, Client Manager may be used as a synonym for Account Manager. The term client is also used to mean: ■ A computer that is used directly by a User, for example a PC, Handheld Computer, or Workstation ■ The part of a Client-Server Application that the User directly interfaces with. For example an e-mail Client.
+----------------------------------------------------------------------------------------------------
+Question 6:
+ The first level in a hierarchy of Support Groups involved in the resolution of Incidents. Each level contains more specialist skills, or has more time or other resources. See also Escalation.
+----------------------------------------------------------------------------------------------------
+Question 7:
+ A Record in the CMDB that defines the content of a Release. A Release Record has Relationships with all Configuration Items that are affected by the Release.
+----------------------------------------------------------------------------------------------------
+Question 8:
+The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
+----------------------------------------------------------------------------------------------------
+Question 9:
+ A complex set of relationships between two or more groups or Organizations. Value is generated through exchange of knowledge, information, goods or Services. See also Partnership.
+----------------------------------------------------------------------------------------------------
+Question 10:
+ A subset of the IT Infrastructure that is used for a particular purpose. For Example: Live Environment, Test Environment, Build Environment. It is possible for multiple Environments to share a Configuration Item, for example Test and Live Environments may use different partitions on a single mainframe computer. Also used in the term Physical Environment to mean the accommodation, air conditioning, power system, etc. Environment is also used as a generic term to mean the external conditions that influence or affect something.
+----------------------------------------------------------------------------------------------------
+Question 11:
+ The Activities in a Value Chain carried out by Suppliers. A Supply Chain typically involves multiple Suppliers, each adding value to the product or Service. See also Value Network.
+----------------------------------------------------------------------------------------------------
+Question 12:
+ A set of tools and databases that are used to manage an IT Service Provider’s Configuration data. The CMS also includes information about Incidents, Problems, Known Errors, Changes and Releases; and it may contain data about employees, Suppliers, locations, Business Units, Customers and Users. The CMS includes tools for collecting, storing, managing, updating, and presenting data about all Configuration Items and their Relationships. The CMS is maintained by Configuration Management and is used by all IT Service Management Processes. See also Configuration Management Database, Service Knowledge Management System.
+----------------------------------------------------------------------------------------------------
+Question 13:
+ Loss of ability to Operate to Specification, or to deliver the required output. The term Failure may be used when referring to IT Services, Processes, Activities, Configuration Items, etc. A Failure often causes an Incident.
+----------------------------------------------------------------------------------------------------
+Question 14:
+ A methodology for managing continual Improvement by using a Quality Management System. TQM establishes a Culture involving all people in the Organization in a Process of continual monitoring and improvement.
+----------------------------------------------------------------------------------------------------
+Question 15:
+ An Application that manages information about IT Infrastructure available on a network, and corresponding User access Rights.
+----------------------------------------------------------------------------------------------------
+Question 16:
+See Commercial Off the Shelf.
+----------------------------------------------------------------------------------------------------
+Question 17:
+The OGC methodology for managing Risks. M_o_R includes all the Activities required to identify and Control the exposure to Risk, which may have an impact on the achievement of an Organization’s Business Objectives. See www.m-o-r.org for more details.
+----------------------------------------------------------------------------------------------------
+Question 18:
+ A recipient of a product or a Service from the Business. For example, if the Business is a car manufacturer then the Business Customer is someone who buys a car.
+----------------------------------------------------------------------------------------------------
+Question 19:
+ A technique that helps a team to generate ideas. Ideas are not reviewed during the Brainstorming session, but at a later stage. Brainstorming is often used by Problem Management to identify possible causes.
+----------------------------------------------------------------------------------------------------
+Question 20:
+ The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+----------------------------------------------------------------------------------------------------
+Question 21:
+ (Continual Service Improvement) A measure of how long a Configuration Item or IT Service can perform its agreed Function without interruption. Usually measured as MTBF or MTBSI. The term Reliability can also be used to state how likely it is that a Process, Function, etc. will deliver its required outputs. See also Availability.
+----------------------------------------------------------------------------------------------------
+Question 22:
+The name of a required field in many types of Record. It shows the current stage in the Lifecycle of the associated Configuration Item, Incident, Problem, etc.
+----------------------------------------------------------------------------------------------------
+Question 23:
+ The act of changing the Status of an Incident, Problem, Change, etc. to Closed.
+----------------------------------------------------------------------------------------------------
+Question 24:
+ The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+----------------------------------------------------------------------------------------------------

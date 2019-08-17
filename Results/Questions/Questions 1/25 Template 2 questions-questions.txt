@@ -1,0 +1,178 @@
+----------------------------------------------------------------------------------------------------
+25 Template 2 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+Which book is the concept "Application Sizing" in?
+- 1: Service Strategy
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Management
+----------------------------------------------------------------------------------------------------
+Question 1:
+Which book is the concept "Live Environment" in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Strategy
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 2:
+Which book is the concept "Resource" in?
+- 1: Service Management
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 3:
+Which book is the concept "Call Type" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 4:
+Which book is the concept "Off-shore" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Transition
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 5:
+Which book is the concept "Certification" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Management
+----------------------------------------------------------------------------------------------------
+Question 6:
+Which book is the concept "Detection" in?
+- 1: Not in a specific book
+- 2: Service Management
+- 3: Service Transition
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 7:
+Which book is the concept "Guideline" in?
+- 1: Not in a specific book
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 8:
+Which book is the concept "Service Design" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 9:
+Which book is the concept "Utility" in?
+- 1: Service Transition
+- 2: Not in a specific book
+- 3: Service Operation
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 10:
+Which book is the concept "Resolution" in?
+- 1: Service Strategy
+- 2: Service Management
+- 3: Service Operation
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 11:
+Which book is the concept "Operational Level Agreement (OLA)" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Service Transition
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 12:
+Which book is the concept "Business Unit" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Service Transition
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 13:
+Which book is the concept "Redundancy" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 14:
+Which book is the concept "Providers (eSCM–SP)" in?
+- 1: Service Management
+- 2: Service Strategy
+- 3: Service Operation
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 15:
+Which book is the concept "Repair" in?
+- 1: Service Operation
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 16:
+Which book is the concept "IT Service Continuity Plan" in?
+- 1: Not in a specific book
+- 2: Service Transition
+- 3: Service Operation
+- 4: Service Management
+----------------------------------------------------------------------------------------------------
+Question 17:
+Which book is the concept "Metric" in?
+- 1: Service Management
+- 2: Service Operation
+- 3: Service Transition
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 18:
+Which book is the concept "Early Life Support" in?
+- 1: Service Strategy
+- 2: Service Management
+- 3: Service Operation
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 19:
+Which book is the concept "Workload" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 20:
+Which book is the concept "Call Type" in?
+- 1: Service Operation
+- 2: Not in a specific book
+- 3: Service Transition
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 21:
+Which book is the concept "Closure" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Not in a specific book
+- 4: Service Management
+----------------------------------------------------------------------------------------------------
+Question 22:
+Which book is the concept "IT Infrastructure" in?
+- 1: Service Management
+- 2: Not in a specific book
+- 3: Service Strategy
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 23:
+Which book is the concept "Pilot" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Service Management
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 24:
+Which book is the concept "Strategy" in?
+- 1: Service Operation
+- 2: Service Transition
+- 3: Service Strategy
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------

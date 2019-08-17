@@ -1,0 +1,83 @@
+Problem Management
+ITIL problem
+cause
+incidents
+Purpose
+goal
+objective
+Problem Management
+process
+lifecycle
+problems
+objectives
+Problem Management
+problems
+incidents
+impact
+incidents
+Scope
+Problem Management
+activities
+root cause
+incidents
+resolution
+problems
+resolution
+control procedures
+Change Management
+Release Management
+Problem Management
+information
+problems
+workarounds
+resolutions
+organization
+incidents
+time
+Problem Management
+strong interface
+Knowledge Management
+tools
+Known Error Database
+Incident and Problem Management
+processes
+tools
+categorization
+impact coding systems
+priority coding systems
+communication
+incidents
+problems
+Value to business
+Problem Management
+Incident Management
+Change Management
+IT service availability
+quality
+incidents
+resolved
+information
+resolution
+information
+resolution
+permanent solutions
+number
+resolution time
+incidents
+downtime
+disruption
+business critical systems
+Additional value
+availability
+IT services
+productivity
+business
+IT staff
+expenditure
+workarounds
+fixes
+cost
+effort
+fire-fighting
+resolving
+incidents

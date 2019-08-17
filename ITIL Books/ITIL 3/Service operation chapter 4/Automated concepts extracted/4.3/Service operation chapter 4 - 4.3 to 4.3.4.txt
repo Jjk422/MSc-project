@@ -1,0 +1,73 @@
+4.3 REQUEST FULFILMENT
+The term �Service Request� is used as a generic description
+for many varying types of demands that are placed upon
+the IT Department by the users. Many of these are actually
+small changes � low risk, frequently occurring, low cost,
+etc. (e.g. a request to change a password, a request to
+install an additional software application onto a particular
+workstation, a request to relocate some items of desktop
+equipment) or maybe just a question requesting
+information � but their scale and frequent, low-risk nature
+means that they are better handled by a separate process,
+rather than being allowed to congest and obstruct the
+normal Incident and Change Management processes.
+4.3.1 Purpose/goal/objective
+Request Fulfilment is the processes of dealing with Service
+Requests from the users. The objectives of the Request
+Fulfilment process include:
+� To provide a channel for users to request and receive
+standard services for which a pre-defined approval and
+qualification process exists
+� To provide information to users and customers about
+the availability of services and the procedure for
+obtaining them
+� To source and deliver the components of requested
+standard services (e.g. licences and software media)
+� To assist with general information, complaints or
+comments.
+4.3.2 Scope
+The process needed to fulfil a request will vary depending
+upon exactly what is being requested � but can usually be
+broken down into a set of activities that have to be
+performed. Some organizations will be comfortable to let
+the Service Requests be handled through their Incident
+Management processes (and tools) � with Service Requests
+being handled as a particular type of �incident� (using a
+high-level categorization system to identify those
+�incidents� that are in fact Service Requests).
+Note, however, that there is a significant difference here �
+an incident is usually an unplanned event whereas a
+Service Request is usually something that can and should
+be planned!
+Therefore, in an organization where large numbers of
+Service Requests have to be handled, and where the
+actions to be taken to fulfil those requests are very varied
+or specialized, it may be appropriate to handle Service
+Requests as a completely separate work stream � and to
+record and manage them as a separate record type.
+This may be particularly appropriate if the organization
+has chosen to widen the scope of the Service Desk to
+expand upon just IT-related issues and use the desk as a
+focal point for other types or request for service � for
+example, a request to service a photocopier or even going
+so far as to include, for example, building management
+issues, such as a need to replace a light fitment or repair a
+leak in the plumbing.
+Note: It will ultimately be up to each organization to
+decide and document which request it will handle
+through the Request Fulfilment process and which others
+will have to go through more formal Change
+Management. There will always be grey areas which
+prevent generic guidance from being usefully prescribed.
+4.3.3 Value to business
+The value of Request Fulfilment is to provide quick and
+effective access to standard services which business staff
+can use to improve their productivity or the quality of
+business services and products.
+Request Fulfilment effectively reduces the bureaucracy
+involved in requesting and receiving access to existing or
+new services, thus also reducing the cost of providing
+these services. Centralizing fulfilment also increases the
+level of control over these services. This in turn can help
+reduce costs through centralized negotiation with
+suppliers, and can also help to reduce the cost of support.

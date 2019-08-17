@@ -1,0 +1,94 @@
+OPERATIONAL ACTIVITIES
+PROCESSES
+LIFECYCLE PHASES
+Change Management
+Change Management
+Service Transition publication
+Change Management
+Service Operation staff
+day-to-day-basis
+RFCs
+Service Operation issues
+CAB
+CAB meetings
+EC meetings
+Service Operation risks
+issues
+views
+changes
+Change Management
+Service Operation component
+services
+Change Management
+Service operation component
+services
+change models
+Service Operation components
+services
+change schedules
+Service Operation staff
+changes
+Change Management process
+standard
+operational-type changes
+Configuration Management
+Configuration Management
+Service Transition publication
+aspects
+Configuration Management
+Service Operation staff
+day-to-day basis
+Configuration Management
+discrepancies
+CIs
+CMS
+amendments
+correct
+discrepancies
+authority
+Configuration Management
+Service Operation components
+services
+Responsibility
+CMS
+Configuration Management
+Operations staff
+Configuration Management
+relationships
+CIs
+CIs
+disposed
+CMS
+updates
+related
+operational activities
+Operations staff
+Release and Deployment Management
+Release and Deployment Management
+Service Transition publication
+aspects
+process
+Service Operation staff
+day-to-day basis
+Actual implementation actions
+deployment
+new releases
+direction
+Release and Deployment Management
+relate
+Service Operation Components
+services
+Participation
+planning stages
+releases
+Service Operation issues
+physical handling
+CIs
+DML
+fulfil
+operational roles
+adhering
+relevant Release and Deployment Management procedures
+ensure
+items
+booked out and back in

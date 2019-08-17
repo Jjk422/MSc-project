@@ -1,0 +1,145 @@
+EVENT MANAGEMENT
+event
+occurrence
+management
+IT Infrastructure
+delivery
+IT service
+services
+Events
+notifications
+IT service
+Configuration Item (CI)
+monitoring tool
+Effective Service Operation
+infrastructure
+normal or expected operation
+monitoring and control systems
+tools
+active monitoring tools
+key CIs
+status
+availability
+alert
+appropriate tool
+team
+action
+passive monitoring tools
+operational alerts
+communications
+CIs
+Purpose/goal/objective
+events
+control action
+Event Management
+Event Management
+Operational Monitoring and Control
+events
+programmed
+Operational Monitoring and Control
+events
+programmed
+operational information
+warnings
+expectations
+Operations Management activities
+scripts
+remote devices
+jobs
+demand
+service
+multiple devices
+enhance performance
+Event Management
+execution
+Service Operation processes
+activities
+performance
+behaviour
+design standards
+SLAs
+Event Management
+Service Assurance
+Reporting
+Service Improvement
+Continual Service Improvement publication
+Scope
+Event Management
+Service Management
+Configuration Items
+CIs
+constant state
+switch on a network
+Event Management tools
+monitoring
+pings
+CIs
+status
+Event Management
+CMS
+file server
+Environmental conditions
+fire
+smoke detection
+Software licence monitoring
+usage
+optimum/legal licence utilization
+allocation
+Security
+intrusion detection
+Normal activity
+service
+monitoring
+Event Management
+Event Management
+meaningful notifications
+status
+IT infrastructure and services
+notifications
+monitoring
+Event Management
+monitoring tools
+status
+device
+acceptable limits
+device
+events
+Event Management
+monitored
+Monitoring
+events
+Value to business
+Event Management's value
+business
+value
+Event Management
+detection of incidents
+incident
+group
+action
+service outage
+Event Management
+types of automated activity
+exception
+resource intensive real-time monitoring
+Service Management processes
+Availability
+Capacity Management
+Event Management
+status changes
+exceptions
+person
+team
+early response
+performance
+process
+business
+Service Management
+Event Management
+automated operations
+increasing efficiencies
+expensive human resources
+innovative work
+functionality
+business
+competitive advantage

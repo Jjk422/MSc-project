@@ -1,0 +1,203 @@
+----------------------------------------------------------------------------------------------------
+25 Template 1 questions
+----------------------------------------------------------------------------------------------------
+Question 0:
+Complete the following:
+ SLM will also benefit from the information learned during __________ Management , for example in determining whether service level performance targets are realistic and achievable .
+- 1: Component
+- 2: Incident
+- 3: Lifecycle
+- 4: Internal Sourcing
+----------------------------------------------------------------------------------------------------
+Question 1:
+Complete the following:
+ The definition of __________ is:  The Process responsible for ensuring that the Quality of a product, Service or Process will provide its intended Value.
+- 1: High Availability
+- 2: Maturity
+- 3: Quality Assurance (QA)
+- 4: Known Error Database (KEDB)
+----------------------------------------------------------------------------------------------------
+Question 2:
+Complete the following:
+ The definition of __________ is: The ability of an IT Service, Process, Configuration Item, etc. to perform its agreed Function when the Workload or Scope changes.
+- 1: Practice
+- 2: Stakeholder
+- 3: Scalability
+- 4: Diagnostic Script
+----------------------------------------------------------------------------------------------------
+Question 3:
+Complete the following:
+ The definition of __________ is:  An Activity that identifies the Root Cause of an Incident or Problem. RCA typically concentrates on IT Infrastructure failures. See also Service Failure Analysis.
+- 1: Policy
+- 2: Statement of requirements (SOR)
+- 3: Project
+- 4: Root Cause Analysis (RCA)
+----------------------------------------------------------------------------------------------------
+Question 4:
+Complete the following:
+ The definition of __________ is:  Something that is measured and reported to help manage a Process, IT Service or Activity. See also KPI.
+- 1: Architecture
+- 2: Transition
+- 3: International Organization for Standardization (ISO)
+- 4: Metric
+----------------------------------------------------------------------------------------------------
+Question 5:
+Complete the following:
+ The definition of __________ is:  (Continual Service Improvement) A technique that helps a team to identify all the possible causes of a Problem. Originally devised by Kaoru Ishikawa, the output of this technique is a diagram that looks like a fishbone.
+- 1: Internal Service Provider
+- 2: Planning
+- 3: Configuration Control
+- 4: Ishikawa Diagram
+----------------------------------------------------------------------------------------------------
+Question 6:
+Complete the following:
+ Monitoring is often set at a �background� level during normal circumstances due to the large amount of data that can be generated and to avoid placing too high a burden on the __________ � but when specific difficulties are being investigated more detailed monitoring may be needed to pinpoint the exact cause .
+- 1: Urgency
+- 2: Business Process
+- 3: IT Infrastructure
+- 4: Directory Service
+----------------------------------------------------------------------------------------------------
+Question 7:
+Complete the following:
+ The definition of __________ is:  The first level in a hierarchy of Support Groups involved in the resolution of Incidents. Each level contains more specialist skills, or has more time or other resources. See also Escalation.
+- 1: Workload
+- 2: Project
+- 3: Information Security Management (ISM)
+- 4: First-line Support
+----------------------------------------------------------------------------------------------------
+Question 8:
+Complete the following:
+ The definition of __________ is: A legally binding Agreement between two or more parties.
+- 1: Contract
+- 2: Management System
+- 3: Change Model
+- 4: Business
+----------------------------------------------------------------------------------------------------
+Question 9:
+Complete the following:
+ The definition of __________ is: A formal definition of Requirements. A __________ may be used to define technical or Operational Requirements, and may be internal or external. Many public Standards consist of a Code of Practice and a __________. The __________ defines the Standard against which an Organization can be Audited.
+- 1: Internal Metric
+- 2: Specification
+- 3: Rights
+- 4: Application Sizing
+----------------------------------------------------------------------------------------------------
+Question 10:
+Complete the following:
+ The __________ Database provides valuable information about possible resolutions and workarounds .
+- 1: Hierarchic Escalation
+- 2: Proactive Problem Management
+- 3: Known Error
+- 4: Procedure
+----------------------------------------------------------------------------------------------------
+Question 11:
+Complete the following:
+ � Establishing self-help front-end capabilities that allow the users to interface successfully with the __________ process .
+- 1: Request Fulfilment
+- 2: Known Error Record
+- 3: Unit Cost
+- 4: Service Level
+----------------------------------------------------------------------------------------------------
+Question 12:
+Complete the following:
+ The definition of __________ is: See Restore.
+- 1: Service Asset
+- 2: Service Culture
+- 3: Restoration of Service
+- 4: Guideline
+----------------------------------------------------------------------------------------------------
+Question 13:
+Complete the following:
+ The definition of __________ is: Anything that might exploit a Vulnerability. Any potential cause of an Incident can be considered to be a __________. For example a fire is a __________ that could exploit the Vulnerability of flammable floor coverings. This term is commonly used in Information Security Management and IT Service Continuity Management, but also applies to other areas such as Problem and Availability Management.
+- 1: Threat
+- 2: Asset
+- 3: Operations Control
+- 4: Capacity
+----------------------------------------------------------------------------------------------------
+Question 14:
+Complete the following:
+ However , in some cases it may be advantageous to raise a __________ even earlier in the overall process � just for information purposes , for example � even though the diagnosis may not be complete or a workaround found , so it is inadvisable to set a concrete procedural point exactly when a __________ must be raised .
+- 1: Known Error Record
+- 2: Capital Expenditure (CAPEX)
+- 3: Dependency
+- 4: Functional Escalation
+----------------------------------------------------------------------------------------------------
+Question 15:
+Complete the following:
+ The definition of __________ is:  The maximum amount of data that may be lost when Service is Restored after an interruption. Recovery Point Objective is expressed as a length of time before the Failure. For example a Recovery Point Objective of one day may be supported by daily Backups, and up to 24 hours of data may be lost. Recovery Point Objectives for each IT Service should be negotiated, agreed and documented, and used as requirements for Service Design and IT Service Continuity Plans.
+- 1: Definitive Media Library (DML)
+- 2: Recovery Point Objective (RPO)
+- 3: Component Failure Impact Analysis (CFIA)
+- 4: ISO/IEC 27001
+----------------------------------------------------------------------------------------------------
+Question 16:
+Complete the following:
+ The definition of __________ is:  The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+- 1: Business Service Management (BSM)
+- 2: Recovery Time Objective (RTO)
+- 3: Performance Management
+- 4: Charging
+----------------------------------------------------------------------------------------------------
+Question 17:
+Complete the following:
+ For new services the __________ should specify which users or groups of users will have access to the Service .
+- 1: Security
+- 2: Brainstorming
+- 3: Service Culture
+- 4: Change Record
+----------------------------------------------------------------------------------------------------
+Question 18:
+Complete the following:
+ The definition of __________ is: An IT Service that directly supports a Business Process, as opposed to an Infrastructure Service, which is used internally by the IT Service Provider and is not usually visible to the Business. The term __________ is also used to mean a Service that is delivered to Business Customers by Business Units. For example, delivery of financial services to Customers of a bank, or goods to the Customers of a retail store. Successful delivery of __________s often depends on one or more IT Services.
+- 1: Vision
+- 2: IT Operations
+- 3: Business Service
+- 4: Service Request
+----------------------------------------------------------------------------------------------------
+Question 19:
+Complete the following:
+ The definition of __________ is:  (Service Design) An approach to the management of IT Services that considers the Business Processes supported and the Business value provided. This term also means the management of Business Services delivered to Business Customers.
+- 1: Service Operation
+- 2: Business Service Management (BSM)
+- 3: Test
+- 4: Certification
+----------------------------------------------------------------------------------------------------
+Question 20:
+Complete the following:
+ The definition of __________ is:  (Continual Service Improvement) A commitment that is documented in a Service Level Agreement. __________s are based on Service Level Requirements, and are needed to ensure that the IT Service design is Fit for Purpose. __________s should be SMART, and are usually based on KPIs.
+- 1: Identity
+- 2: Service Level Target
+- 3: IT Service Management (ITSM)
+- 4: Diagnostic Script
+----------------------------------------------------------------------------------------------------
+Question 21:
+Complete the following:
+ The definition of __________ is: A measure of the balance between the Effectiveness and Cost of a Service, Process or activity, A Cost Effective Process is one that achieves its Objectives at minimum Cost. See also KPI, Value for Money.
+- 1: Requirement
+- 2: Business Customer
+- 3: Value for Money
+- 4: Cost Effectiveness
+----------------------------------------------------------------------------------------------------
+Question 22:
+Complete the following:
+ The definition of __________ is:  An Activity that verifies that a Configuration Item, IT Service, Process, etc. meets its Specification or agreed Requirements.
+- 1: Test
+- 2: Diagnosis
+- 3: IT Service Continuity Plan
+- 4: Review
+----------------------------------------------------------------------------------------------------
+Question 23:
+Complete the following:
+ The KEDB , like the CMS , forms part of a larger Service Knowledge Management __________ ( SKMS ) illustrated in Figure 4.6 .
+- 1: Service Asset
+- 2: Functional Escalation
+- 3: System
+- 4: Cost
+----------------------------------------------------------------------------------------------------
+Question 24:
+Complete the following:
+ The definition of __________ is: The ability of an IT Service, Process, Configuration Item, etc. to perform its agreed Function when the Workload or Scope changes.
+- 1: Redundancy
+- 2: Service Culture
+- 3: Escalation
+- 4: Scalability
+----------------------------------------------------------------------------------------------------
