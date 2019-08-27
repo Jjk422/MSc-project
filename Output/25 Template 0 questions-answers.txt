@@ -2,77 +2,77 @@
 25 Template 0 questions
 ----------------------------------------------------------------------------------------------------
 Question 0:
- A generic term that includes IT Infrastructure, people, money or anything else that might help to deliver an IT Service. Resources are considered to be Assets of an Organization. See also Capability, Service Asset.
+ A stage in the Lifecycle of an IT Service. Service Design includes a number of Processes and Functions and is the title of one of the Core ITIL publications. See also Design.
 ----------------------------------------------------------------------------------------------------
 Question 1:
- The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
+A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
 ----------------------------------------------------------------------------------------------------
 Question 2:
- The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
+ The Process responsible for allowing Users to make use of IT Services, data, or other Assets. Access Management helps to protect the Confidentiality, Integrity and Availability of Assets by ensuring that only authorized Users are able to access or modify the Assets. Access Management is sometimes referred to as Rights Management or Identity Management.
 ----------------------------------------------------------------------------------------------------
 Question 3:
- The Process responsible for ensuring that all Contracts with Suppliers support the needs of the Business, and that all Suppliers meet their contractual commitments.
+ A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
 ----------------------------------------------------------------------------------------------------
 Question 4:
- A Record containing the details of a Change. Each Change Record documents the Lifecycle of a single Change. A Change Record is created for every Request for Change that is received, even those that are subsequently rejected. Change Records should reference the Configuration Items that are affected by the Change. Change Records are stored in the Configuration Management System.
+ Justification for a significant item of expenditure. Includes information about Costs, benefits, options, issues, Risks, and possible problems. See also Cost Benefit Analysis.
 ----------------------------------------------------------------------------------------------------
 Question 5:
-A generic term that means a Customer, the Business or a Business Customer. For example, Client Manager may be used as a synonym for Account Manager. The term client is also used to mean: ■ A computer that is used directly by a User, for example a PC, Handheld Computer, or Workstation ■ The part of a Client-Server Application that the User directly interfaces with. For example an e-mail Client.
+ (Service Operation) Copying data to protect against loss of Integrity or Availability of the original.
 ----------------------------------------------------------------------------------------------------
 Question 6:
- The first level in a hierarchy of Support Groups involved in the resolution of Incidents. Each level contains more specialist skills, or has more time or other resources. See also Escalation.
+ A set of tools and databases that are used to manage knowledge and information. The SKMS includes the Configuration Management System, as well as other tools and databases. The SKMS stores, manages, updates, and presents all information that an IT Service Provider needs to manage the full Lifecycle of IT Services.
 ----------------------------------------------------------------------------------------------------
 Question 7:
- A Record in the CMDB that defines the content of a Release. A Release Record has Relationships with all Configuration Items that are affected by the Release.
+ The Objective of a Business Process, or of the Business as a whole. Business Objectives support the Business Vision, provide guidance for the IT Strategy, and are often supported by IT Services.
 ----------------------------------------------------------------------------------------------------
 Question 8:
-The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
+ Any Resource or Capability. Assets of a Service Provider including anything that could contribute to the delivery of a Service. Assets can be one of the following types: Management, Organization, Process, Knowledge, People, Information, Applications, Infrastructure, and Financial Capital.
 ----------------------------------------------------------------------------------------------------
 Question 9:
- A complex set of relationships between two or more groups or Organizations. Value is generated through exchange of knowledge, information, goods or Services. See also Partnership.
+The defined purpose or aim of a Process, an Activity or an Organization as a whole. Objectives are usually expressed as measurable targets. The term Objective is also informally used to mean a Requirement. See also Outcome.
 ----------------------------------------------------------------------------------------------------
 Question 10:
- A subset of the IT Infrastructure that is used for a particular purpose. For Example: Live Environment, Test Environment, Build Environment. It is possible for multiple Environments to share a Configuration Item, for example Test and Live Environments may use different partitions on a single mainframe computer. Also used in the term Physical Environment to mean the accommodation, air conditioning, power system, etc. Environment is also used as a generic term to mean the external conditions that influence or affect something.
+ The ability of an Organization, person, Process, Application, Configuration Item or IT Service to carry out an Activity. Capabilities are intangible Assets of an Organization. See also Resource.
 ----------------------------------------------------------------------------------------------------
 Question 11:
- The Activities in a Value Chain carried out by Suppliers. A Supply Chain typically involves multiple Suppliers, each adding value to the product or Service. See also Value Network.
+ An approach or design that minimizes or hides the effects of Configuration Item Failure on the users of an IT Service. High Availability solutions are designed to achieve an agreed level of Availability and make use of techniques such as Fault Tolerance, Resilience and fast Recovery to reduce the number of Incidents, and the Impact of Incidents.
 ----------------------------------------------------------------------------------------------------
 Question 12:
- A set of tools and databases that are used to manage an IT Service Provider’s Configuration data. The CMS also includes information about Incidents, Problems, Known Errors, Changes and Releases; and it may contain data about employees, Suppliers, locations, Business Units, Customers and Users. The CMS includes tools for collecting, storing, managing, updating, and presenting data about all Configuration Items and their Relationships. The CMS is maintained by Configuration Management and is used by all IT Service Management Processes. See also Configuration Management Database, Service Knowledge Management System.
+ A database used to store Configuration Records throughout their Lifecycle. The Configuration Management System maintains one or more CMDBs, and each CMDB stores Attributes of CIs, and Relationships with other CIs.
 ----------------------------------------------------------------------------------------------------
 Question 13:
- Loss of ability to Operate to Specification, or to deliver the required output. The term Failure may be used when referring to IT Services, Processes, Activities, Configuration Items, etc. A Failure often causes an Incident.
+ In the context of ITSM, Business Capacity Management is the Activity responsible for understanding future Business Requirements for use in the Capacity Plan. See also Service Capacity Management.
 ----------------------------------------------------------------------------------------------------
 Question 14:
- A methodology for managing continual Improvement by using a Quality Management System. TQM establishes a Culture involving all people in the Organization in a Process of continual monitoring and improvement.
+ A group or team of people who carry out a specific Role for a fixed period of time. For example there could be four shifts of IT Operations Control personnel to support an IT Service that is used 24 hours a day.
 ----------------------------------------------------------------------------------------------------
 Question 15:
- An Application that manages information about IT Infrastructure available on a network, and corresponding User access Rights.
+ The final Status in the Lifecycle of an Incident, Problem, Change, etc. When the Status is Closed, no further action is taken.
 ----------------------------------------------------------------------------------------------------
 Question 16:
-See Commercial Off the Shelf.
+ A Record containing the details of an Incident. Each Incident record documents the Lifecycle of a single Incident.
 ----------------------------------------------------------------------------------------------------
 Question 17:
-The OGC methodology for managing Risks. M_o_R includes all the Activities required to identify and Control the exposure to Risk, which may have an impact on the achievement of an Organization’s Business Objectives. See www.m-o-r.org for more details.
+ A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
 ----------------------------------------------------------------------------------------------------
 Question 18:
- A recipient of a product or a Service from the Business. For example, if the Business is a car manufacturer then the Business Customer is someone who buys a car.
+A person who uses the IT Service on a day-to-day basis. Users are distinct from Customers, as some Customers do not use the IT Service directly.
 ----------------------------------------------------------------------------------------------------
 Question 19:
- A technique that helps a team to generate ideas. Ideas are not reviewed during the Brainstorming session, but at a later stage. Brainstorming is often used by Problem Management to identify possible causes.
+ An Activity that identifies the Root Cause of an Incident or Problem. RCA typically concentrates on IT Infrastructure failures. See also Service Failure Analysis.
 ----------------------------------------------------------------------------------------------------
 Question 20:
- The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
 ----------------------------------------------------------------------------------------------------
 Question 21:
- (Continual Service Improvement) A measure of how long a Configuration Item or IT Service can perform its agreed Function without interruption. Usually measured as MTBF or MTBSI. The term Reliability can also be used to state how likely it is that a Process, Function, etc. will deliver its required outputs. See also Availability.
+Activities that understand and influence Customer demand for Services and the provision of Capacity to meet these demands. At a Strategic level Demand Management can involve analysis of Patterns of Business Activity and User Profiles. At a tactical level it can involve use of Differential Charging to encourage Customers to use IT Services at less busy times. See also Capacity Management.
 ----------------------------------------------------------------------------------------------------
 Question 22:
-The name of a required field in many types of Record. It shows the current stage in the Lifecycle of the associated Configuration Item, Incident, Problem, etc.
+ A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
 ----------------------------------------------------------------------------------------------------
 Question 23:
- The act of changing the Status of an Incident, Problem, Change, etc. to Closed.
+A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customer’s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
 ----------------------------------------------------------------------------------------------------
 Question 24:
- The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+ An Activity that verifies that a Configuration Item, IT Service, Process, etc. meets its Specification or agreed Requirements.
 ----------------------------------------------------------------------------------------------------

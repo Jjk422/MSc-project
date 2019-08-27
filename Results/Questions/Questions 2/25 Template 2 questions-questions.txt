@@ -2,177 +2,177 @@
 25 Template 2 questions
 ----------------------------------------------------------------------------------------------------
 Question 0:
-Which book is the concept "Priority" in?
-- 1: Continual Service Improvement
-- 2: Service Design
-- 3: Service Strategy
-- 4: Service Transition
+Which book is the concept "Threat" in?
+- 1: Not in a specific book
+- 2: Service Transition
+- 3: Service Design
+- 4: Service Strategy
 ----------------------------------------------------------------------------------------------------
 Question 1:
-Which book is the concept "Responsiveness" in?
+Which book is the concept "Partnership" in?
 - 1: Service Design
-- 2: Not in a specific book
-- 3: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
 - 4: Service Transition
 ----------------------------------------------------------------------------------------------------
 Question 2:
-Which book is the concept "Effectiveness" in?
-- 1: Continual Service Improvement
+Which book is the concept "Service Failure Analysis (SFA)" in?
+- 1: Service Strategy
 - 2: Service Design
-- 3: Service Operation
-- 4: Service Strategy
+- 3: Continual Service Improvement
+- 4: Service Operation
 ----------------------------------------------------------------------------------------------------
 Question 3:
-Which book is the concept "Tuning" in?
-- 1: Service Operation
-- 2: Service Transition
-- 3: Not in a specific book
-- 4: Service Design
-----------------------------------------------------------------------------------------------------
-Question 4:
-Which book is the concept "External Customer" in?
-- 1: Service Strategy
-- 2: Service Operation
-- 3: Service Transition
-- 4: Not in a specific book
-----------------------------------------------------------------------------------------------------
-Question 5:
-Which book is the concept "Throughput" in?
+Which book is the concept "Rights" in?
 - 1: Service Design
-- 2: Service Transition
+- 2: Service Operation
 - 3: Service Strategy
 - 4: Continual Service Improvement
 ----------------------------------------------------------------------------------------------------
+Question 4:
+Which book is the concept "Active Monitoring" in?
+- 1: Continual Service Improvement
+- 2: Service Transition
+- 3: Service Operation
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 5:
+Which book is the concept "Architecture" in?
+- 1: Service Design
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
 Question 6:
-Which book is the concept "Cost Effectiveness" in?
+Which book is the concept "High Availability" in?
+- 1: Service Design
+- 2: Service Strategy
+- 3: Continual Service Improvement
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 7:
+Which book is the concept "Service Portfolio Management (SPM)" in?
+- 1: Continual Service Improvement
+- 2: Service Transition
+- 3: Service Design
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 8:
+Which book is the concept "Budget" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Not in a specific book
+- 4: Continual Service Improvement
+----------------------------------------------------------------------------------------------------
+Question 9:
+Which book is the concept "Risk" in?
 - 1: Not in a specific book
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 10:
+Which book is the concept "Customer" in?
+- 1: Not in a specific book
+- 2: Service Strategy
+- 3: Service Design
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 11:
+Which book is the concept "Specification" in?
+- 1: Continual Service Improvement
+- 2: Service Strategy
+- 3: Not in a specific book
+- 4: Service Transition
+----------------------------------------------------------------------------------------------------
+Question 12:
+Which book is the concept "Incident" in?
+- 1: Service Transition
+- 2: Service Strategy
+- 3: Service Design
+- 4: Service Operation
+----------------------------------------------------------------------------------------------------
+Question 13:
+Which book is the concept "Vital Business Function (VBF)" in?
+- 1: Service Strategy
+- 2: Service Operation
+- 3: Service Design
+- 4: Not in a specific book
+----------------------------------------------------------------------------------------------------
+Question 14:
+Which book is the concept "ISO/IEC 27001" in?
+- 1: Service Transition
+- 2: Service Operation
+- 3: Service Strategy
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 15:
+Which book is the concept "Facilities Management" in?
+- 1: Service Design
 - 2: Service Strategy
 - 3: Continual Service Improvement
 - 4: Service Operation
 ----------------------------------------------------------------------------------------------------
-Question 7:
-Which book is the concept "Concurrency" in?
-- 1: Continual Service Improvement
-- 2: Not in a specific book
-- 3: Service Design
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 8:
-Which book is the concept "Workload" in?
-- 1: Not in a specific book
-- 2: Service Transition
-- 3: Service Strategy
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 9:
-Which book is the concept "Confidentiality" in?
-- 1: Service Strategy
-- 2: Service Design
-- 3: Service Operation
-- 4: Service Transition
-----------------------------------------------------------------------------------------------------
-Question 10:
-Which book is the concept "Continual Service Improvement (CSI)" in?
-- 1: Service Strategy
-- 2: Service Operation
-- 3: Service Design
-- 4: Continual Service Improvement
-----------------------------------------------------------------------------------------------------
-Question 11:
-Which book is the concept "Supply Chain" in?
-- 1: Continual Service Improvement
-- 2: Service Transition
-- 3: Service Strategy
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 12:
-Which book is the concept "Business Service" in?
-- 1: Service Strategy
-- 2: Service Operation
-- 3: Continual Service Improvement
-- 4: Not in a specific book
-----------------------------------------------------------------------------------------------------
-Question 13:
-Which book is the concept "Programme" in?
-- 1: Service Design
-- 2: Service Operation
-- 3: Not in a specific book
-- 4: Service Strategy
-----------------------------------------------------------------------------------------------------
-Question 14:
-Which book is the concept "Throughput" in?
-- 1: Service Strategy
-- 2: Not in a specific book
-- 3: Service Design
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 15:
-Which book is the concept "Fault Tree Analysis (FTA)" in?
-- 1: Service Transition
-- 2: Service Operation
-- 3: Service Design
-- 4: Continual Service Improvement
-----------------------------------------------------------------------------------------------------
 Question 16:
-Which book is the concept "Risk Management" in?
-- 1: Service Transition
-- 2: Not in a specific book
+Which book is the concept "Effectiveness" in?
+- 1: Service Operation
+- 2: Service Transition
 - 3: Service Strategy
-- 4: Service Design
+- 4: Continual Service Improvement
 ----------------------------------------------------------------------------------------------------
 Question 17:
-Which book is the concept "Supply Chain" in?
-- 1: Not in a specific book
+Which book is the concept "Use Case" in?
+- 1: Service Transition
 - 2: Service Design
-- 3: Service Strategy
+- 3: Service Operation
 - 4: Continual Service Improvement
 ----------------------------------------------------------------------------------------------------
 Question 18:
-Which book is the concept "Workload" in?
-- 1: Service Strategy
-- 2: Continual Service Improvement
-- 3: Service Transition
-- 4: Not in a specific book
+Which book is the concept "Accredited" in?
+- 1: Not in a specific book
+- 2: Service Design
+- 3: Service Operation
+- 4: Continual Service Improvement
 ----------------------------------------------------------------------------------------------------
 Question 19:
-Which book is the concept "Operations Bridge" in?
-- 1: Continual Service Improvement
-- 2: Service Design
-- 3: Service Transition
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 20:
-Which book is the concept "Retire" in?
-- 1: Service Transition
-- 2: Service Design
-- 3: Service Strategy
-- 4: Service Operation
-----------------------------------------------------------------------------------------------------
-Question 21:
-Which book is the concept "Workload" in?
+Which book is the concept "Operate" in?
 - 1: Not in a specific book
 - 2: Service Operation
-- 3: Service Transition
-- 4: Service Design
+- 3: Service Design
+- 4: Service Transition
 ----------------------------------------------------------------------------------------------------
-Question 22:
-Which book is the concept "Capability" in?
-- 1: Not in a specific book
-- 2: Service Strategy
+Question 20:
+Which book is the concept "Service Management" in?
+- 1: Service Transition
+- 2: Service Design
+- 3: Not in a specific book
+- 4: Service Strategy
+----------------------------------------------------------------------------------------------------
+Question 21:
+Which book is the concept "Middleware" in?
+- 1: Service Transition
+- 2: Service Design
 - 3: Continual Service Improvement
 - 4: Service Operation
 ----------------------------------------------------------------------------------------------------
-Question 23:
-Which book is the concept "Value for Money" in?
-- 1: Service Operation
-- 2: Service Design
+Question 22:
+Which book is the concept "Continual Service Improvement (CSI)" in?
+- 1: Not in a specific book
+- 2: Continual Service Improvement
 - 3: Service Strategy
-- 4: Not in a specific book
+- 4: Service Design
+----------------------------------------------------------------------------------------------------
+Question 23:
+Which book is the concept "Integrity" in?
+- 1: Service Strategy
+- 2: Service Design
+- 3: Service Transition
+- 4: Continual Service Improvement
 ----------------------------------------------------------------------------------------------------
 Question 24:
-Which book is the concept "Responsiveness" in?
-- 1: Continual Service Improvement
+Which book is the concept "Functional Escalation" in?
+- 1: Service Design
 - 2: Service Operation
-- 3: Not in a specific book
-- 4: Service Design
+- 3: Service Transition
+- 4: Service Strategy
 ----------------------------------------------------------------------------------------------------

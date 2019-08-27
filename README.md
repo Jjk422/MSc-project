@@ -20,7 +20,6 @@ To get started:
     - allennlp
         - conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
         - pip install allennlp
-    - TODO: ADD UNITTEST
 
 1. Open scripts in jupyter notebook
    - iteration_1_PDF data extractor.ipynb extracts concepts

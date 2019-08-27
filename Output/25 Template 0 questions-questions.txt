@@ -2,177 +2,177 @@
 25 Template 0 questions
 ----------------------------------------------------------------------------------------------------
 Question 0:
-What is the definition for "Resource"?
-- 1:  A generic term that includes IT Infrastructure, people, money or anything else that might help to deliver an IT Service. Resources are considered to be Assets of an Organization. See also Capability, Service Asset.
-- 2: (Continual Service Improvement) A Benchmark used as a reference point. For example: ■ An ITSM Baseline can be used as a starting point to measure the effect of a Service Improvement Plan ■ A Performance Baseline can be used to measure changes in Performance over the lifetime of an IT Service ■ A Configuration Management Baseline can be used to enable the IT Infrastructure to be restored to a known Configuration if a Change or Release fails.
-- 3: (Service Operation) The Process responsible for managing the storage and maintenance of data throughout its Lifecycle.
-- 4: (Continual Service Improvement) A measure of whether the Objectives of a Process, Service or Activity have been achieved. An Effective Process or activity is one that achieves its agreed Objectives. See also KPI.
+What is the definition for "Service Design"?
+- 1: A detailed proposal that describes the Activities and Resources needed to achieve an Objective. For example a Plan to implement a new IT Service or Process. ISO/IEC 20000 requires a Plan for the management of each IT Service Management Process.
+- 2: (Service Strategy) The day-to-day execution, monitoring and management of Business Processes.
+- 3: Formally documented management expectations and intentions. Policies are used to direct decisions, and to ensure consistent and appropriate development and implementation of Processes, Standards, Roles, Activities, IT Infrastructure, etc.
+- 4:  A stage in the Lifecycle of an IT Service. Service Design includes a number of Processes and Functions and is the title of one of the Core ITIL publications. See also Design.
 ----------------------------------------------------------------------------------------------------
 Question 1:
-What is the definition for "Technical Management"?
-- 1: The International Organization for Standardization (ISO) is the world’s largest developer of Standards. ISO is a nongovernmental organization that is a network of the national standards institutes of 156 countries. See www.iso.org for further information about ISO.
-- 2:  The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
-- 3: (Service Transition) A group of people that advises the Change Manager in the Assessment, prioritization and scheduling of Changes. This board is usually made up of representatives from all areas within the IT Service Provider, representatives from the Business and Third Parties such as Suppliers.
-- 4: (Service Operation) A technique used to help identify possible causes of Problems. All available data about the Problem is collected and sorted by date and time to provide a detailed timeline. This can make it possible to identify which Events may have been triggered by others.
+What is the definition for "Standard"?
+- 1: (Service Operation) Monitoring the output of a Task, Process, IT Service or Configuration Item; comparing this output to a predefined Norm; and taking appropriate action based on this comparison.
+- 2: A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
+- 3: (Continual Service Improvement) Something that is measured and reported to help manage a Process, IT Service or Activity. See also KPI.
+- 4: (Service Operation) Use of Information Technology to direct an incoming telephone call to the most appropriate person in the shortest possible time. ACD is sometimes called Automated Call Distribution.
 ----------------------------------------------------------------------------------------------------
 Question 2:
-What is the definition for "Technical Management"?
-- 1: (Service Strategy) The Process responsible for managing the Service Portfolio. Service Portfolio Management considers Services in terms of the Business value that they provide.
-- 2: (Service Operation) The maximum time allowed for recovery of an IT Service following an interruption. The Service Level to be provided may be less than normal Service Level Targets. Recovery Time Objectives for each IT Service should be negotiated, agreed and documented. See also Business Impact Analysis.
-- 3:  The Function responsible for providing technical skills in support of IT Services and management of the IT Infrastructure. Technical Management defines the Roles of Support Groups, as well as the tools, Processes and Procedures required.
-- 4: (Service Operation) Entitlements, or permissions, granted to a User or Role. For example the Right to modify particular data, or to authorize a Change.
+What is the definition for "Access Management"?
+- 1: (Service Transition) The Process responsible for ensuring that the Quality of a product, Service or Process will provide its intended Value.
+- 2:  The Process responsible for allowing Users to make use of IT Services, data, or other Assets. Access Management helps to protect the Confidentiality, Integrity and Availability of Assets by ensuring that only authorized Users are able to access or modify the Assets. Access Management is sometimes referred to as Rights Management or Identity Management.
+- 3: The Activity of predicting and controlling the spending of money. Consists of a periodic negotiation cycle to set future Budgets (usually annual) and the day-to-day monitoring and adjusting of current Budgets.
+- 4: ISO Specification and Code of Practice for IT Service Management. ISO/IEC 20000 is aligned with ITIL Best Practice.
 ----------------------------------------------------------------------------------------------------
 Question 3:
-What is the definition for "Supplier Management"?
-- 1: (Service Operation) (Continual Service Improvement) A technique that helps a team to identify all the possible causes of a Problem. Originally devised by Kaoru Ishikawa, the output of this technique is a diagram that looks like a fishbone.
-- 2: The lowest of three levels of Planning and delivery (Strategic, Tactical, Operational). Operational Activities include the day-to-day or short-term Planning or delivery of a Business Process or IT Service Management Process. The term Operational is also a synonym for Live.
-- 3: The amount of money spent on a specific Activity, IT Service, or Business Unit. Costs consist of real cost (money), notional cost such as people’s time, and Depreciation.
-- 4:  The Process responsible for ensuring that all Contracts with Suppliers support the needs of the Business, and that all Suppliers meet their contractual commitments.
+What is the definition for "Efficiency"?
+- 1: (Service Operation) Part of the Problem Management Process. The Objective of Proactive Problem Management is to identify Problems that might otherwise be missed. Proactive Problem Management analyses Incident Records, and uses data collected by other IT Service Management Processes to identify trends or significant problems.
+- 2:  A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
+- 3: (Service Operation) Entitlements, or permissions, granted to a User or Role. For example the Right to modify particular data, or to authorize a Change.
+- 4: (Service Design) The Process responsible for ensuring that all Contracts with Suppliers support the needs of the Business, and that all Suppliers meet their contractual commitments.
 ----------------------------------------------------------------------------------------------------
 Question 4:
-What is the definition for "Change Record"?
-- 1: (Service Design) A Recovery Option that is also known as Hot Standby. Provision is made to Recover the IT Service with no loss of Service. Immediate Recovery typically uses Mirroring, Load Balancing and Split Site technologies.
-- 2: A detailed proposal that describes the Activities and Resources needed to achieve an Objective. For example a Plan to implement a new IT Service or Process. ISO/IEC 20000 requires a Plan for the management of each IT Service Management Process.
-- 3:  A Record containing the details of a Change. Each Change Record documents the Lifecycle of a single Change. A Change Record is created for every Request for Change that is received, even those that are subsequently rejected. Change Records should reference the Configuration Items that are affected by the Change. Change Records are stored in the Configuration Management System.
-- 4: (Service Operation) A group of people with technical skills. Support Groups provide the Technical Support needed by all of the IT Service Management Processes. See also Technical Management.
+What is the definition for "Business Case"?
+- 1: (Service Design) An Activity that identifies underlying causes of one or more IT Service interruptions. SFA identifies opportunities to improve the IT Service Provider’s Processes and tools, and not just the IT Infrastructure. SFA is a time-constrained, project-like activity, rather than an ongoing process of analysis. See also Root Cause Analysis.
+- 2: (Service Transition) A controlled Environment containing Live Configuration Items used to deliver IT Services to Customers.
+- 3:  Justification for a significant item of expenditure. Includes information about Costs, benefits, options, issues, Risks, and possible problems. See also Cost Benefit Analysis.
+- 4: See Internal Sourcing.
 ----------------------------------------------------------------------------------------------------
 Question 5:
-What is the definition for "Client"?
-- 1: (Service Operation) The maximum time allowed for recovery of an IT Service following an interruption. The Service Level to be provided may be less than normal Service Level Targets. Recovery Time Objectives for each IT Service should be negotiated, agreed and documented. See also Business Impact Analysis.
-- 2: (Service Operation) The Process responsible for managing Events throughout their Lifecycle. Event Management is one of the main Activities of IT Operations.
-- 3: (Service Strategy) A segment of the Business that has its own Plans, Metrics, income and Costs. Each Business Unit owns Assets and uses these to create value for Customers in the form of goods and Services.
-- 4: A generic term that means a Customer, the Business or a Business Customer. For example, Client Manager may be used as a synonym for Account Manager. The term client is also used to mean: ■ A computer that is used directly by a User, for example a PC, Handheld Computer, or Workstation ■ The part of a Client-Server Application that the User directly interfaces with. For example an e-mail Client.
+What is the definition for "Backup"?
+- 1:  (Service Operation) Copying data to protect against loss of Integrity or Availability of the original.
+- 2: A generic term that refers to a number of international Standards and Guidelines for Quality Management Systems. See www.iso.org for more information. See also ISO.
+- 3: (Service Operation) (Continual Service Improvement) A technique that helps a team to identify all the possible causes of a Problem. Originally devised by Kaoru Ishikawa, the output of this technique is a diagram that looks like a fishbone.
+- 4:  A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
 ----------------------------------------------------------------------------------------------------
 Question 6:
-What is the definition for "First-line Support"?
-- 1: An approach to IT Service Management that emphasizes the importance of coordination and Control across the various Functions, Processes, and Systems necessary to manage the full Lifecycle of IT Services. The Service Management Lifecycle approach considers the Strategy, Design, Transition, Operation and Continuous Improvement of IT Services.
-- 2: A Customer-oriented Culture. The major Objectives of a Service Culture are Customer satisfaction and helping Customers to achieve their Business Objectives.
-- 3:  The first level in a hierarchy of Support Groups involved in the resolution of Incidents. Each level contains more specialist skills, or has more time or other resources. See also Escalation.
-- 4: (Service Operation) A structured set of questions used by Service Desk staff to ensure they ask the correct questions, and to help them Classify, Resolve and assign Incidents. Diagnostic Scripts may also be made available to Users to help them diagnose and resolve their own Incidents.
+What is the definition for "Service Knowledge Management System (SKMS)"?
+- 1:  A set of tools and databases that are used to manage knowledge and information. The SKMS includes the Configuration Management System, as well as other tools and databases. The SKMS stores, manages, updates, and presents all information that an IT Service Provider needs to manage the full Lifecycle of IT Services.
+- 2:  (Service Operation) Copying data to protect against loss of Integrity or Availability of the original.
+- 3: A manager who is responsible for managing the end-toend Lifecycle of one or more IT Services. The term Service Manager is also used to mean any manager within the IT Service Provider. It is most commonly used to refer to a Business Relationship Manager, a Process Manager, an Account Manager or a senior manager with responsibility for IT Services overall.
+- 4: Activities that understand and influence Customer demand for Services and the provision of Capacity to meet these demands. At a Strategic level Demand Management can involve analysis of Patterns of Business Activity and User Profiles. At a tactical level it can involve use of Differential Charging to encourage Customers to use IT Services at less busy times. See also Capacity Management.
 ----------------------------------------------------------------------------------------------------
 Question 7:
-What is the definition for "Release Record"?
-- 1: Inspection and analysis to check whether a Standard or set of Guidelines is being followed, that Records are accurate, or that Efficiency and Effectiveness targets are being met. See also Audit.
-- 2:  A Record in the CMDB that defines the content of a Release. A Release Record has Relationships with all Configuration Items that are affected by the Release.
-- 3: (Service Transition) A database used to store Configuration Records throughout their Lifecycle. The Configuration Management System maintains one or more CMDBs, and each CMDB stores Attributes of CIs, and Relationships with other CIs.
-- 4: The Activity of predicting and controlling the spending of money. Consists of a periodic negotiation cycle to set future Budgets (usually annual) and the day-to-day monitoring and adjusting of current Budgets.
+What is the definition for "Business Objective"?
+- 1: (Service Transition) The Activity responsible for movement of new or changed hardware, software, documentation, Process, etc. to the Live Environment. Deployment is part of the Release and Deployment Management Process. See also Rollout.
+- 2: Service Management is a set of specialized organizational capabilities for providing value to customers in the form of services.
+- 3:  The Objective of a Business Process, or of the Business as a whole. Business Objectives support the Business Vision, provide guidance for the IT Strategy, and are often supported by IT Services.
+- 4: A Metric that is used to measure the delivery of IT Service to a Customer. External Metrics are usually defined in SLAs and reported to Customers. See also Internal Metric.
 ----------------------------------------------------------------------------------------------------
 Question 8:
-What is the definition for "Scope"?
-- 1: OGC owns the ITIL brand (copyright and trademark). OGC is a UK Government department that supports the delivery of the government’s procurement agenda through its work in collaborative procurement and in raising levels of procurement skills and capability with departments. It also provides support for complex public sector projects.
-- 2: (Service Transition) Recovery to a known state after a failed Change or Release.
-- 3: (Service Operation) The maximum time allowed for recovery of an IT Service following an interruption. The Service Level to be provided may be less than normal Service Level Targets. Recovery Time Objectives for each IT Service should be negotiated, agreed and documented. See also Business Impact Analysis.
-- 4: The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
+What is the definition for "Asset"?
+- 1: (Service Strategy) A Cost of providing an IT Service, which cannot be allocated in full to a specific customer. For example, the Cost of providing shared Servers or software licences. Also known as Overhead.
+- 2: (Service Strategy) The complete set of Services that are managed by a Service Provider. The Service Portfolio is used to manage the entire Lifecycle of all Services, and includes three Categories: Service Pipeline (proposed or in Development); Service Catalogue (Live or available for Deployment); and Retired Services. See also Service Portfolio Management.
+- 3: (Continual Service Improvement) The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+- 4:  Any Resource or Capability. Assets of a Service Provider including anything that could contribute to the delivery of a Service. Assets can be one of the following types: Management, Organization, Process, Knowledge, People, Information, Applications, Infrastructure, and Financial Capital.
 ----------------------------------------------------------------------------------------------------
 Question 9:
-What is the definition for "Value Network"?
-- 1: The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
-- 2: A set of values that is shared by a group of people, including expectations about how people should behave, their ideas, beliefs, and practices. See also Vision.
-- 3: (Service Transition) (Service Operation) A Category used to identify the relative importance of an Incident, Problem or Change. Priority is based on Impact and Urgency, and is used to identify required times for actions to be taken. For example the SLA may state that Priority 2 Incidents must be resolved within 12 hours.
-- 4:  A complex set of relationships between two or more groups or Organizations. Value is generated through exchange of knowledge, information, goods or Services. See also Partnership.
+What is the definition for "Objective"?
+- 1: The defined purpose or aim of a Process, an Activity or an Organization as a whole. Objectives are usually expressed as measurable targets. The term Objective is also informally used to mean a Requirement. See also Outcome.
+- 2: (Service Design) A Recovery Option that is also known as Warm Standby. Provision is made to Recover the IT Service in a period of time between 24 and 72 hours. Intermediate Recovery typically uses a shared Portable or Fixed Facility that has Computer Systems and Network Components. The hardware and software will need to be configured, and data will need to be restored, as part of the IT Service Continuity Plan.
+- 3: (Service Transition) A Record in the CMDB that defines the content of a Release. A Release Record has Relationships with all Configuration Items that are affected by the Release.
+- 4: The International Organization for Standardization (ISO) is the world’s largest developer of Standards. ISO is a nongovernmental organization that is a network of the national standards institutes of 156 countries. See www.iso.org for further information about ISO.
 ----------------------------------------------------------------------------------------------------
 Question 10:
-What is the definition for "Environment"?
-- 1: See Information Security Policy.
-- 2: (Service Strategy) Justification for a significant item of expenditure. Includes information about Costs, benefits, options, issues, Risks, and possible problems. See also Cost Benefit Analysis.
-- 3: Anything that might exploit a Vulnerability. Any potential cause of an Incident can be considered to be a Threat. For example a fire is a Threat that could exploit the Vulnerability of flammable floor coverings. This term is commonly used in Information Security Management and IT Service Continuity Management, but also applies to other areas such as Problem and Availability Management.
-- 4:  A subset of the IT Infrastructure that is used for a particular purpose. For Example: Live Environment, Test Environment, Build Environment. It is possible for multiple Environments to share a Configuration Item, for example Test and Live Environments may use different partitions on a single mainframe computer. Also used in the term Physical Environment to mean the accommodation, air conditioning, power system, etc. Environment is also used as a generic term to mean the external conditions that influence or affect something.
+What is the definition for "Capability"?
+- 1: (Continual Service Improvement) The set of Processes responsible for ensuring that all work carried out by an Organization is of a suitable Quality to reliably meet Business Objectives or Service Levels. See also ISO 9000.
+- 2: (Service Operation) A group of people with technical skills. Support Groups provide the Technical Support needed by all of the IT Service Management Processes. See also Technical Management.
+- 3:  The ability of an Organization, person, Process, Application, Configuration Item or IT Service to carry out an Activity. Capabilities are intangible Assets of an Organization. See also Resource.
+- 4: (Service Design) A security principle that requires that data should only be accessed by authorized people.
 ----------------------------------------------------------------------------------------------------
 Question 11:
-What is the definition for "Supply Chain"?
-- 1: Review, Plan and request Changes, in order to obtain the maximum Efficiency and Effectiveness from a Process, Configuration Item, Application, etc.
-- 2: (Continual Service Improvement) Comparing a Benchmark with a Baseline or with Best Practice. The term Benchmarking is also used to mean creating a series of Benchmarks over time, and comparing the results to measure progress or improvement.
-- 3:  The Activities in a Value Chain carried out by Suppliers. A Supply Chain typically involves multiple Suppliers, each adding value to the product or Service. See also Value Network.
-- 4: Software that provides Functions that are required by an IT Service. Each Application may be part of more than one IT Service. An Application runs on one or more Servers or Clients. See also Application Management, Application Portfolio.
+What is the definition for "High Availability"?
+- 1:  An approach or design that minimizes or hides the effects of Configuration Item Failure on the users of an IT Service. High Availability solutions are designed to achieve an agreed level of Availability and make use of techniques such as Fault Tolerance, Resilience and fast Recovery to reduce the number of Incidents, and the Impact of Incidents.
+- 2: A Document that describes a formal understanding between two or more parties. An Agreement is not legally binding unless it forms part of a Contract. See also Service Level Agreement, Operational Level Agreement.
+- 3: Something that must be provided to meet a commitment in a Service Level Agreement or a Contract. Deliverable is also used in a more informal way to mean a planned output of any Process.
+- 4: (Service Operation) Transferring an Incident, Problem or Change to a technical team with a higher level of expertise to assist in an Escalation.
 ----------------------------------------------------------------------------------------------------
 Question 12:
-What is the definition for "Configuration Management System (CMS)"?
-- 1: (Service Operation) Taking action to return an IT Service to the Users after Repair and Recovery from an Incident. This is the primary Objective of Incident Management.
-- 2:  A set of tools and databases that are used to manage an IT Service Provider’s Configuration data. The CMS also includes information about Incidents, Problems, Known Errors, Changes and Releases; and it may contain data about employees, Suppliers, locations, Business Units, Customers and Users. The CMS includes tools for collecting, storing, managing, updating, and presenting data about all Configuration Items and their Relationships. The CMS is maintained by Configuration Management and is used by all IT Service Management Processes. See also Configuration Management Database, Service Knowledge Management System.
-- 3: (Continual Service Improvement) An understanding of the Service Provider and IT Services from the point of view of the Business, and an understanding of the Business from the point of view of the Service Provider.
-- 4: Review, Plan and request Changes, in order to obtain the maximum Efficiency and Effectiveness from a Process, Configuration Item, Application, etc.
+What is the definition for "Configuration Management Database (CMDB)"?
+- 1:  A database used to store Configuration Records throughout their Lifecycle. The Configuration Management System maintains one or more CMDBs, and each CMDB stores Attributes of CIs, and Relationships with other CIs.
+- 2: Review, Plan and request Changes, in order to obtain the maximum Efficiency and Effectiveness from a Process, Configuration Item, Application, etc.
+- 3: (Service Strategy) The reduction in average Cost that is possible from increasing the usage of an IT Service or Asset.
+- 4: A set of actions designed to achieve a particular result. Activities are usually defined as part of Processes or Plans, and are documented in Procedures.
 ----------------------------------------------------------------------------------------------------
 Question 13:
-What is the definition for "Failure"?
-- 1: (Service Strategy) The Process or Function responsible for maintaining a Relationship with the Business. Business Relationship Management usually includes: ■ Managing personal Relationships with Business managers ■ Providing input to Service Portfolio Management ■ Ensuring that the IT Service Provider is satisfying the
-- 2:  Loss of ability to Operate to Specification, or to deliver the required output. The term Failure may be used when referring to IT Services, Processes, Activities, Configuration Items, etc. A Failure often causes an Incident.
-- 3:  A Record containing the details of a Change. Each Change Record documents the Lifecycle of a single Change. A Change Record is created for every Request for Change that is received, even those that are subsequently rejected. Change Records should reference the Configuration Items that are affected by the Change. Change Records are stored in the Configuration Management System.
-- 4: (Service Operation) Action taken to repair the Root Cause of an Incident or Problem, or to implement a Workaround. In ISO/IEC 20000, Resolution Processes is the Process group that includes Incident and Problem Management.
+What is the definition for "Business Capacity Management (BCM)"?
+- 1: (Service Transition) Support provided for a new or Changed IT Service for a period of time after it is Released. During Early Life Support the IT Service Provider may review the KPIs, Service Levels and Monitoring Thresholds, and provide additional Resources for Incident and Problem Management.
+- 2: (Service Operation) A technique used to help identify the Business Impact of one or more Problems. A formula is used to calculate Pain Value based on the number of Users affected, the duration of the Downtime, the Impact on each User, and the cost to the Business (if known).
+- 3: (Service Strategy) A pattern of User demand for IT Services. Each User Profile includes one or more Patterns of Business Activity.
+- 4:  In the context of ITSM, Business Capacity Management is the Activity responsible for understanding future Business Requirements for use in the Capacity Plan. See also Service Capacity Management.
 ----------------------------------------------------------------------------------------------------
 Question 14:
-What is the definition for "Total Quality Management (TQM)"?
-- 1: A means of managing a Risk, ensuring that a Business Objective is achieved, or ensuring that a Process is followed. Example Controls include Policies, Procedures, Roles, RAID, door locks, etc. A control is sometimes called a Countermeasure or safeguard. Control also means to manage the utilization or behaviour of a Configuration Item, System or IT Service. Control Objectives for Information and related Technology (COBIT) See COBIT.
-- 2:  A methodology for managing continual Improvement by using a Quality Management System. TQM establishes a Culture involving all people in the Organization in a Process of continual monitoring and improvement.
-- 3: (Service Operation) The Process responsible for managing Events throughout their Lifecycle. Event Management is one of the main Activities of IT Operations.
-- 4: Measured and reported achievement against one or more Service Level Targets. The term Service Level is sometimes used informally to mean Service Level Target.
+What is the definition for "Shift"?
+- 1: A set of actions designed to achieve a particular result. Activities are usually defined as part of Processes or Plans, and are documented in Procedures.
+- 2:  A group or team of people who carry out a specific Role for a fixed period of time. For example there could be four shifts of IT Operations Control personnel to support an IT Service that is used 24 hours a day.
+- 3: (Service Operation) A structured set of questions used by Service Desk staff to ensure they ask the correct questions, and to help them Classify, Resolve and assign Incidents. Diagnostic Scripts may also be made available to Users to help them diagnose and resolve their own Incidents.
+- 4:  The Objective of a Business Process, or of the Business as a whole. Business Objectives support the Business Vision, provide guidance for the IT Strategy, and are often supported by IT Services.
 ----------------------------------------------------------------------------------------------------
 Question 15:
-What is the definition for "Directory Service"?
-- 1:  An Application that manages information about IT Infrastructure available on a network, and corresponding User access Rights.
-- 2: (Service Operation) The Function responsible for managing the physical Environment where the IT Infrastructure is located. Facilities Management includes all aspects of managing the physical Environment, for example power and cooling, building Access Management, and environmental Monitoring.
-- 3: An informal measure of Cost Effectiveness. Value for Money is often based on a comparison with the Cost of alternatives. See also Cost Benefit Analysis.
-- 4: Anything that might exploit a Vulnerability. Any potential cause of an Incident can be considered to be a Threat. For example a fire is a Threat that could exploit the Vulnerability of flammable floor coverings. This term is commonly used in Information Security Management and IT Service Continuity Management, but also applies to other areas such as Problem and Availability Management.
+What is the definition for "Closed"?
+- 1: The part of IT Service Management that focuses on the management of IT Infrastructure rather than Process.
+- 2: The Activity of predicting and controlling the spending of money. Consists of a periodic negotiation cycle to set future Budgets (usually annual) and the day-to-day monitoring and adjusting of current Budgets.
+- 3: The International Organization for Standardization (ISO) is the world’s largest developer of Standards. ISO is a nongovernmental organization that is a network of the national standards institutes of 156 countries. See www.iso.org for further information about ISO.
+- 4:  The final Status in the Lifecycle of an Incident, Problem, Change, etc. When the Status is Closed, no further action is taken.
 ----------------------------------------------------------------------------------------------------
 Question 16:
-What is the definition for "Off the Shelf"?
-- 1:  An Application that manages information about IT Infrastructure available on a network, and corresponding User access Rights.
-- 2: The initial steps of Risk Management. Analysing the value of Assets to the business, identifying Threats to those Assets, and evaluating how Vulnerable each Asset is to those Threats. Risk Assessment can be quantitative (based on numerical data) or qualitative.
-- 3: Ensuring that Policies and Strategy are actually implemented, and that required Processes are correctly followed. Governance includes defining Roles and responsibilities, measuring and reporting, and taking actions to resolve any issues identified.
-- 4: See Commercial Off the Shelf.
+What is the definition for "Incident Record"?
+- 1: (Service Design) A Strategy for responding to an interruption to Service. Commonly used Strategies are Do Nothing, Manual Workaround, Reciprocal Arrangement, Gradual Recovery, Intermediate Recovery, Fast Recovery, Immediate Recovery. Recovery Options may make use of dedicated facilities, or Third Party facilities shared by multiple Businesses.
+- 2: This Process has strong links with Service Level Management.
+- 3:  A Record containing the details of an Incident. Each Incident record documents the Lifecycle of a single Incident.
+- 4: A measurement of the time taken to respond to something. This could be Response Time of a Transaction, or the speed with which an IT Service Provider responds to an Incident or Request for Change, etc.
 ----------------------------------------------------------------------------------------------------
 Question 17:
-What is the definition for "Management of Risk (M_o_R)"?
-- 1: An approach to IT Service Management that emphasizes the importance of coordination and Control across the various Functions, Processes, and Systems necessary to manage the full Lifecycle of IT Services. The Service Management Lifecycle approach considers the Strategy, Design, Transition, Operation and Continuous Improvement of IT Services.
-- 2: A formal definition of Requirements. A Specification may be used to define technical or Operational Requirements, and may be internal or external. Many public Standards consist of a Code of Practice and a Specification. The Specification defines the Standard against which an Organization can be Audited.
-- 3: (Service Operation) Monitoring that looks for patterns of Events to predict possible future Failures. See also Reactive Monitoring.
-- 4: The OGC methodology for managing Risks. M_o_R includes all the Activities required to identify and Control the exposure to Risk, which may have an impact on the achievement of an Organization’s Business Objectives. See www.m-o-r.org for more details.
+What is the definition for "Balanced Scorecard"?
+- 1:  A Record containing the details of an Incident. Each Incident record documents the Lifecycle of a single Incident.
+- 2: Ensuring that Policies and Strategy are actually implemented, and that required Processes are correctly followed. Governance includes defining Roles and responsibilities, measuring and reporting, and taking actions to resolve any issues identified.
+- 3: (Service Transition) The Process responsible for both Configuration Management and Asset Management.
+- 4:  A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
 ----------------------------------------------------------------------------------------------------
 Question 18:
-What is the definition for "Business Customer"?
-- 1:  A recipient of a product or a Service from the Business. For example, if the Business is a car manufacturer then the Business Customer is someone who buys a car.
-- 2: (Service Operation) An Activity that obtains additional Resources when these are needed to meet Service Level Targets or Customer expectations. Escalation may be needed within any IT Service Management Process, but is most commonly associated with Incident Management, Problem Management and the management of Customer complaints. There are two types of Escalation: Functional Escalation and Hierarchic Escalation. eSourcing Capability Model for Service
-- 3: (Service Strategy) The Process responsible for identifying actual Costs of delivering IT Services, comparing these with budgeted costs, and managing variance from the Budget.
-- 4: A person, group, or Business that is not part of the Service Level Agreement for an IT Service, but is required to ensure successful delivery of that IT Service. For example, a software Supplier, a hardware maintenance company, or a facilities department. Requirements for Third Parties are typically specified in Underpinning Contracts or Operational Level Agreements.
+What is the definition for "User"?
+- 1: (Service Operation) The Function responsible for managing the physical Environment where the IT Infrastructure is located. Facilities Management includes all aspects of managing the physical Environment, for example power and cooling, building Access Management, and environmental Monitoring.
+- 2: A person who uses the IT Service on a day-to-day basis. Users are distinct from Customers, as some Customers do not use the IT Service directly.
+- 3: (Service Strategy) An Organization supplying Services to one or more Internal Customers or External Customers. Service Provider is often used as an abbreviation for IT Service Provider.
+- 4: (Service Operation) Providing a single consistent way to communicate with an Organization or Business Unit. For example, a Single Point of Contact for an IT Service Provider is usually called a Service Desk.
 ----------------------------------------------------------------------------------------------------
 Question 19:
-What is the definition for "Brainstorming"?
-- 1: (Service Strategy) The title of one of the Core ITIL publications. Service Strategy establishes an overall Strategy for IT Services and for IT Service Management.
-- 2: A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
-- 3:  A technique that helps a team to generate ideas. Ideas are not reviewed during the Brainstorming session, but at a later stage. Brainstorming is often used by Problem Management to identify possible causes.
-- 4: (Continual Service Improvement) A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
+What is the definition for "Root Cause Analysis (RCA)"?
+- 1:  An Activity that identifies the Root Cause of an Incident or Problem. RCA typically concentrates on IT Infrastructure failures. See also Service Failure Analysis.
+- 2: (Service Operation) A computer that is connected to a network and provides software Functions that are used by other Computers.
+- 3: (Service Transition) A controlled Environment used to Test Configuration Items, Builds, IT Services, Processes, etc.
+- 4: (Service Operation) A stage in the Incident Lifecycle. Detection results in the Incident becoming known to the Service Provider. Detection can be automatic, or can be the result of a user logging an Incident.
 ----------------------------------------------------------------------------------------------------
 Question 20:
-What is the definition for "Performance Management"?
-- 1: To perform as expected. A Process or Configuration Item is said to Operate if it is delivering the Required outputs. Operate also means to perform one or more Operations. For example, to Operate a computer is to do the day-today Operations needed for it to perform as expected.
-- 2: (Service Operation) A computer that is connected to a network and provides software Functions that are used by other Computers.
-- 3: (Service Transition) A Change that must be introduced as soon as possible. For example, to resolve a Major Incident or implement a Security patch. The Change Management Process will normally have a specific Procedure for handling Emergency Changes. See also Emergency Change Advisory Board (ECAB).
-- 4:  The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
+What is the definition for "Standard"?
+- 1: (Service Design) (Continual Service Improvement) An Agreement between an IT Service Provider and another part of the same Organization. An OLA supports the IT Service Provider’s delivery of IT Services to Customers. The OLA defines the goods or Services to be provided and the responsibilities of both parties. For example there could be an OLA: ■ Between the IT Service Provider and a procurement department to obtain hardware in agreed times ■ Between the Service Desk and a Support Group to provide Incident Resolution in agreed times. See also Service Level Agreement.
+- 2: (Service Strategy) The highest of three levels of Planning and delivery (Strategic, Tactical, Operational). Strategic Activities include Objective setting and long-term Planning to achieve the overall Vision.
+- 3: A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
+- 4: Something that must be provided to meet a commitment in a Service Level Agreement or a Contract. Deliverable is also used in a more informal way to mean a planned output of any Process.
 ----------------------------------------------------------------------------------------------------
 Question 21:
-What is the definition for "Reliability"?
-- 1: (Service Strategy) The reduction in average Cost that is possible from increasing the usage of an IT Service or Asset.
-- 2: A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customer’s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
-- 3: (Service Strategy) The Objective of a Business Process, or of the Business as a whole. Business Objectives support the Business Vision, provide guidance for the IT Strategy, and are often supported by IT Services.
-- 4:  (Continual Service Improvement) A measure of how long a Configuration Item or IT Service can perform its agreed Function without interruption. Usually measured as MTBF or MTBSI. The term Reliability can also be used to state how likely it is that a Process, Function, etc. will deliver its required outputs. See also Availability.
+What is the definition for "Demand Management"?
+- 1: The International Organization for Standardization (ISO) is the world’s largest developer of Standards. ISO is a nongovernmental organization that is a network of the national standards institutes of 156 countries. See www.iso.org for further information about ISO.
+- 2: Activities that understand and influence Customer demand for Services and the provision of Capacity to meet these demands. At a Strategic level Demand Management can involve analysis of Patterns of Business Activity and User Profiles. At a tactical level it can involve use of Differential Charging to encourage Customers to use IT Services at less busy times. See also Capacity Management.
+- 3: (Service Strategy) A Strategic Plan designed to achieve defined Objectives.
+- 4: Review, Plan and request Changes, in order to obtain the maximum Efficiency and Effectiveness from a Process, Configuration Item, Application, etc.
 ----------------------------------------------------------------------------------------------------
 Question 22:
-What is the definition for "Status"?
-- 1: The name used by ISO/IEC 20000 for the Process group that includes Release Management. This group does not include any other Processes. Release Process is also used as a synonym for Release Management Process.
-- 2: (Service Strategy) A pattern of User demand for IT Services. Each User Profile includes one or more Patterns of Business Activity.
-- 3: The Process responsible for identifying, assessing and controlling Risks. See also Risk Assessment.
-- 4: The name of a required field in many types of Record. It shows the current stage in the Lifecycle of the associated Configuration Item, Incident, Problem, etc.
+What is the definition for "Balanced Scorecard"?
+- 1:  Justification for a significant item of expenditure. Includes information about Costs, benefits, options, issues, Risks, and possible problems. See also Cost Benefit Analysis.
+- 2: All of the hardware, software, networks, facilities, etc. that are required to develop, Test, deliver, Monitor, Control or support IT Services. The term IT Infrastructure includes all of the Information Technology but not the associated people, Processes and documentation.
+- 3:  A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
+- 4:  A set of tools and databases that are used to manage knowledge and information. The SKMS includes the Configuration Management System, as well as other tools and databases. The SKMS stores, manages, updates, and presents all information that an IT Service Provider needs to manage the full Lifecycle of IT Services.
 ----------------------------------------------------------------------------------------------------
 Question 23:
-What is the definition for "Closure"?
-- 1: (Service Operation) A technique used to help identify the Business Impact of one or more Problems. A formula is used to calculate Pain Value based on the number of Users affected, the duration of the Downtime, the Impact on each User, and the cost to the Business (if known).
-- 2: A relationship between two Organizations that involves working closely together for common goals or mutual benefit. The IT Service Provider should have a Partnership with the Business, and with Third Parties who are critical to the delivery of IT Services. See also Value Network.
-- 3:  The act of changing the Status of an Incident, Problem, Change, etc. to Closed.
-- 4: (Service Operation) A unique name that is used to identify a User, person or Role. The Identity is used to grant Rights to that User, person, or Roles. Example identities might be the username SmithJ or the Role ‘Change manager’.
+What is the definition for "IT Service"?
+- 1: A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customer’s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
+- 2: (Service Design) (Continual Service Improvement) An Agreement between an IT Service Provider and another part of the same Organization. An OLA supports the IT Service Provider’s delivery of IT Services to Customers. The OLA defines the goods or Services to be provided and the responsibilities of both parties. For example there could be an OLA: ■ Between the IT Service Provider and a procurement department to obtain hardware in agreed times ■ Between the Service Desk and a Support Group to provide Incident Resolution in agreed times. See also Service Level Agreement.
+- 3: A description of what the Organization intends to become in the future. A Vision is created by senior management and is used to help influence Culture and Strategic Planning.
+- 4:  The final Status in the Lifecycle of an Incident, Problem, Change, etc. When the Status is Closed, no further action is taken.
 ----------------------------------------------------------------------------------------------------
 Question 24:
-What is the definition for "Performance Management"?
-- 1: (Service Design) (Continual Service Improvement) An agreed time period when a particular IT Service should be Available. For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’. Service Hours should be defined in a Service Level Agreement.
-- 2: See Indirect cost.
-- 3:  The Process responsible for day-to-day Capacity Management Activities. These include monitoring, threshold detection, Performance analysis and Tuning, and implementing changes related to Performance and Capacity.
-- 4: (Service Design) Used to refer to Resources that are not required to deliver the Live IT Services, but are available to support IT Service Continuity Plans. For example a Standby data centre may be maintained to support Hot Standby, Warm Standby or Cold Standby arrangements.
+What is the definition for "Test"?
+- 1: (Service Design) (Continual Service Improvement) The Activity responsible for understanding the Performance and Capacity of IT Services. The Resources used by each IT Service and the pattern of usage over time are collected, recorded, and analysed for use in the Capacity Plan. See also Business Capacity Management, Component Capacity Management.
+- 2: (Service Operation) A stage in the Lifecycle of an IT Service. Service Operation includes a number of Processes and Functions and is the title of one of the Core ITIL publications. See also Operation.
+- 3: (Service Design) (Continual Service Improvement) ISO Specification for Information Security Management. The corresponding Code of Practice is ISO/IEC 17799. See also Standard.
+- 4:  An Activity that verifies that a Configuration Item, IT Service, Process, etc. meets its Specification or agreed Requirements.
 ----------------------------------------------------------------------------------------------------
