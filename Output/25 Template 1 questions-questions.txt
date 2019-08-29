@@ -3,201 +3,201 @@
 ----------------------------------------------------------------------------------------------------
 Question 0:
 Complete the following:
- However , there is likely to be a single control point of coordination , usually in IT __________ or on the Service Desk .
-- 1: Maturity
-- 2: Operations Management
-- 3: Work in Progress (WIP)
-- 4: Security Management
+ A cross-reference must be made to the incident ( s ) which initiated the __________ � and all relevant details must be copied from the Incident Record ( s ) to the __________ .
+- 1: Directory Service
+- 2: Risk
+- 3: Help Desk
+- 4: Problem Record
 ----------------------------------------------------------------------------------------------------
 Question 1:
 Complete the following:
- The definition of __________ is:  A technique used to help identify the Business Impact of one or more Problems. A formula is used to calculate Pain Value based on the number of Users affected, the duration of the Downtime, the Impact on each User, and the cost to the Business (if known).
-- 1: Immediate Recovery
-- 2: Evaluation
-- 3: Downtime
-- 4: Pain Value Analysis
+ The definition of __________ is:  The Process responsible for both Configuration Management and Asset Management.
+- 1: Production Environment
+- 2: Internal Service Provider
+- 3: Request Fulfilment
+- 4: Service Asset and Configuration Management (SACM)
 ----------------------------------------------------------------------------------------------------
 Question 2:
 Complete the following:
- The definition of __________ is: To perform as expected. A Process or Configuration Item is said to __________ if it is delivering the Required outputs. __________ also means to perform one or more Operations. For example, to __________ a computer is to do the day-today Operations needed for it to perform as expected.
-- 1: Operate
-- 2: Information Security Policy
-- 3: Indirect Cost
-- 4: Transaction
+ The definition of __________ is:  The Process responsible for producing and delivering reports of achievement and trends against Service Levels. __________ should agree the format, content and frequency of reports with Customers.
+- 1: IT Service Continuity Management (ITSCM)
+- 2: Configuration Item (CI)
+- 3: Business Relationship Management
+- 4: Service Reporting
 ----------------------------------------------------------------------------------------------------
 Question 3:
 Complete the following:
- The definition of __________ is: A technique that is used to predict the future behaviour of a System, Process, IT Service, Configuration Item, etc. __________ is commonly used in Financial Management, Capacity Management and Availability Management.
-- 1: Root Cause Analysis (RCA)
-- 2: Management System
-- 3: Modelling
-- 4: Project
+ For example , it may be necessary to preserve the log entry for future reference , but at the same time escalate the event to an __________ staff member for action .
+- 1: Fulfilment
+- 2: Operations Management
+- 3: Response Time
+- 4: Category
 ----------------------------------------------------------------------------------------------------
 Question 4:
 Complete the following:
- The definition of __________ is:  An approach to the management of IT Services, Processes, Functions, Assets, etc. There can be several different Control Perspectives on the same IT Service, Process, etc., allowing different individuals or teams to focus on what is important and relevant to their specific Role. Example Control Perspectives include Reactive and Proactive management within IT Operations, or a Lifecycle view for an Application Project team.
-- 1: COBIT
-- 2: Asset Management
-- 3: Availability Plan
-- 4: Control perspective
+ The definition of __________ is: The standard UK government methodology for Project management. See www.ogc.gov.uk/prince2 for more information.
+- 1: Strategic
+- 2: Service Operation
+- 3: PRINCE2
+- 4: Relationship
 ----------------------------------------------------------------------------------------------------
 Question 5:
 Complete the following:
- The definition of __________ is:  An approach or design that minimizes or hides the effects of Configuration Item Failure on the users of an IT Service. __________ solutions are designed to achieve an agreed level of Availability and make use of techniques such as Fault Tolerance, Resilience and fast Recovery to reduce the number of Incidents, and the Impact of Incidents.
-- 1: High Availability
-- 2: Operations Management
-- 3: Asset Register
-- 4: Restore
+ The definition of __________ is: See Ishikawa Diagram.
+- 1: Backup
+- 2: Fishbone Diagram
+- 3: Modelling
+- 4: Insourcing
 ----------------------------------------------------------------------------------------------------
 Question 6:
 Complete the following:
- The definition of __________ is:  A pattern of User demand for IT Services. Each User Profile includes one or more Patterns of Business Activity.
-- 1: Workload
-- 2: User Profile (UP)
-- 3: Lifecycle
-- 4: Procedure
+ The definition of __________ is: The average time taken to restore a Configuration Item or IT Service after a Failure. MTRS is measured from when the CI or IT Service fails until it is fully restored and delivering its normal functionality. See also Mean Time To Repair.
+- 1: Mean Time to Restore Service (MTRS)
+- 2: Exception Report
+- 3: Configuration Management System (CMS)
+- 4: Component Failure Impact Analysis (CFIA)
 ----------------------------------------------------------------------------------------------------
 Question 7:
 Complete the following:
- If a user is suspected of breaches of policy , inappropriate use of resources , or fraudulent use of data , __________ may be required to provide evidence of dates , times and even content of that user�s access to specific Services .
-- 1: Access Management
-- 2: Functional Escalation
-- 3: Knowledge Base
-- 4: Known Error Record
+ The definition of __________ is:  The Activities in a Value Chain carried out by Suppliers. A __________ typically involves multiple Suppliers, each adding value to the product or Service. See also Value Network.
+- 1: Supply Chain
+- 2: Procedure
+- 3: Automatic Call Distribution (ACD)
+- 4: Activity
 ----------------------------------------------------------------------------------------------------
 Question 8:
 Complete the following:
- __________ ?
-- 1: Information Technology (IT)
-- 2: Model
-- 3: Component
-- 4: Proactive Problem Management
+ The definition of __________ is: The part of IT Service Management that focuses on the management of IT Infrastructure rather than Process.
+- 1: Alert
+- 2: Security Management
+- 3: PRINCE2
+- 4: System Management
 ----------------------------------------------------------------------------------------------------
 Question 9:
 Complete the following:
- The definition of __________ is:  A Document that lists all approved Changes and their planned implementation dates. A __________ is sometimes called a Forward Schedule of Change, even though it also contains information about Changes that have already been implemented.
-- 1: Service Request
-- 2: Change Schedule
-- 3: Fishbone Diagram
-- 4: Development
+ The definition of __________ is:  The day-to-day execution, monitoring and management of Business Processes.
+- 1: Value Network
+- 2: Problem Management
+- 3: Business Operations
+- 4: COBIT
 ----------------------------------------------------------------------------------------------------
 Question 10:
 Complete the following:
- The definition of __________ is:  The Process responsible for defining, analysing, Planning, measuring and improving all aspects of the Availability of IT services. __________ is responsible for ensuring that all IT Infrastructure, Processes, Tools, Roles, etc. are appropriate for the agreed Service Level Targets for Availability.
-- 1: Management System
-- 2: Outcome
-- 3: Service Knowledge Management System (SKMS)
-- 4: Availability Management
+ The definition of __________ is: See Remediation.
+- 1: Back-out
+- 2: Process
+- 3: Resilience
+- 4: Capability
 ----------------------------------------------------------------------------------------------------
 Question 11:
 Complete the following:
- The definition of __________ is:  A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
-- 1: Efficiency
-- 2: Planned Downtime
-- 3: Attribute
-- 4: Classification
+ � Involvement in specific initiatives using techniques such as Service Failure Analysis ( SFA ) , __________ Failure Impact Analysis ( CFIA ) , or Fault Tree Analysis ( FTA ) or as members of Technical Observation ( TO ) activities � either as part of the follow-up to major problems or as part of an ongoing Service Improvement Plan , in collaboration with dedicated Availability Management staff .
+- 1: Control
+- 2: Component
+- 3: PRINCE2
+- 4: Supplier
 ----------------------------------------------------------------------------------------------------
 Question 12:
 Complete the following:
- The definition of __________ is: The OGC methodology for managing Risks. M_o_R includes all the Activities required to identify and Control the exposure to Risk, which may have an impact on the achievement of an Organization’s Business Objectives. See www.m-o-r.org for more details.
-- 1: Process Owner
-- 2: Security
-- 3: Management of Risk (M_o_R)
-- 4: Capacity Management
+ Note : If the Service Desk does not work 24/7 and responsibility for first-line incident logging and handling passes to another group , such as __________ or Network Support , out of Service Desk hours , then these staff need to be equally rigorous about logging of incident details .
+- 1: Culture
+- 2: IT Service Continuity Management (ITSCM)
+- 3: IT Operations
+- 4: Response Time
 ----------------------------------------------------------------------------------------------------
 Question 13:
 Complete the following:
- The definition of __________ is:  A Change that must be introduced as soon as possible. For example, to resolve a Major Incident or implement a Security patch. The Change Management Process will normally have a specific Procedure for handling __________s. See also __________ Advisory Board (ECAB).
-- 1: Error
-- 2: Job Scheduling
-- 3: Budget
-- 4: Emergency Change
+ The definition of __________ is:  The second level in a hierarchy of Support Groups involved in the resolution of Incidents and investigation of Problems. Each level contains more specialist skills, or has more time or other resources.
+- 1: Metric
+- 2: Lifecycle
+- 3: Mean Time To Repair (MTTR)
+- 4: Second-line Support
 ----------------------------------------------------------------------------------------------------
 Question 14:
 Complete the following:
- The definition of __________ is: An IT Service that directly supports a Business Process, as opposed to an Infrastructure Service, which is used internally by the IT Service Provider and is not usually visible to the Business. The term __________ is also used to mean a Service that is delivered to Business Customers by Business Units. For example, delivery of financial services to Customers of a bank, or goods to the Customers of a retail store. Successful delivery of __________s often depends on one or more IT Services.
-- 1: Business Service
-- 2: Underpinning Contract (UC)
-- 3: Responsiveness
-- 4: Audit
+ � Involvement in specific initiatives using techniques such as Service Failure Analysis ( SFA ) , Component Failure Impact Analysis ( CFIA ) , or Fault Tree Analysis ( FTA ) or as members of __________ ( TO ) activities � either as part of the follow-up to major problems or as part of an ongoing Service Improvement Plan , in collaboration with dedicated Availability Management staff .
+- 1: Information Technology (IT)
+- 2: Technical Observation
+- 3: Change
+- 4: Definitive Media Library (DML)
 ----------------------------------------------------------------------------------------------------
 Question 15:
 Complete the following:
- The definition of __________ is: See IT __________.
-- 1: Underpinning Contract (UC)
-- 2: Document
-- 3: Emergency Change
-- 4: Operations Control
+ The definition of __________ is:  The structure of a System or IT Service, including the Relationships of Components to each other and to the environment they are in. __________ also includes the Standards and Guidelines that guide the design and evolution of the System.
+- 1: Architecture
+- 2: Internal Sourcing
+- 3: Directory Service
+- 4: Internal Sourcing
 ----------------------------------------------------------------------------------------------------
 Question 16:
 Complete the following:
- The definition of __________ is: A Role responsible for ensuring that a Process is Fit for Purpose. The __________’s responsibilities include sponsorship, Design, Change Management and continual improvement of the Process and its Metrics. This Role is often assigned to the same person who carries out the Process Manager Role, but the two Roles may be separate in larger Organizations.
-- 1: Development Environment
-- 2: Standard
-- 3: Availability Plan
-- 4: Process Owner
+ The definition of __________ is: Something that must happen if a Process, Project, Plan, or IT Service is to succeed. KPIs are used to measure the achievement of each CSF. For example a CSF of ‘protect IT Services when making Changes’ could be measured by KPIs such as ‘percentage reduction of unsuccessful Changes’, ‘percentage reduction in Changes causing Incidents’, etc.
+- 1: System Management
+- 2: Overhead
+- 3: Architecture
+- 4: Critical Success Factor (CSF)
 ----------------------------------------------------------------------------------------------------
 Question 17:
 Complete the following:
- __________ details .
-- 1: Change
-- 2: Early Life Support
-- 3: Role
-- 4: Closure
+ The definition of __________ is:  A stage in the Lifecycle of an IT Service and the title of one of the Core ITIL publications. Continual Service Improvement is responsible for managing improvements to IT Service Management Processes and IT Services. The Performance of the IT Service Provider is continually measured and improvements are made to Processes, IT Services and IT Infrastructure in order to increase Efficiency, Effectiveness, and Cost Effectiveness. See also Plan–Do–Check–Act.
+- 1: Overhead
+- 2: Assessment
+- 3: Continual Service Improvement (CSI)
+- 4: Practice
 ----------------------------------------------------------------------------------------------------
 Question 18:
 Complete the following:
- The definition of __________ is:  (Service Operation) Returning a Configuration Item or an IT Service to a working state. __________ of an IT Service often includes recovering data to a known consistent state. After __________, further steps may be needed before the IT Service can be made available to the Users (Restoration).
-- 1: Recovery
-- 2: Release
-- 3: Management System
-- 4: Downtime
+ The definition of __________ is: A generic term that refers to a number of international Standards and Guidelines for Quality Management Systems. See www.iso.org for more information. See also ISO.
+- 1: Workload
+- 2: Capital Expenditure (CAPEX)
+- 3: ISO 9000
+- 4: Modelling
 ----------------------------------------------------------------------------------------------------
 Question 19:
 Complete the following:
- The definition of __________ is: All people who have an interest in an Organization, Project, IT Service, etc. __________s may be interested in the Activities, targets, Resources, or Deliverables. __________s may include Customers, Partners, employees, shareholders, owners, etc.
-- 1: Tuning
-- 2: Server
-- 3: Stakeholder
-- 4: Technical Observation
+ The definition of __________ is:  An Application that manages information about IT Infrastructure available on a network, and corresponding User access Rights.
+- 1: Directory Service
+- 2: Throughput
+- 3: Restoration of Service
+- 4: Component
 ----------------------------------------------------------------------------------------------------
 Question 20:
 Complete the following:
- The definition of __________ is: See IT __________.
-- 1: Ishikawa Diagram
-- 2: Exception Report
-- 3: Operations Control
-- 4: Production Environment
+ The definition of __________ is:  A measure of the number of Transactions, or other Operations, performed in a fixed time. For example, 5,000 e-mails sent per hour, or 200 disk I/Os per second.
+- 1: Third-line Support
+- 2: Process Owner
+- 3: Throughput
+- 4: Application
 ----------------------------------------------------------------------------------------------------
 Question 21:
 Complete the following:
- It has also been referred to as Rights Management or __________ Management in different organizations .
-- 1: Monitor Control Loop
-- 2: Identity
-- 3: Accredited
-- 4: Service Desk
+ The definition of __________ is: The result of carrying out an Activity; following a Process; delivering an IT Service, etc. The term __________ is used to refer to intended results, as well as to actual results. See also Objective.
+- 1: Efficiency
+- 2: External Metric
+- 3: Resilience
+- 4: Outcome
 ----------------------------------------------------------------------------------------------------
 Question 22:
 Complete the following:
- When a user is granted access to an application , it should already have been established by the organization ( usually the Human Resources or __________ Department ) that the user is who they say they are .
-- 1: Configuration Item (CI)
-- 2: Incident Record
-- 3: Security
-- 4: Strategic
+ Access Management is a process that is executed by all Technical and __________ Management functions and is usually not a separate function .
+- 1: Application
+- 2: Optimize
+- 3: Supplier
+- 4: Requirement
 ----------------------------------------------------------------------------------------------------
 Question 23:
 Complete the following:
- The definition of __________ is:  The expected time that a Configuration Item will be unavailable due to planned maintenance Activity.
-- 1: Service Knowledge Management System (SKMS)
-- 2: Architecture
-- 3: Shift
-- 4: Service Maintenance Objective
+ The definition of __________ is:  The second level in a hierarchy of Support Groups involved in the resolution of Incidents and investigation of Problems. Each level contains more specialist skills, or has more time or other resources.
+- 1: Access Management
+- 2: Test
+- 3: IT Service Management (ITSM)
+- 4: Second-line Support
 ----------------------------------------------------------------------------------------------------
 Question 24:
 Complete the following:
- The definition of __________ is:  The Process responsible for both Configuration Management and Asset Management.
-- 1: Service Asset and Configuration Management (SACM)
-- 2: Operations Bridge
-- 3: Help Desk
-- 4: Availability Management
+ However , there is likely to be a single control point of coordination , usually in __________ or on the Service Desk .
+- 1: IT Operations Management
+- 2: IT Operations
+- 3: Guideline
+- 4: Operation
 ----------------------------------------------------------------------------------------------------

@@ -2,77 +2,77 @@
 25 Template 0 questions
 ----------------------------------------------------------------------------------------------------
 Question 0:
- A stage in the Lifecycle of an IT Service. Service Design includes a number of Processes and Functions and is the title of one of the Core ITIL publications. See also Design.
+The Resources required to deliver an identifiable part of an IT Service. Workloads may be Categorized by Users, groups of Users, or Functions within the IT Service. This is used to assist in analysing and managing the Capacity, Performance and Utilization of Configuration Items and IT Services. The term Workload is sometimes used as a synonym for Throughput.
 ----------------------------------------------------------------------------------------------------
 Question 1:
-A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
-----------------------------------------------------------------------------------------------------
-Question 2:
- The Process responsible for allowing Users to make use of IT Services, data, or other Assets. Access Management helps to protect the Confidentiality, Integrity and Availability of Assets by ensuring that only authorized Users are able to access or modify the Assets. Access Management is sometimes referred to as Rights Management or Identity Management.
-----------------------------------------------------------------------------------------------------
-Question 3:
- A measure of whether the right amount of resources has been used to deliver a Process, Service or Activity. An Efficient Process achieves its Objectives with the minimum amount of time, money, people or other resources. See also KPI.
-----------------------------------------------------------------------------------------------------
-Question 4:
- Justification for a significant item of expenditure. Includes information about Costs, benefits, options, issues, Risks, and possible problems. See also Cost Benefit Analysis.
-----------------------------------------------------------------------------------------------------
-Question 5:
- (Service Operation) Copying data to protect against loss of Integrity or Availability of the original.
-----------------------------------------------------------------------------------------------------
-Question 6:
- A set of tools and databases that are used to manage knowledge and information. The SKMS includes the Configuration Management System, as well as other tools and databases. The SKMS stores, manages, updates, and presents all information that an IT Service Provider needs to manage the full Lifecycle of IT Services.
-----------------------------------------------------------------------------------------------------
-Question 7:
- The Objective of a Business Process, or of the Business as a whole. Business Objectives support the Business Vision, provide guidance for the IT Strategy, and are often supported by IT Services.
-----------------------------------------------------------------------------------------------------
-Question 8:
- Any Resource or Capability. Assets of a Service Provider including anything that could contribute to the delivery of a Service. Assets can be one of the following types: Management, Organization, Process, Knowledge, People, Information, Applications, Infrastructure, and Financial Capital.
-----------------------------------------------------------------------------------------------------
-Question 9:
-The defined purpose or aim of a Process, an Activity or an Organization as a whole. Objectives are usually expressed as measurable targets. The term Objective is also informally used to mean a Requirement. See also Outcome.
-----------------------------------------------------------------------------------------------------
-Question 10:
- The ability of an Organization, person, Process, Application, Configuration Item or IT Service to carry out an Activity. Capabilities are intangible Assets of an Organization. See also Resource.
-----------------------------------------------------------------------------------------------------
-Question 11:
- An approach or design that minimizes or hides the effects of Configuration Item Failure on the users of an IT Service. High Availability solutions are designed to achieve an agreed level of Availability and make use of techniques such as Fault Tolerance, Resilience and fast Recovery to reduce the number of Incidents, and the Impact of Incidents.
-----------------------------------------------------------------------------------------------------
-Question 12:
- A database used to store Configuration Records throughout their Lifecycle. The Configuration Management System maintains one or more CMDBs, and each CMDB stores Attributes of CIs, and Relationships with other CIs.
-----------------------------------------------------------------------------------------------------
-Question 13:
- In the context of ITSM, Business Capacity Management is the Activity responsible for understanding future Business Requirements for use in the Capacity Plan. See also Service Capacity Management.
-----------------------------------------------------------------------------------------------------
-Question 14:
- A group or team of people who carry out a specific Role for a fixed period of time. For example there could be four shifts of IT Operations Control personnel to support an IT Service that is used 24 hours a day.
-----------------------------------------------------------------------------------------------------
-Question 15:
- The final Status in the Lifecycle of an Incident, Problem, Change, etc. When the Status is Closed, no further action is taken.
-----------------------------------------------------------------------------------------------------
-Question 16:
- A Record containing the details of an Incident. Each Incident record documents the Lifecycle of a single Incident.
-----------------------------------------------------------------------------------------------------
-Question 17:
- A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
-----------------------------------------------------------------------------------------------------
-Question 18:
 A person who uses the IT Service on a day-to-day basis. Users are distinct from Customers, as some Customers do not use the IT Service directly.
 ----------------------------------------------------------------------------------------------------
+Question 2:
+A Document containing details of one or more KPIs or other important targets that have exceeded defined Thresholds. Examples include SLA targets being missed or about to be missed, and a Performance Metric indicating a potential Capacity problem.
+----------------------------------------------------------------------------------------------------
+Question 3:
+ The Process responsible for managing the Service Portfolio. Service Portfolio Management considers Services in terms of the Business value that they provide.
+----------------------------------------------------------------------------------------------------
+Question 4:
+ An unplanned interruption to an IT Service or reduction in the Quality of an IT Service. Failure of a Configuration Item that has not yet affected Service is also an Incident. For example Failure of one disk from a mirror set.
+----------------------------------------------------------------------------------------------------
+Question 5:
+ A stage in the Incident and Problem Lifecycles. The purpose of Diagnosis is to identify a Workaround for an Incident or the Root Cause of a Problem.
+----------------------------------------------------------------------------------------------------
+Question 6:
+ A piece of information about a Configuration Item. Examples are: name, location, Version number, and Cost. Attributes of CIs are recorded in the Configuration Management Database (CMDB). See also Relationship.
+----------------------------------------------------------------------------------------------------
+Question 7:
+ A database containing all Known Error Records. This database is created by Problem Management and used by Incident and Problem Management. The Known Error Database is part of the Service Knowledge Management System.
+----------------------------------------------------------------------------------------------------
+Question 8:
+ (Continual Service Improvement) An agreed time period when a particular IT Service should be Available. For example, ‘Monday–Friday 08:00 to 17:00 except public holidays’. Service Hours should be defined in a Service Level Agreement.
+----------------------------------------------------------------------------------------------------
+Question 9:
+Officially authorized to carry out a Role. For example, an Accredited body may be authorized to provide training or to conduct Audits.
+----------------------------------------------------------------------------------------------------
+Question 10:
+ (Service Operation) Copying data to protect against loss of Integrity or Availability of the original.
+----------------------------------------------------------------------------------------------------
+Question 11:
+A Document containing steps that specify how to achieve an Activity. Procedures are defined as part of Processes. See also Work Instruction.
+----------------------------------------------------------------------------------------------------
+Question 12:
+ The Activity responsible for ensuring that adding, modifying or removing a CI is properly managed, for example by submitting a Request for Change or Service Request.
+----------------------------------------------------------------------------------------------------
+Question 13:
+ The Process responsible for producing and delivering reports of achievement and trends against Service Levels. Service Reporting should agree the format, content and frequency of reports with Customers.
+----------------------------------------------------------------------------------------------------
+Question 14:
+ An Organization supplying Services to one or more Internal Customers or External Customers. Service Provider is often used as an abbreviation for IT Service Provider.
+----------------------------------------------------------------------------------------------------
+Question 15:
+ A structured set of questions used by Service Desk staff to ensure they ask the correct questions, and to help them Classify, Resolve and assign Incidents. Diagnostic Scripts may also be made available to Users to help them diagnose and resolve their own Incidents.
+----------------------------------------------------------------------------------------------------
+Question 16:
+An IT Service that directly supports a Business Process, as opposed to an Infrastructure Service, which is used internally by the IT Service Provider and is not usually visible to the Business. The term Business Service is also used to mean a Service that is delivered to Business Customers by Business Units. For example, delivery of financial services to Customers of a bank, or goods to the Customers of a retail store. Successful delivery of Business Services often depends on one or more IT Services.
+----------------------------------------------------------------------------------------------------
+Question 17:
+A generic term that means a Customer, the Business or a Business Customer. For example, Client Manager may be used as a synonym for Account Manager. The term client is also used to mean: ■ A computer that is used directly by a User, for example a PC, Handheld Computer, or Workstation ■ The part of a Client-Server Application that the User directly interfaces with. For example an e-mail Client.
+----------------------------------------------------------------------------------------------------
+Question 18:
+The amount of money spent on a specific Activity, IT Service, or Business Unit. Costs consist of real cost (money), notional cost such as people’s time, and Depreciation.
+----------------------------------------------------------------------------------------------------
 Question 19:
- An Activity that identifies the Root Cause of an Incident or Problem. RCA typically concentrates on IT Infrastructure failures. See also Service Failure Analysis.
+All people who have an interest in an Organization, Project, IT Service, etc. Stakeholders may be interested in the Activities, targets, Resources, or Deliverables. Stakeholders may include Customers, Partners, employees, shareholders, owners, etc.
 ----------------------------------------------------------------------------------------------------
 Question 20:
-A mandatory Requirement. Examples include ISO/IEC 20000 (an international Standard), an internal security standard for Unix configuration, or a government standard for how financial Records should be maintained. The term Standard is also used to refer to a Code of Practice or Specification published by a Standards Organization such as ISO or BSI. See also Guideline.
+ An IT Service Provider that is part of the same Organization as its Customer. An IT Service Provider may have both Internal Customers and External Customers.
 ----------------------------------------------------------------------------------------------------
 Question 21:
-Activities that understand and influence Customer demand for Services and the provision of Capacity to meet these demands. At a Strategic level Demand Management can involve analysis of Patterns of Business Activity and User Profiles. At a tactical level it can involve use of Differential Charging to encourage Customers to use IT Services at less busy times. See also Capacity Management.
+ Repeated observation of a Configuration Item, IT Service or Process to detect Events and to ensure that the current status is known.
 ----------------------------------------------------------------------------------------------------
 Question 22:
- A management tool developed by Drs Robert Kaplan (Harvard Business School) and David Norton. A Balanced Scorecard enables a Strategy to be broken down into Key Performance Indicators. Performance against the KPIs is used to demonstrate how well the Strategy is being achieved. A Balanced Scorecard has four major areas, each of which has a small number of KPIs. The same four areas are considered at different levels of detail throughout the Organization.
+Officially authorized to carry out a Role. For example, an Accredited body may be authorized to provide training or to conduct Audits.
 ----------------------------------------------------------------------------------------------------
 Question 23:
-A Service provided to one or more Customers by an IT Service Provider. An IT Service is based on the use of Information Technology and supports the Customer’s Business Processes. An IT Service is made up from a combination of people, Processes and technology and should be defined in a Service Level Agreement.
+A generic term that refers to a number of international Standards and Guidelines for Quality Management Systems. See www.iso.org for more information. See also ISO.
 ----------------------------------------------------------------------------------------------------
 Question 24:
- An Activity that verifies that a Configuration Item, IT Service, Process, etc. meets its Specification or agreed Requirements.
+The boundary, or extent, to which a Process, Procedure, Certification, Contract, etc. applies. For example the Scope of Change Management may include all Live IT Services and related Configuration Items, the Scope of an ISO/IEC 20000 Certificate may include all IT Services delivered out of a named data centre.
 ----------------------------------------------------------------------------------------------------
